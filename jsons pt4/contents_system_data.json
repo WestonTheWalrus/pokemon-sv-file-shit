@@ -1,0 +1,31 @@
+{
+  "Wash": {
+    "SSizePokemon": {
+      "SpongeScale": 0.4,
+      "ShowerScale": 0.15,
+      "SpongeRange": 100.0,
+      "ShowerRange": 150.0,
+      "PointInterval": 0.1,
+      "BubblePosBlurring": 0.03,
+      "BubbleScale": 0.5
+    },
+    "MSizePokemon": {
+      "SpongeScale": 0.4,
+      "ShowerScale": 0.15,
+      "SpongeRange": 100.0,
+      "ShowerRange": 150.0,
+      "PointInterval": 0.2,
+      "BubblePosBlurring": 0.08,
+      "BubbleScale": 1.0
+    },
+    "LSizePokemon": {
+      "SpongeScale": 0.4,
+      "ShowerScale": 0.15,
+      "SpongeRange": 100.0,
+      "ShowerRange": 150.0,
+      "PointInterval": 0.5,
+      "BubblePosBlurring": 0.08,
+      "BubbleScale": 2.0
+    }
+  }
+}

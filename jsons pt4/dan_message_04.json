@@ -1,0 +1,7 @@
+{
+  "param": {
+    "messageCondition": "RushStart",
+    "priority": 0,
+    "messageId": 0
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "values": [
+    {
+      "layerName": "AREA_BLOCK",
+      "transition": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 0.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "DEMO",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "DEMO_SYS",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 3.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "EVENT",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "SCurve",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "EVENT_CAVE",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Exp1",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "EVENT_LOW",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "Stop"
+      }
+    },
+    {
+      "layerName": "EVENT_MID",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "EVENT_STOP",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "Stop"
+      }
+    },
+    {
+      "layerName": "EVENT_VS",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "FACILITY",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 90.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "FIELD",
+      "transition": {
+        "fadeInTime": 3.0,
+        "fadeOutTime": 3.0,
+        "delayTime": 0.2,
+        "holdTime": 300.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "SCurve",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "FIELD_FIRST",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 1.5,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "SCurve",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "GAMEOVER",
+      "transition": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 0.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "Stop"
+      }
+    },
+    {
+      "layerName": "GYM",
+      "transition": {
+        "fadeInTime": 3.0,
+        "fadeOutTime": 1.0,
+        "delayTime": 0.1,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "LOCATION",
+      "transition": {
+        "fadeInTime": 3.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.1,
+        "holdTime": 90.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "ME",
+      "transition": {
+        "fadeInTime": 1.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "Stop"
+      }
+    },
+    {
+      "layerName": "MINI_GAME",
+      "transition": {
+        "fadeInTime": 3.0,
+        "fadeOutTime": 2.5,
+        "delayTime": 0.1,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "POKECEN",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 600.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Exp1",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "RESULT",
+      "transition": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "Stop"
+      }
+    },
+    {
+      "layerName": "SYSTEM",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Exp1",
+        "storeBehaviour": "Stop"
+      }
+    },
+    {
+      "layerName": "SYSTEM_NET",
+      "transition": {
+        "fadeInTime": 3.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "TEAM_BATTLE",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 1.0,
+        "delayTime": 0.1,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "TOWN_C01",
+      "transition": {
+        "fadeInTime": 3.0,
+        "fadeOutTime": 3.0,
+        "delayTime": 0.1,
+        "holdTime": 300.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "SCurve",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "VS_AJITO",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.1,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "VS_HIGH",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.1,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "VS_RAID",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 3.5,
+        "delayTime": 0.1,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "VS_TRAINER",
+      "transition": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.1,
+        "holdTime": 0.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "layerName": "VS_WILD",
+      "transition": {
+        "fadeInTime": 1.5,
+        "fadeOutTime": 2.0,
+        "delayTime": 0.1,
+        "holdTime": 90.0,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "storeBehaviour": "AutoResume"
+      }
+    }
+  ]
+}

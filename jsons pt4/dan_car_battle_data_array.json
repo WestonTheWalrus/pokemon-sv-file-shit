@@ -1,0 +1,139 @@
+{
+  "values": [
+    {
+      "danBossCarBattleStruct": {
+        "typeEnum": "Dark",
+        "difficultEnum": "Easy",
+        "level": 20,
+        "actualValue": {
+          "hp": 80,
+          "atk": 36,
+          "def": 47,
+          "spAtk": 35,
+          "spDef": 38,
+          "agi": 30
+        },
+        "hpCoef": 2,
+        "waza1": "WAZA_MOOBIRUKOUGEKI2",
+        "waza2": "WAZA_SUPIIDOSUTAA",
+        "waza3": "WAZA_KINZOKUON",
+        "waza4": "WAZA_BAAKUAUTO",
+        "radio": 1,
+        "pokemonId": 0,
+        "trainerId": "dan_aku_boss_01",
+        "eventId": "dan_aku_boss_01",
+        "tokuseiId": "TOKUSEI_IKAKU",
+        "type1": "Aku",
+        "type2": "Aku"
+      }
+    },
+    {
+      "danBossCarBattleStruct": {
+        "typeEnum": "Fairy",
+        "difficultEnum": "Easy",
+        "level": 50,
+        "actualValue": {
+          "hp": 190,
+          "atk": 90,
+          "def": 120,
+          "spAtk": 70,
+          "spDef": 90,
+          "agi": 100
+        },
+        "hpCoef": 2,
+        "waza1": "WAZA_MOOBIRUKOUGEKI5",
+        "waza2": "WAZA_HOIIRUSUPIN",
+        "waza3": "WAZA_AIANROORAA",
+        "waza4": "WAZA_AYASIIHIKARI",
+        "radio": 1,
+        "pokemonId": 0,
+        "trainerId": "dan_fairy_boss_01",
+        "eventId": "dan_fairy_boss_01",
+        "tokuseiId": "TOKUSEI_MISUTOMEIKAA",
+        "type1": "Fairy",
+        "type2": "Fairy"
+      }
+    },
+    {
+      "danBossCarBattleStruct": {
+        "typeEnum": "Fighting",
+        "difficultEnum": "Easy",
+        "level": 56,
+        "actualValue": {
+          "hp": 204,
+          "atk": 95,
+          "def": 120,
+          "spAtk": 80,
+          "spDef": 85,
+          "agi": 100
+        },
+        "hpCoef": 2,
+        "waza1": "WAZA_MOOBIRUKOUGEKI4",
+        "waza2": "WAZA_HOIIRUSUPIN",
+        "waza3": "WAZA_GIATHENZI",
+        "waza4": "WAZA_10MANBARIKI",
+        "radio": 1,
+        "pokemonId": 0,
+        "trainerId": "dan_kakutou_boss_01",
+        "eventId": "dan_kakutou_boss_01",
+        "tokuseiId": "TOKUSEI_ZIKYUURYOKU",
+        "type1": "Kakutou",
+        "type2": "Kakutou"
+      }
+    },
+    {
+      "danBossCarBattleStruct": {
+        "typeEnum": "Fire",
+        "difficultEnum": "Easy",
+        "level": 26,
+        "actualValue": {
+          "hp": 102,
+          "atk": 49,
+          "def": 60,
+          "spAtk": 29,
+          "spDef": 51,
+          "agi": 25
+        },
+        "hpCoef": 2,
+        "waza1": "WAZA_MOOBIRUKOUGEKI",
+        "waza2": "WAZA_IYANAOTO",
+        "waza3": "WAZA_SUPIIDOSUTAA",
+        "waza4": "WAZA_OOBAAHIITO",
+        "radio": 1,
+        "pokemonId": 0,
+        "trainerId": "dan_hono_boss_01",
+        "eventId": "dan_honoo_boss_01",
+        "tokuseiId": "TOKUSEI_KASOKU",
+        "type1": "Honoo",
+        "type2": "Honoo"
+      }
+    },
+    {
+      "danBossCarBattleStruct": {
+        "typeEnum": "Poison",
+        "difficultEnum": "Easy",
+        "level": 32,
+        "actualValue": {
+          "hp": 126,
+          "atk": 60,
+          "def": 80,
+          "spAtk": 50,
+          "spDef": 70,
+          "agi": 70
+        },
+        "hpCoef": 2,
+        "waza1": "WAZA_MOOBIRUKOUGEKI3",
+        "waza2": "WAZA_HOIIRUSUPIN",
+        "waza3": "WAZA_SUMOGGU",
+        "waza4": "WAZA_NITOROTYAAZI",
+        "radio": 1,
+        "pokemonId": 0,
+        "trainerId": "dan_doku_boss_01",
+        "eventId": "dan_doku_boss_01",
+        "tokuseiId": "TOKUSEI_DOKUGESYOU",
+        "type1": "Doku",
+        "type2": "Doku"
+      }
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "values": [
+    {
+      "layerName": "AREA_BLOCK",
+      "priority": 880,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "DEMO_SYS",
+      "priority": 920,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "DEMO",
+      "priority": 950,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "EVENT",
+      "priority": 900,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "EVENT_CAVE",
+      "priority": 910,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "EVENT_LOW",
+      "priority": 510,
+      "storeBehaviour": "Stop",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "EVENT_MID",
+      "priority": 515,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "EVENT_STOP",
+      "priority": 730,
+      "storeBehaviour": "Stop",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "EVENT_VS",
+      "priority": 525,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "FACILITY",
+      "priority": 500,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": false,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "FIELD",
+      "priority": 100,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "FIELD_FIRST",
+      "priority": 650,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "GAMEOVER",
+      "priority": 1000,
+      "storeBehaviour": "Stop",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "GYM",
+      "priority": 400,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "LOCATION",
+      "priority": 200,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "ME",
+      "priority": 980,
+      "storeBehaviour": "Stop",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": true,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "MINI_GAME",
+      "priority": 850,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "POKECEN",
+      "priority": 350,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": false,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": true
+    },
+    {
+      "layerName": "RESULT",
+      "priority": 800,
+      "storeBehaviour": "Stop",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "SYSTEM",
+      "priority": 10,
+      "storeBehaviour": "Stop",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "SYSTEM_NET",
+      "priority": 580,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "TEAM_BATTLE",
+      "priority": 700,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "TOWN_C01",
+      "priority": 300,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": true
+    },
+    {
+      "layerName": "VS_AJITO",
+      "priority": 740,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "VS_HIGH",
+      "priority": 750,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "VS_RAID",
+      "priority": 780,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "VS_TRAINER",
+      "priority": 600,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    },
+    {
+      "layerName": "VS_WILD",
+      "priority": 550,
+      "storeBehaviour": "AutoResume",
+      "shouldResetAfterStop": false,
+      "shouldRestoreAfterFinish": true,
+      "allowReTriggerEvent": false,
+      "isDiegeticMusic": false
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "values": [
+    {
+      "eventName": "EV_COMMON_0140_B",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "Stop"
+      }
+    },
+    {
+      "eventName": "EV_COMMON_0190",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 0.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": true,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "EV_LEGEND_0020_B",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 0.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "EV_LEGEND_0025_B",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 2.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": true,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "EV_TEAM_0020_E",
+      "override": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 2.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": true,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": true,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "EV_TEAM_0040_C",
+      "override": {
+        "fadeInTime": 2.0,
+        "fadeOutTime": 2.0,
+        "delayTime": 2.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": true,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": true,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "EV_TEAM_0110_F",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 1.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "GYM_MINIGAME_KOORI_READY",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 3.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "GYM_TRAINING_KOORI_READY",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 3.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "TEAM_BOSS_VS_FINISH",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 5.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": false,
+        "storeBehaviour": "None"
+      }
+    },
+    {
+      "eventName": "VS_GYM_ACCEPT_NORMAL",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 3.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_DRAGON_1ST_EV_C",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 3.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_DRAGON_2ND_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 5.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_HAGANE_1ST_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_HAGANE_2ND_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_HIKOU_1ST_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_HIKOU_2ND_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_IWA_1ST_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_IWA_2ND_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_JIMEN_1ST_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    },
+    {
+      "eventName": "VS_NUSHI_JIMEN_2ND_EV_A",
+      "override": {
+        "fadeInTime": 0.0,
+        "fadeOutTime": 8.0,
+        "delayTime": 0.0,
+        "holdTime": 0.0,
+        "overrideFadeInTime": false,
+        "overrideFadeOutTime": true,
+        "overrideDelayTime": false,
+        "overrideHoldTime": false,
+        "fadeInCurve": "Linear",
+        "fadeOutCurve": "Linear",
+        "overrideFadeInCurve": false,
+        "overrideFadeOutCurve": false,
+        "overrideStoreBehaviour": true,
+        "storeBehaviour": "AutoResume"
+      }
+    }
+  ]
+}

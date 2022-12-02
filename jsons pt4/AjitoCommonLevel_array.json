@@ -1,0 +1,154 @@
+{
+  "values": [
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Dark",
+        "ajitoDifficultEnum": "Easy",
+        "clearPokemonNum": 30,
+        "minPokemonLv": 10,
+        "maxPokemonLv": 15,
+        "lpCoefficient": 50
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Dark",
+        "ajitoDifficultEnum": "Hard",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 50,
+        "maxPokemonLv": 65,
+        "lpCoefficient": 200
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Dark",
+        "ajitoDifficultEnum": "Normal",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 15,
+        "maxPokemonLv": 25,
+        "lpCoefficient": 100
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fairy",
+        "ajitoDifficultEnum": "Easy",
+        "clearPokemonNum": 30,
+        "minPokemonLv": 30,
+        "maxPokemonLv": 40,
+        "lpCoefficient": 50
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fairy",
+        "ajitoDifficultEnum": "Hard",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 50,
+        "maxPokemonLv": 65,
+        "lpCoefficient": 200
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fairy",
+        "ajitoDifficultEnum": "Normal",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 45,
+        "maxPokemonLv": 50,
+        "lpCoefficient": 100
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fighting",
+        "ajitoDifficultEnum": "Easy",
+        "clearPokemonNum": 30,
+        "minPokemonLv": 40,
+        "maxPokemonLv": 50,
+        "lpCoefficient": 50
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fighting",
+        "ajitoDifficultEnum": "Hard",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 50,
+        "maxPokemonLv": 65,
+        "lpCoefficient": 200
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fighting",
+        "ajitoDifficultEnum": "Normal",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 40,
+        "maxPokemonLv": 50,
+        "lpCoefficient": 100
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fire",
+        "ajitoDifficultEnum": "Easy",
+        "clearPokemonNum": 30,
+        "minPokemonLv": 15,
+        "maxPokemonLv": 20,
+        "lpCoefficient": 50
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fire",
+        "ajitoDifficultEnum": "Hard",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 50,
+        "maxPokemonLv": 65,
+        "lpCoefficient": 200
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Fire",
+        "ajitoDifficultEnum": "Normal",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 25,
+        "maxPokemonLv": 30,
+        "lpCoefficient": 100
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Poison",
+        "ajitoDifficultEnum": "Easy",
+        "clearPokemonNum": 30,
+        "minPokemonLv": 20,
+        "maxPokemonLv": 30,
+        "lpCoefficient": 50
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Poison",
+        "ajitoDifficultEnum": "Hard",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 50,
+        "maxPokemonLv": 65,
+        "lpCoefficient": 200
+      }
+    },
+    {
+      "ajitoCommonLevelStruct": {
+        "ajitoTypeEnum": "Poison",
+        "ajitoDifficultEnum": "Normal",
+        "clearPokemonNum": 50,
+        "minPokemonLv": 35,
+        "maxPokemonLv": 40,
+        "lpCoefficient": 100
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "walk_fetch_range": 100.0,
+  "walk_release_range": 120.0,
+  "box_fetch_range": 100.0,
+  "box_release_range": 120.0,
+  "box_revival": {
+    "revivalRate": 500,
+    "quantity_data": {
+      "lottery_00": {
+        "rate": 7000,
+        "num": 1
+      },
+      "lottery_01": {
+        "rate": 2900,
+        "num": 5
+      },
+      "lottery_02": {
+        "rate": 90,
+        "num": 10
+      },
+      "lottery_03": {
+        "rate": 10,
+        "num": -1
+      },
+      "lottery_04": {
+        "rate": 0,
+        "num": 0
+      }
+    },
+    "num_data": {
+      "lottery_00": {
+        "rate": 2500,
+        "num": 10
+      },
+      "lottery_01": {
+        "rate": 3900,
+        "num": 30
+      },
+      "lottery_02": {
+        "rate": 3000,
+        "num": 50
+      },
+      "lottery_03": {
+        "rate": 500,
+        "num": 100
+      },
+      "lottery_04": {
+        "rate": 90,
+        "num": 200
+      },
+      "lottery_05": {
+        "rate": 10,
+        "num": 777
+      },
+      "lottery_06": {
+        "rate": 0,
+        "num": 0
+      },
+      "lottery_07": {
+        "rate": 0,
+        "num": 0
+      },
+      "lottery_08": {
+        "rate": 0,
+        "num": 0
+      }
+    }
+  },
+  "walk_revival": {
+    "revivalRate": 5000,
+    "quantity_data": {
+      "lottery_00": {
+        "rate": 90,
+        "num": 1
+      },
+      "lottery_01": {
+        "rate": 2500,
+        "num": 5
+      },
+      "lottery_02": {
+        "rate": 6000,
+        "num": 10
+      },
+      "lottery_03": {
+        "rate": 1400,
+        "num": 20
+      },
+      "lottery_04": {
+        "rate": 10,
+        "num": -1
+      }
+    },
+    "num_data": {
+      "lottery_00": {
+        "rate": 5000,
+        "num": 1
+      },
+      "lottery_01": {
+        "rate": 2000,
+        "num": 3
+      },
+      "lottery_02": {
+        "rate": 2000,
+        "num": 5
+      },
+      "lottery_03": {
+        "rate": 700,
+        "num": 10
+      },
+      "lottery_04": {
+        "rate": 200,
+        "num": 30
+      },
+      "lottery_05": {
+        "rate": 90,
+        "num": 50
+      },
+      "lottery_06": {
+        "rate": 9,
+        "num": 100
+      },
+      "lottery_07": {
+        "rate": 1,
+        "num": 200
+      },
+      "lottery_08": {
+        "rate": 0,
+        "num": 0
+      }
+    }
+  },
+  "walk_voice_length": 10.0,
+  "walk_voice_interval_min": 30,
+  "walk_voice_interval_max": 90
+}

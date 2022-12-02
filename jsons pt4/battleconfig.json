@@ -1,0 +1,105 @@
+{
+  "fcam_zoom_toprig_radius": 4.5,
+  "fcam_zoom_toprig_height": 4.0,
+  "fcam_zoom_midrig_radius": 3.0,
+  "fcam_zoom_midrig_height": 1.0,
+  "fcam_zoom_lowrig_radius": 2.0,
+  "fcam_zoom_lowrig_height": -0.3,
+  "fcam_zoom_toprig_radius_2": 4.5,
+  "fcam_zoom_toprig_height_2": 4.0,
+  "fcam_zoom_midrig_radius_2": 3.0,
+  "fcam_zoom_midrig_height_2": 1.0,
+  "fcam_zoom_lowrig_radius_2": 2.0,
+  "fcam_zoom_lowrig_height_2": -0.3,
+  "fcam_cent_toprig_radius": 8.0,
+  "fcam_cent_toprig_height": 7.0,
+  "fcam_cent_midrig_radius": 4.5,
+  "fcam_cent_midrig_height": 1.0,
+  "fcam_cent_lowrig_radius": 3.0,
+  "fcam_cent_lowrig_height": -0.5,
+  "fcam_offset_center": {
+    "x": 0.0,
+    "y": 0.5,
+    "z": 1.0
+  },
+  "fcam_offset_poke_0": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_offset_poke_1": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_offset_poke_2": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_offset_poke_3": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_offset_tr_0": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_offset_tr_1": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_offset_tr_2": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_offset_tr_3": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "fcam_zoom_start_angle": 30.0,
+  "fcam_zoom_min_angle": -60.0,
+  "fcam_zoom_max_angle": 60.0,
+  "fcam_zoom_start_height": 0.7,
+  "fcam_zoom_start_angle_2": 30.0,
+  "fcam_zoom_min_angle_2": -60.0,
+  "fcam_zoom_max_angle_2": 60.0,
+  "fcam_zoom_start_height_2": 0.7,
+  "fcam_cent_start_height_S": 0.7,
+  "fcam_cent_start_height_M": 0.7,
+  "fcam_cent_start_height_L": 0.7,
+  "fcam_cent_start_height_LL": 0.7,
+  "fcam_poke_locator": "eff_front01",
+  "fcam_trainer_locator": "loc_eff_head",
+  "fcam_rot_speed_x": -0.03,
+  "fcam_rot_speed_y": 0.03,
+  "fcam_start_stick_length": 0.5,
+  "fieldgem_dropup_rate": 3,
+  "wazamsg_is_pre_msg_time": true,
+  "wazamsg_pre_msg_time": 0.0,
+  "wazamsg_is_post_msg_time": true,
+  "wazamsg_post_msg_time": 1.5,
+  "wazamsg_is_sub_msg_time": true,
+  "wazamsg_sub_msg_time": 1.5,
+  "wazamsg_is_sub_msg_close_time": true,
+  "wazamsg_sub_msg_close_time": 1.5,
+  "wild_trpos_check_size": 1.5,
+  "random_camera_start_frames": 120,
+  "trainer_wait_interval_fix": 400,
+  "trainer_wait_interval_random": 500,
+  "poke_roar_interval_fix": 300,
+  "poke_roar_interval_random": 400,
+  "boss_car_idling_interval_fix": 150,
+  "boss_car_idling_interval_random": 60,
+  "boss_car_wait_rate": 50,
+  "boss_car_roar_rate": 50,
+  "battle_area_size": 5.0,
+  "battle_heckler_area_size": 10.0,
+  "raid_powercharge_message_time": 3.0,
+  "poke_move_condition_distance": 0.5
+}

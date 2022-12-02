@@ -1,0 +1,940 @@
+{
+  "values": [
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "effect/battle_ee/ee003/ee003",
+      "templatePath": "effect/battle_ee/ee003/ee003",
+      "raidFrameLength": 101
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee004/ee004",
+      "templatePath": "effect/battle_ee/ee004/ee004",
+      "raidFrameLength": 150
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee005/ee005",
+      "templatePath": "effect/battle_ee/ee005/ee005",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee006/ee006",
+      "templatePath": "effect/battle_ee/ee006/ee006",
+      "raidFrameLength": 132
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee008/ee008",
+      "templatePath": "effect/battle_ee/ee008/ee008",
+      "raidFrameLength": 70
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee008/ee008",
+      "templatePath": "effect/battle_ee/ee008/ee008",
+      "raidFrameLength": 70
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee008/ee008",
+      "templatePath": "effect/battle_ee/ee008/ee008",
+      "raidFrameLength": 70
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee015/ee015",
+      "templatePath": "effect/battle_ee/ee015/ee015",
+      "raidFrameLength": 49
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee017/ee017",
+      "templatePath": "effect/battle_ee/ee017/ee017",
+      "raidFrameLength": 200
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee018/ee018",
+      "templatePath": "effect/battle_ee/ee018/ee018",
+      "raidFrameLength": 200
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee019/ee019",
+      "templatePath": "effect/battle_ee/ee019/ee019",
+      "raidFrameLength": 200
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee020/ee020",
+      "templatePath": "effect/battle_ee/ee020/ee020",
+      "raidFrameLength": 40
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es001/es001",
+      "templatePath": "effect/field/status/es001/es001",
+      "raidFrameLength": 130
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es002/es002",
+      "templatePath": "effect/field/status/es002/es002",
+      "raidFrameLength": 130
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es003/es003",
+      "templatePath": "effect/field/status/es003/es003",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es004/es004",
+      "templatePath": "effect/field/status/es004/es004",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es005/es005",
+      "templatePath": "effect/field/status/es005/es005",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es006/es006",
+      "templatePath": "effect/battle_es/es006/es006",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es007/es007",
+      "templatePath": "effect/battle_es/es007/es007",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es008/es008",
+      "templatePath": "effect/battle_es/es008/es008",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es009/es009",
+      "templatePath": "effect/battle_es/es009/es009",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es010/es010",
+      "templatePath": "effect/battle_es/es010/es010",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es015/es015",
+      "templatePath": "effect/battle_es/es015/es015",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es016/es016",
+      "templatePath": "effect/battle_es/es016/es016",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "effect/battle_etb/etb001/etb001_rain",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "effect/battle_etb/etb002/etb002_snow",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "effect/battle_etb/etb003/etb003_sandstorm",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "effect/battle_etb/etb004/etb004_sun",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "demo/ee/ee610/ee610",
+      "templatePath": "effect/battle_ee/ee610/ee610",
+      "raidFrameLength": 220
+    },
+    {
+      "enable": true,
+      "timelinePath": "demo/ee/ee630/ee630",
+      "templatePath": "effect/battle_ee/ee630/ee630",
+      "raidFrameLength": 270
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es017/es017",
+      "templatePath": "effect/battle_es/es017/es017",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es018/es018",
+      "templatePath": "effect/battle_es/es018/es018",
+      "raidFrameLength": 119
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0264/ew0264_charge",
+      "templatePath": "effect/battle_ew/ew0264/ew0264",
+      "raidFrameLength": 171
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0174/ew0174_ghost_turn",
+      "templatePath": "effect/battle_ew/ew0174/ew0174",
+      "raidFrameLength": 150
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0073/ew0073_turn",
+      "templatePath": "effect/battle_ew/ew0073/ew0073",
+      "raidFrameLength": 171
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0020/ew0020_turn",
+      "templatePath": "effect/battle_ew/ew0020/ew0020",
+      "raidFrameLength": 117
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0035/ew0035_turn",
+      "templatePath": "effect/battle_ew/ew0035/ew0035",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0083/ew0083_turn",
+      "templatePath": "effect/battle_ew/ew0083/ew0083",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0463/ew0463_turn",
+      "templatePath": "effect/battle_ew/ew0463/ew0463",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0250/ew0250_turn",
+      "templatePath": "effect/battle_ew/ew0250/ew0250",
+      "raidFrameLength": 130
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0328/ew0328_turn",
+      "templatePath": "effect/battle_ew/ew0328/ew0328",
+      "raidFrameLength": 130
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0611/ew0611_turn",
+      "templatePath": "effect/battle_ew/ew0611/ew0611",
+      "raidFrameLength": 140
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0361/ew0361_heal",
+      "templatePath": "effect/battle_ew/ew0361/ew0361",
+      "raidFrameLength": 230
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0461/ew0461_heal",
+      "templatePath": "effect/battle_ew/ew0461/ew0461",
+      "raidFrameLength": 135
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0369/ew0369_back",
+      "templatePath": "effect/battle_ew/ew0369/ew0369",
+      "raidFrameLength": 0
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0521/ew0521_back",
+      "templatePath": "effect/battle_ew/ew0521/ew0521",
+      "raidFrameLength": 0
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0509/ew0509_back",
+      "templatePath": "effect/battle_ew/ew0509/ew0509",
+      "raidFrameLength": 0
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0525/ew0525_back",
+      "templatePath": "effect/battle_ew/ew0525/ew0525",
+      "raidFrameLength": 0
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0046/ew0046_back",
+      "templatePath": "effect/battle_ew/ew0046/ew0046",
+      "raidFrameLength": 0
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0018/ew0018_back",
+      "templatePath": "effect/battle_ew/ew0018/ew0018",
+      "raidFrameLength": 0
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es062/es062",
+      "templatePath": "effect/battle_es/es062/es062",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es062/es062",
+      "templatePath": "effect/battle_es/es062/es062",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee050/ee050",
+      "templatePath": "effect/battle_ee/ee050/ee050",
+      "raidFrameLength": 50
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee051/ee051",
+      "templatePath": "effect/battle_ee/ee051/ee051",
+      "raidFrameLength": 50
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee052/ee052",
+      "templatePath": "effect/battle_ee/ee052/ee052",
+      "raidFrameLength": 50
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee053/ee053",
+      "templatePath": "effect/battle_ee/ee053/ee053",
+      "raidFrameLength": 50
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee008/ee008",
+      "templatePath": "effect/battle_ee/ee008/ee008",
+      "raidFrameLength": 70
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee008/ee008",
+      "templatePath": "effect/battle_ee/ee008/ee008",
+      "raidFrameLength": 70
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee008/ee008",
+      "templatePath": "effect/battle_ee/ee008/ee008",
+      "raidFrameLength": 70
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee008/ee008",
+      "templatePath": "effect/battle_ee/ee008/ee008",
+      "raidFrameLength": 70
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee033/ee033",
+      "templatePath": "",
+      "raidFrameLength": 91
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es012/es012",
+      "templatePath": "effect/battle_es/es012/es012",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es011/es011",
+      "templatePath": "effect/battle_es/es011/es011",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee036/ee036",
+      "templatePath": "",
+      "raidFrameLength": 138
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee036_1/ee036_1",
+      "templatePath": "",
+      "raidFrameLength": 200
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0819/ew0819_turn",
+      "templatePath": "effect/battle_ew/ew0819/ew0819",
+      "raidFrameLength": 90
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0812/ew0812_back",
+      "templatePath": "effect/battle_ew/ew0812/ew0812",
+      "raidFrameLength": 0
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_es/es063/es063",
+      "templatePath": "effect/battle_es/es063/es063",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": false,
+      "timelinePath": "",
+      "templatePath": "",
+      "raidFrameLength": -1
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee035/ee035",
+      "templatePath": "",
+      "raidFrameLength": 200
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ew/ew0864/ew0864_turn",
+      "templatePath": "effect/battle_ew/ew0864/ew0864",
+      "raidFrameLength": 160
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee040/ee040",
+      "templatePath": "effect/battle_ee/ee040/ee040",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee041/ee041",
+      "templatePath": "effect/battle_ee/ee041/ee041",
+      "raidFrameLength": 120
+    },
+    {
+      "enable": true,
+      "timelinePath": "effect/battle_ee/ee042/ee042",
+      "templatePath": "effect/battle_ee/ee042/ee042",
+      "raidFrameLength": 120
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "values": [
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 0,
+        "devId": "DEV_BAIKU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 1,
+        "devId": "DEV_DERUBIRU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 2,
+        "devId": "DEV_HERUGAA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 3,
+        "devId": "DEV_YATOUMORI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 4,
+        "devId": "DEV_ENNYUUTO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 5,
+        "devId": "DEV_KOOTASU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 6,
+        "devId": "DEV_DONMERU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 7,
+        "devId": "DEV_BAKUUDA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 8,
+        "devId": "DEV_TANDON",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 9,
+        "devId": "DEV_TOROGGON",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 10,
+        "devId": "DEV_SEKITANZAN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 11,
+        "devId": "DEV_HABANERO1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 12,
+        "devId": "DEV_HABANERO2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 13,
+        "devId": "DEV_GAADHI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 14,
+        "devId": "DEV_UINDHI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 15,
+        "devId": "DEV_SISIKO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 16,
+        "devId": "DEV_KAENZISI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 17,
+        "devId": "DEV_HINOKO1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 18,
+        "devId": "DEV_HINOKO2A",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 19,
+        "devId": "DEV_HINOKO2B",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 20,
+        "devId": "DEV_YAYAKOMA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 21,
+        "devId": "DEV_HINOYAKOMA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 22,
+        "devId": "DEV_FAIAROO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 101,
+        "devId": "DEV_DERUBIRU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 102,
+        "devId": "DEV_HERUGAA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 103,
+        "devId": "DEV_YAMIKARASU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 104,
+        "devId": "DEV_DONKARASU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 105,
+        "devId": "DEV_SUKANPUU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 106,
+        "devId": "DEV_SUKATANKU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 107,
+        "devId": "DEV_NYUURA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 108,
+        "devId": "DEV_MANYUURA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 109,
+        "devId": "DEV_ZOROA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 110,
+        "devId": "DEV_ZOROAAKU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 111,
+        "devId": "DEV_YAMIRAMI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 112,
+        "devId": "DEV_KOMATANA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 113,
+        "devId": "DEV_KIRIKIZAN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 114,
+        "devId": "DEV_KOMATANA3",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 115,
+        "devId": "DEV_MEGUROKO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 116,
+        "devId": "DEV_WARUBIRU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 117,
+        "devId": "DEV_WARUBIARU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 118,
+        "devId": "DEV_SABONEA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 119,
+        "devId": "DEV_NOKUTASU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 120,
+        "devId": "DEV_BATTA1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 121,
+        "devId": "DEV_BATTA2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 122,
+        "devId": "DEV_MONOZU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 123,
+        "devId": "DEV_ZIHEDDO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 201,
+        "devId": "DEV_AIAI1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 202,
+        "devId": "DEV_AIAI2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 203,
+        "devId": "DEV_GOOSU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 204,
+        "devId": "DEV_GOOSUTO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 205,
+        "devId": "DEV_GENGAA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 206,
+        "devId": "DEV_KONPAN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 207,
+        "devId": "DEV_MORUFON",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 208,
+        "devId": "DEV_HABUNEEKU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 209,
+        "devId": "DEV_HARIISEN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 210,
+        "devId": "DEV_GOKURIN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 211,
+        "devId": "DEV_MARUNOOMU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 212,
+        "devId": "DEV_UPAA",
+        "formNo": 1
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 213,
+        "devId": "DEV_rUPAA2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 214,
+        "devId": "DEV_TAMAGETAKE",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 215,
+        "devId": "DEV_MOROBARERU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 216,
+        "devId": "DEV_HIDOIDE",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 217,
+        "devId": "DEV_DOHIDOIDE",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 218,
+        "devId": "DEV_KUZUMOO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 219,
+        "devId": "DEV_DORAMIDORO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 220,
+        "devId": "DEV_SUTORINDAA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 221,
+        "devId": "DEV_ENZIN1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 222,
+        "devId": "DEV_ENZIN2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 223,
+        "devId": "DEV_BETOBETAA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 224,
+        "devId": "DEV_BETOBETON",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 301,
+        "devId": "DEV_MANKII",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 302,
+        "devId": "DEV_OKORIZARU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 303,
+        "devId": "DEV_MANKII3",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 304,
+        "devId": "DEV_HERAKUROSU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 305,
+        "devId": "DEV_KINOGASSA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 306,
+        "devId": "DEV_MAKUNOSITA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 307,
+        "devId": "DEV_HARITEYAMA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 308,
+        "devId": "DEV_ASANAN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 309,
+        "devId": "DEV_TYAAREMU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 310,
+        "devId": "DEV_GUREGGURU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 311,
+        "devId": "DEV_DOKUROGGU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 312,
+        "devId": "DEV_ERUREIDO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 313,
+        "devId": "DEV_RUTYABURU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 314,
+        "devId": "DEV_MAKENKANI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 315,
+        "devId": "DEV_KEKENKANI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 316,
+        "devId": "DEV_NAGETUKESARU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 317,
+        "devId": "DEV_TAIREETU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 318,
+        "devId": "DEV_HURAMINGO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 401,
+        "devId": "DEV_PURIN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 402,
+        "devId": "DEV_PUKURIN",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 403,
+        "devId": "DEV_MARIRU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 404,
+        "devId": "DEV_MARIRURI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 405,
+        "devId": "DEV_RARUTOSU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 406,
+        "devId": "DEV_KIRURIA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 407,
+        "devId": "DEV_SAANAITO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 408,
+        "devId": "DEV_HURABEBE",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 409,
+        "devId": "DEV_HURAETTE",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 410,
+        "devId": "DEV_HURAAJESU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 411,
+        "devId": "DEV_DEDENNE",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 412,
+        "devId": "DEV_KUREHFI",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 413,
+        "devId": "DEV_MIMIKKYU",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 414,
+        "devId": "DEV_BEROBAA",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 415,
+        "devId": "DEV_GIMOO",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 416,
+        "devId": "DEV_OORONGE",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 417,
+        "devId": "DEV_NEZUMI1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 418,
+        "devId": "DEV_NEZUMI2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 419,
+        "devId": "DEV_PANINU1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 420,
+        "devId": "DEV_PANINU2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 421,
+        "devId": "DEV_FEARII1",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 422,
+        "devId": "DEV_FEARII2",
+        "formNo": 0
+      }
+    },
+    {
+      "ajitoPokemonTable": {
+        "pokemonId": 423,
+        "devId": "DEV_FEARII3",
+        "formNo": 0
+      }
+    }
+  ]
+}
