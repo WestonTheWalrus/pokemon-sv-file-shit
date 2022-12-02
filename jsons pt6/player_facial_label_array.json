@@ -1,0 +1,124 @@
+{
+  "values": [
+    {
+      "Label": "anger",
+      "face": 4,
+      "mouth": 4,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "awfulweatherwait",
+      "face": 18,
+      "mouth": 18,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "badweathermove",
+      "face": 16,
+      "mouth": 16,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "badweatherwait",
+      "face": 17,
+      "mouth": 17,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "battle",
+      "face": 43,
+      "mouth": 43,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "damage",
+      "face": 41,
+      "mouth": 41,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "dash",
+      "face": 19,
+      "mouth": 19,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "strengthen",
+      "face": 2,
+      "mouth": 1,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "expressionless",
+      "face": 0,
+      "mouth": 0,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "go",
+      "face": 9,
+      "mouth": 7,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "laugh",
+      "face": 3,
+      "mouth": 3,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "lose",
+      "face": 44,
+      "mouth": 44,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "normal",
+      "face": 1,
+      "mouth": 1,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "rejoice",
+      "face": 40,
+      "mouth": 40,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "run",
+      "face": 0,
+      "mouth": 30,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "sad",
+      "face": 5,
+      "mouth": 5,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "serious",
+      "face": 2,
+      "mouth": 2,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "smile",
+      "face": 6,
+      "mouth": 6,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "surprise",
+      "face": 7,
+      "mouth": 7,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "win",
+      "face": 42,
+      "mouth": 42,
+      "EnableLookAt": true
+    }
+  ]
+}

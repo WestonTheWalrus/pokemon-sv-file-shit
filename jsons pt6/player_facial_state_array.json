@@ -1,0 +1,340 @@
+{
+  "values": [
+    {
+      "State": "Attack",
+      "FacialLabel": "go",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 1.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "BadWeather",
+      "FacialLabel": "damage",
+      "EnableLookAt": false,
+      "EnableEyeBlink": false,
+      "Seconds": 1.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "BallThrow",
+      "FacialLabel": "go",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "BattleEnemyDown",
+      "FacialLabel": "win",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "BattlePartnerDown",
+      "FacialLabel": "lose",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 1.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "BattleStart",
+      "FacialLabel": "anger",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Bright",
+      "FacialLabel": "lose",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "CaptureSuccess",
+      "FacialLabel": "rejoice",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 3.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Clash",
+      "FacialLabel": "damage",
+      "EnableLookAt": false,
+      "EnableEyeBlink": false,
+      "Seconds": 0.5,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Damage",
+      "FacialLabel": "damage",
+      "EnableLookAt": false,
+      "EnableEyeBlink": false,
+      "Seconds": 1.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Darkness",
+      "FacialLabel": "serious",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "DashStart",
+      "FacialLabel": "strengthen",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 0.5,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Expressionless",
+      "FacialLabel": "expressionless",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 0.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "FallStart",
+      "FacialLabel": "surprise",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "3times_blink_trigger",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "ItemGet",
+      "FacialLabel": "laugh",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "IttekoiStart",
+      "FacialLabel": "go",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Lose",
+      "FacialLabel": "lose",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 1.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Oops",
+      "FacialLabel": "surprise",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "3times_blink_trigger",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "PokemonBack",
+      "FacialLabel": "strengthen",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 3.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "PokemonGet",
+      "FacialLabel": "rejoice",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 3.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "RideDash",
+      "FacialLabel": "go",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "RideGliding",
+      "FacialLabel": "rejoice",
+      "EnableLookAt": false,
+      "EnableEyeBlink": false,
+      "Seconds": 3.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "RideJump",
+      "FacialLabel": "go",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "RideStart",
+      "FacialLabel": "go",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 1.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Sliding",
+      "FacialLabel": "serious",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "TalkNpcPokemon",
+      "FacialLabel": "smile",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 3.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "TalkPartner",
+      "FacialLabel": "laugh",
+      "EnableLookAt": false,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    },
+    {
+      "State": "Win",
+      "FacialLabel": "win",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    }
+  ]
+}

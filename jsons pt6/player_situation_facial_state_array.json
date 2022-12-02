@@ -1,0 +1,137 @@
+{
+  "values": [
+    {
+      "State": "AwfulWeatherWait",
+      "Priority": 11,
+      "FacialLabel": "awfulweatherwait",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "BadWeatherMove",
+      "Priority": 11,
+      "FacialLabel": "badweathermove",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "BadWeatherWait",
+      "Priority": 10,
+      "FacialLabel": "badweatherwait",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "Battle",
+      "Priority": 1,
+      "FacialLabel": "battle",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "DanBattle",
+      "Priority": 3,
+      "FacialLabel": "anger",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "Dash",
+      "Priority": 13,
+      "FacialLabel": "dash",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "DesrtWeather",
+      "Priority": 12,
+      "FacialLabel": "sad",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "Expressionless",
+      "Priority": 99,
+      "FacialLabel": "expressionless",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "Fall",
+      "Priority": 2,
+      "FacialLabel": "surprise",
+      "EnableLookAt": false,
+      "EnableEyeBlink": false
+    },
+    {
+      "State": "Ittekoi",
+      "Priority": 5,
+      "FacialLabel": "serious",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "NearItem",
+      "Priority": 9,
+      "FacialLabel": "smile",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "PokemonCare",
+      "Priority": 5,
+      "FacialLabel": "smile",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "RideMove",
+      "Priority": 14,
+      "FacialLabel": "win",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "Run",
+      "Priority": 13,
+      "FacialLabel": "run",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "ScanFound",
+      "Priority": 6,
+      "FacialLabel": "serious",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "ScanSearch",
+      "Priority": 7,
+      "FacialLabel": "serious",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "SimpleBattle",
+      "Priority": 4,
+      "FacialLabel": "battle",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "Squat",
+      "Priority": 8,
+      "FacialLabel": "serious",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "Win",
+      "Priority": 0,
+      "FacialLabel": "win",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Ittekoi": {
+    "IttekoiDistance": 15.0,
+    "IttekoiCoolTime": 0.5,
+    "ProhibitTime": 10.0,
+    "ProhibitCount": 6
+  },
+  "Obon": {
+    "ObonSpeed": 10.0,
+    "ObonAccele": 30.0
+  },
+  "Partner": {
+    "PopUpTime": 1.0,
+    "TeleportTime": 0.5,
+    "IdlingStartTime": 5.0,
+    "FollowUpStartDistance": 1.5,
+    "TeleportStartDistance": 8.0
+  },
+  "Rummaging": {
+    "RummagingCoolTime": 300.0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ResponseFrame": 0.2,
+  "KeepActFrame": 0.4,
+  "IntervalDistance": 4.0,
+  "IntervalDistanceMin": 1.0,
+  "OffsetPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

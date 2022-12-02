@@ -1,0 +1,104 @@
+{
+  "values": [
+    {
+      "itemId": "ITEMID_NONE",
+      "itemNum": 1,
+      "lotteryWeight": 1
+    },
+    {
+      "itemId": "ITEMID_NONE",
+      "itemNum": 1,
+      "lotteryWeight": 30
+    },
+    {
+      "itemId": "ITEMID_NONE",
+      "itemNum": 1,
+      "lotteryWeight": 15
+    },
+    {
+      "itemId": "ITEMID_HUSIGINAAME",
+      "itemNum": 1,
+      "lotteryWeight": 7
+    },
+    {
+      "itemId": "ITEMID_HUSIGINAAME",
+      "itemNum": 3,
+      "lotteryWeight": 3
+    },
+    {
+      "itemId": "ITEMID_HUSIGINAAME",
+      "itemNum": 10,
+      "lotteryWeight": 1
+    },
+    {
+      "itemId": "ITEMID_KINNOTAMA",
+      "itemNum": 1,
+      "lotteryWeight": 7
+    },
+    {
+      "itemId": "ITEMID_KINNOTAMA",
+      "itemNum": 3,
+      "lotteryWeight": 3
+    },
+    {
+      "itemId": "ITEMID_DEKAIKINNOTAMA",
+      "itemNum": 1,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_MAKKUSUAPPU",
+      "itemNum": 3,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_TAURIN",
+      "itemNum": 3,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_BUROMUHEKISIN",
+      "itemNum": 3,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_RIZOTIUMU",
+      "itemNum": 3,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_KITOSAN",
+      "itemNum": 3,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_INDOMETASIN",
+      "itemNum": 3,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_POINTOAPPU",
+      "itemNum": 1,
+      "lotteryWeight": 8
+    },
+    {
+      "itemId": "ITEMID_POINTOAPPU",
+      "itemNum": 3,
+      "lotteryWeight": 3
+    },
+    {
+      "itemId": "ITEMID_POINTOMAKKUSU",
+      "itemNum": 1,
+      "lotteryWeight": 2
+    },
+    {
+      "itemId": "ITEMID_GINNOOUKAN",
+      "itemNum": 1,
+      "lotteryWeight": 5
+    },
+    {
+      "itemId": "ITEMID_KINNOOUKAN",
+      "itemNum": 1,
+      "lotteryWeight": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "values": [
+    {
+      "ID": "DRAGON",
+      "nushiClearQuestType": "Dragon",
+      "trackName": "FRIEND_dragon",
+      "eventNpcSceneName1": "legend_0020_main",
+      "eventNpcObjectName1": "npc_event_legend_0020_friend",
+      "eventNpcSceneName2": "legend_0030_main",
+      "eventNpcObjectName2": "npc_event_legend_0030_friend",
+      "eventNpcSceneName3": "legend_0040_main",
+      "eventNpcObjectName3": "npc_event_legend_0040_friend",
+      "eventNpcSceneName4": "legend_0050_main",
+      "eventNpcObjectName4": "npc_event_legend_0050_friend",
+      "eventNpcSceneName5": "legend_0060_always",
+      "eventNpcObjectName5": "npc_event_legend_0060_friend"
+    },
+    {
+      "ID": "HAGANE",
+      "nushiClearQuestType": "Hagane",
+      "trackName": "FRIEND_hagane",
+      "eventNpcSceneName1": "legend_0020_main",
+      "eventNpcObjectName1": "npc_event_legend_0020_friend",
+      "eventNpcSceneName2": "legend_0030_main",
+      "eventNpcObjectName2": "npc_event_legend_0030_friend",
+      "eventNpcSceneName3": "legend_0040_main",
+      "eventNpcObjectName3": "npc_event_legend_0040_friend",
+      "eventNpcSceneName4": "legend_0050_main",
+      "eventNpcObjectName4": "npc_event_legend_0050_friend",
+      "eventNpcSceneName5": "legend_0060_always",
+      "eventNpcObjectName5": "npc_event_legend_0060_friend"
+    },
+    {
+      "ID": "HIKOU",
+      "nushiClearQuestType": "Hikou",
+      "trackName": "FRIEND_hikou",
+      "eventNpcSceneName1": "legend_0020_main",
+      "eventNpcObjectName1": "npc_event_legend_0020_friend",
+      "eventNpcSceneName2": "legend_0030_main",
+      "eventNpcObjectName2": "npc_event_legend_0030_friend",
+      "eventNpcSceneName3": "legend_0040_main",
+      "eventNpcObjectName3": "npc_event_legend_0040_friend",
+      "eventNpcSceneName4": "legend_0050_main",
+      "eventNpcObjectName4": "npc_event_legend_0050_friend",
+      "eventNpcSceneName5": "legend_0060_always",
+      "eventNpcObjectName5": "npc_event_legend_0060_friend"
+    },
+    {
+      "ID": "IWA",
+      "nushiClearQuestType": "Iwa",
+      "trackName": "FRIEND_iwa",
+      "eventNpcSceneName1": "legend_0020_main",
+      "eventNpcObjectName1": "npc_event_legend_0020_friend",
+      "eventNpcSceneName2": "legend_0030_main",
+      "eventNpcObjectName2": "npc_event_legend_0030_friend",
+      "eventNpcSceneName3": "legend_0040_main",
+      "eventNpcObjectName3": "npc_event_legend_0040_friend",
+      "eventNpcSceneName4": "legend_0050_main",
+      "eventNpcObjectName4": "npc_event_legend_0050_friend",
+      "eventNpcSceneName5": "legend_0060_always",
+      "eventNpcObjectName5": "npc_event_legend_0060_friend"
+    },
+    {
+      "ID": "JIMEN",
+      "nushiClearQuestType": "Jimen",
+      "trackName": "FRIEND_jimen",
+      "eventNpcSceneName1": "legend_0020_main",
+      "eventNpcObjectName1": "npc_event_legend_0020_friend",
+      "eventNpcSceneName2": "legend_0030_main",
+      "eventNpcObjectName2": "npc_event_legend_0030_friend",
+      "eventNpcSceneName3": "legend_0040_main",
+      "eventNpcObjectName3": "npc_event_legend_0040_friend",
+      "eventNpcSceneName4": "legend_0050_main",
+      "eventNpcObjectName4": "npc_event_legend_0050_friend",
+      "eventNpcSceneName5": "legend_0060_always",
+      "eventNpcObjectName5": "npc_event_legend_0060_friend"
+    }
+  ]
+}

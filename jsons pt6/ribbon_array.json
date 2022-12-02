@@ -1,0 +1,774 @@
+{
+  "values": [
+    {
+      "id": 0,
+      "disp_order": 3,
+      "name_label": "mes_ribbon_name_000",
+      "desc_label": "mes_ribbon_info_000",
+      "title_label": "msg_another_name_00"
+    },
+    {
+      "id": 1,
+      "disp_order": 6,
+      "name_label": "mes_ribbon_name_001",
+      "desc_label": "mes_ribbon_info_001",
+      "title_label": "msg_another_name_01"
+    },
+    {
+      "id": 2,
+      "disp_order": 5,
+      "name_label": "mes_ribbon_name_002",
+      "desc_label": "mes_ribbon_info_002",
+      "title_label": "msg_another_name_02"
+    },
+    {
+      "id": 3,
+      "disp_order": 26,
+      "name_label": "mes_ribbon_name_003",
+      "desc_label": "mes_ribbon_info_003",
+      "title_label": "msg_another_name_03"
+    },
+    {
+      "id": 4,
+      "disp_order": 24,
+      "name_label": "mes_ribbon_name_004",
+      "desc_label": "mes_ribbon_info_004",
+      "title_label": "msg_another_name_04"
+    },
+    {
+      "id": 5,
+      "disp_order": 12,
+      "name_label": "mes_ribbon_name_005",
+      "desc_label": "mes_ribbon_info_005",
+      "title_label": "msg_another_name_05"
+    },
+    {
+      "id": 6,
+      "disp_order": 13,
+      "name_label": "mes_ribbon_name_006",
+      "desc_label": "mes_ribbon_info_006",
+      "title_label": "msg_another_name_06"
+    },
+    {
+      "id": 7,
+      "disp_order": 25,
+      "name_label": "mes_ribbon_name_007",
+      "desc_label": "mes_ribbon_info_007",
+      "title_label": "msg_another_name_07"
+    },
+    {
+      "id": 8,
+      "disp_order": 31,
+      "name_label": "mes_ribbon_name_008",
+      "desc_label": "mes_ribbon_info_008",
+      "title_label": "msg_another_name_08"
+    },
+    {
+      "id": 9,
+      "disp_order": 32,
+      "name_label": "mes_ribbon_name_009",
+      "desc_label": "mes_ribbon_info_009",
+      "title_label": "msg_another_name_09"
+    },
+    {
+      "id": 10,
+      "disp_order": 33,
+      "name_label": "mes_ribbon_name_010",
+      "desc_label": "mes_ribbon_info_010",
+      "title_label": "msg_another_name_10"
+    },
+    {
+      "id": 11,
+      "disp_order": 34,
+      "name_label": "mes_ribbon_name_011",
+      "desc_label": "mes_ribbon_info_011",
+      "title_label": "msg_another_name_11"
+    },
+    {
+      "id": 12,
+      "disp_order": 35,
+      "name_label": "mes_ribbon_name_012",
+      "desc_label": "mes_ribbon_info_012",
+      "title_label": "msg_another_name_12"
+    },
+    {
+      "id": 13,
+      "disp_order": 36,
+      "name_label": "mes_ribbon_name_013",
+      "desc_label": "mes_ribbon_info_013",
+      "title_label": "msg_another_name_13"
+    },
+    {
+      "id": 14,
+      "disp_order": 37,
+      "name_label": "mes_ribbon_name_014",
+      "desc_label": "mes_ribbon_info_014",
+      "title_label": "msg_another_name_14"
+    },
+    {
+      "id": 15,
+      "disp_order": 38,
+      "name_label": "mes_ribbon_name_015",
+      "desc_label": "mes_ribbon_info_015",
+      "title_label": "msg_another_name_15"
+    },
+    {
+      "id": 16,
+      "disp_order": 39,
+      "name_label": "mes_ribbon_name_016",
+      "desc_label": "mes_ribbon_info_016",
+      "title_label": "msg_another_name_16"
+    },
+    {
+      "id": 17,
+      "disp_order": 40,
+      "name_label": "mes_ribbon_name_017",
+      "desc_label": "mes_ribbon_info_017",
+      "title_label": "msg_another_name_17"
+    },
+    {
+      "id": 18,
+      "disp_order": 28,
+      "name_label": "mes_ribbon_name_018",
+      "desc_label": "mes_ribbon_info_018",
+      "title_label": "msg_another_name_18"
+    },
+    {
+      "id": 19,
+      "disp_order": 27,
+      "name_label": "mes_ribbon_name_019",
+      "desc_label": "mes_ribbon_info_019",
+      "title_label": "msg_another_name_19"
+    },
+    {
+      "id": 20,
+      "disp_order": 41,
+      "name_label": "mes_ribbon_name_020",
+      "desc_label": "mes_ribbon_info_020",
+      "title_label": "msg_another_name_20"
+    },
+    {
+      "id": 21,
+      "disp_order": 14,
+      "name_label": "mes_ribbon_name_021",
+      "desc_label": "mes_ribbon_info_021",
+      "title_label": "msg_another_name_21"
+    },
+    {
+      "id": 22,
+      "disp_order": 42,
+      "name_label": "mes_ribbon_name_022",
+      "desc_label": "mes_ribbon_info_022",
+      "title_label": "msg_another_name_22"
+    },
+    {
+      "id": 23,
+      "disp_order": 15,
+      "name_label": "mes_ribbon_name_023",
+      "desc_label": "mes_ribbon_info_023",
+      "title_label": "msg_another_name_23"
+    },
+    {
+      "id": 24,
+      "disp_order": 16,
+      "name_label": "mes_ribbon_name_024",
+      "desc_label": "mes_ribbon_info_024",
+      "title_label": "msg_another_name_24"
+    },
+    {
+      "id": 25,
+      "disp_order": 43,
+      "name_label": "mes_ribbon_name_025",
+      "desc_label": "mes_ribbon_info_025",
+      "title_label": "msg_another_name_25"
+    },
+    {
+      "id": 26,
+      "disp_order": 44,
+      "name_label": "mes_ribbon_name_026",
+      "desc_label": "mes_ribbon_info_026",
+      "title_label": "msg_another_name_26"
+    },
+    {
+      "id": 27,
+      "disp_order": 45,
+      "name_label": "mes_ribbon_name_027",
+      "desc_label": "mes_ribbon_info_027",
+      "title_label": "msg_another_name_27"
+    },
+    {
+      "id": 28,
+      "disp_order": 46,
+      "name_label": "mes_ribbon_name_028",
+      "desc_label": "mes_ribbon_info_028",
+      "title_label": "msg_another_name_28"
+    },
+    {
+      "id": 29,
+      "disp_order": 47,
+      "name_label": "mes_ribbon_name_029",
+      "desc_label": "mes_ribbon_info_029",
+      "title_label": "msg_another_name_29"
+    },
+    {
+      "id": 30,
+      "disp_order": 48,
+      "name_label": "mes_ribbon_name_030",
+      "desc_label": "mes_ribbon_info_030",
+      "title_label": "msg_another_name_30"
+    },
+    {
+      "id": 31,
+      "disp_order": 49,
+      "name_label": "mes_ribbon_name_031",
+      "desc_label": "mes_ribbon_info_031",
+      "title_label": "msg_another_name_31"
+    },
+    {
+      "id": 32,
+      "disp_order": 50,
+      "name_label": "mes_ribbon_name_032",
+      "desc_label": "mes_ribbon_info_032",
+      "title_label": "msg_another_name_32"
+    },
+    {
+      "id": 33,
+      "disp_order": 51,
+      "name_label": "mes_ribbon_name_033",
+      "desc_label": "mes_ribbon_info_033",
+      "title_label": "msg_another_name_33"
+    },
+    {
+      "id": 34,
+      "disp_order": 52,
+      "name_label": "mes_ribbon_name_034",
+      "desc_label": "mes_ribbon_info_034",
+      "title_label": "msg_another_name_34"
+    },
+    {
+      "id": 35,
+      "disp_order": 53,
+      "name_label": "mes_ribbon_name_035",
+      "desc_label": "mes_ribbon_info_035",
+      "title_label": "msg_another_name_35"
+    },
+    {
+      "id": 36,
+      "disp_order": 54,
+      "name_label": "mes_ribbon_name_036",
+      "desc_label": "mes_ribbon_info_036",
+      "title_label": "msg_another_name_36"
+    },
+    {
+      "id": 37,
+      "disp_order": 55,
+      "name_label": "mes_ribbon_name_037",
+      "desc_label": "mes_ribbon_info_037",
+      "title_label": "msg_another_name_37"
+    },
+    {
+      "id": 38,
+      "disp_order": 56,
+      "name_label": "mes_ribbon_name_038",
+      "desc_label": "mes_ribbon_info_038",
+      "title_label": "msg_another_name_38"
+    },
+    {
+      "id": 39,
+      "disp_order": 4,
+      "name_label": "mes_ribbon_name_039",
+      "desc_label": "mes_ribbon_info_039",
+      "title_label": "msg_another_name_39"
+    },
+    {
+      "id": 40,
+      "disp_order": 18,
+      "name_label": "mes_ribbon_name_040",
+      "desc_label": "mes_ribbon_info_040",
+      "title_label": "msg_another_name_40"
+    },
+    {
+      "id": 41,
+      "disp_order": 19,
+      "name_label": "mes_ribbon_name_041",
+      "desc_label": "mes_ribbon_info_041",
+      "title_label": "msg_another_name_41"
+    },
+    {
+      "id": 42,
+      "disp_order": 20,
+      "name_label": "mes_ribbon_name_042",
+      "desc_label": "mes_ribbon_info_042",
+      "title_label": "msg_another_name_42"
+    },
+    {
+      "id": 43,
+      "disp_order": 21,
+      "name_label": "mes_ribbon_name_043",
+      "desc_label": "mes_ribbon_info_043",
+      "title_label": "msg_another_name_43"
+    },
+    {
+      "id": 44,
+      "disp_order": 22,
+      "name_label": "mes_ribbon_name_044",
+      "desc_label": "mes_ribbon_info_044",
+      "title_label": "msg_another_name_44"
+    },
+    {
+      "id": 45,
+      "disp_order": 23,
+      "name_label": "mes_ribbon_name_045",
+      "desc_label": "mes_ribbon_info_045",
+      "title_label": "msg_another_name_45"
+    },
+    {
+      "id": 46,
+      "disp_order": 2,
+      "name_label": "mes_ribbon_name_046",
+      "desc_label": "mes_ribbon_info_046",
+      "title_label": "msg_another_name_46"
+    },
+    {
+      "id": 47,
+      "disp_order": 11,
+      "name_label": "mes_ribbon_name_047",
+      "desc_label": "mes_ribbon_info_047",
+      "title_label": "msg_another_name_47"
+    },
+    {
+      "id": 48,
+      "disp_order": 9,
+      "name_label": "mes_ribbon_name_048",
+      "desc_label": "mes_ribbon_info_048",
+      "title_label": "msg_another_name_48"
+    },
+    {
+      "id": 49,
+      "disp_order": 10,
+      "name_label": "mes_ribbon_name_049",
+      "desc_label": "mes_ribbon_info_049",
+      "title_label": "msg_another_name_49"
+    },
+    {
+      "id": 50,
+      "disp_order": 1,
+      "name_label": "mes_ribbon_name_050",
+      "desc_label": "mes_ribbon_info_050",
+      "title_label": "msg_another_name_50"
+    },
+    {
+      "id": 51,
+      "disp_order": 8,
+      "name_label": "mes_ribbon_name_051",
+      "desc_label": "mes_ribbon_info_051",
+      "title_label": "msg_another_name_51"
+    },
+    {
+      "id": 52,
+      "disp_order": 7,
+      "name_label": "mes_ribbon_name_052",
+      "desc_label": "mes_ribbon_info_052",
+      "title_label": "msg_another_name_52"
+    },
+    {
+      "id": 53,
+      "disp_order": 57,
+      "name_label": "mes_ribbon_name_053",
+      "desc_label": "mes_ribbon_info_053",
+      "title_label": "msg_another_name_53"
+    },
+    {
+      "id": 54,
+      "disp_order": 58,
+      "name_label": "mes_ribbon_name_054",
+      "desc_label": "mes_ribbon_info_054",
+      "title_label": "msg_another_name_54"
+    },
+    {
+      "id": 55,
+      "disp_order": 59,
+      "name_label": "mes_ribbon_name_055",
+      "desc_label": "mes_ribbon_info_055",
+      "title_label": "msg_another_name_55"
+    },
+    {
+      "id": 56,
+      "disp_order": 60,
+      "name_label": "mes_ribbon_name_056",
+      "desc_label": "mes_ribbon_info_056",
+      "title_label": "msg_another_name_56"
+    },
+    {
+      "id": 57,
+      "disp_order": 61,
+      "name_label": "mes_ribbon_name_057",
+      "desc_label": "mes_ribbon_info_057",
+      "title_label": "msg_another_name_57"
+    },
+    {
+      "id": 58,
+      "disp_order": 62,
+      "name_label": "mes_ribbon_name_058",
+      "desc_label": "mes_ribbon_info_058",
+      "title_label": "msg_another_name_58"
+    },
+    {
+      "id": 59,
+      "disp_order": 63,
+      "name_label": "mes_ribbon_name_059",
+      "desc_label": "mes_ribbon_info_059",
+      "title_label": "msg_another_name_59"
+    },
+    {
+      "id": 60,
+      "disp_order": 64,
+      "name_label": "mes_ribbon_name_060",
+      "desc_label": "mes_ribbon_info_060",
+      "title_label": "msg_another_name_60"
+    },
+    {
+      "id": 61,
+      "disp_order": 65,
+      "name_label": "mes_ribbon_name_061",
+      "desc_label": "mes_ribbon_info_061",
+      "title_label": "msg_another_name_61"
+    },
+    {
+      "id": 62,
+      "disp_order": 66,
+      "name_label": "mes_ribbon_name_062",
+      "desc_label": "mes_ribbon_info_062",
+      "title_label": "msg_another_name_62"
+    },
+    {
+      "id": 63,
+      "disp_order": 67,
+      "name_label": "mes_ribbon_name_063",
+      "desc_label": "mes_ribbon_info_063",
+      "title_label": "msg_another_name_63"
+    },
+    {
+      "id": 64,
+      "disp_order": 68,
+      "name_label": "mes_ribbon_name_064",
+      "desc_label": "mes_ribbon_info_064",
+      "title_label": "msg_another_name_64"
+    },
+    {
+      "id": 65,
+      "disp_order": 69,
+      "name_label": "mes_ribbon_name_065",
+      "desc_label": "mes_ribbon_info_065",
+      "title_label": "msg_another_name_65"
+    },
+    {
+      "id": 66,
+      "disp_order": 70,
+      "name_label": "mes_ribbon_name_066",
+      "desc_label": "mes_ribbon_info_066",
+      "title_label": "msg_another_name_66"
+    },
+    {
+      "id": 67,
+      "disp_order": 71,
+      "name_label": "mes_ribbon_name_067",
+      "desc_label": "mes_ribbon_info_067",
+      "title_label": "msg_another_name_67"
+    },
+    {
+      "id": 68,
+      "disp_order": 72,
+      "name_label": "mes_ribbon_name_068",
+      "desc_label": "mes_ribbon_info_068",
+      "title_label": "msg_another_name_68"
+    },
+    {
+      "id": 69,
+      "disp_order": 73,
+      "name_label": "mes_ribbon_name_069",
+      "desc_label": "mes_ribbon_info_069",
+      "title_label": "msg_another_name_69"
+    },
+    {
+      "id": 70,
+      "disp_order": 74,
+      "name_label": "mes_ribbon_name_070",
+      "desc_label": "mes_ribbon_info_070",
+      "title_label": "msg_another_name_70"
+    },
+    {
+      "id": 71,
+      "disp_order": 75,
+      "name_label": "mes_ribbon_name_071",
+      "desc_label": "mes_ribbon_info_071",
+      "title_label": "msg_another_name_71"
+    },
+    {
+      "id": 72,
+      "disp_order": 76,
+      "name_label": "mes_ribbon_name_072",
+      "desc_label": "mes_ribbon_info_072",
+      "title_label": "msg_another_name_72"
+    },
+    {
+      "id": 73,
+      "disp_order": 77,
+      "name_label": "mes_ribbon_name_073",
+      "desc_label": "mes_ribbon_info_073",
+      "title_label": "msg_another_name_73"
+    },
+    {
+      "id": 74,
+      "disp_order": 78,
+      "name_label": "mes_ribbon_name_074",
+      "desc_label": "mes_ribbon_info_074",
+      "title_label": "msg_another_name_74"
+    },
+    {
+      "id": 75,
+      "disp_order": 79,
+      "name_label": "mes_ribbon_name_075",
+      "desc_label": "mes_ribbon_info_075",
+      "title_label": "msg_another_name_75"
+    },
+    {
+      "id": 76,
+      "disp_order": 80,
+      "name_label": "mes_ribbon_name_076",
+      "desc_label": "mes_ribbon_info_076",
+      "title_label": "msg_another_name_76"
+    },
+    {
+      "id": 77,
+      "disp_order": 81,
+      "name_label": "mes_ribbon_name_077",
+      "desc_label": "mes_ribbon_info_077",
+      "title_label": "msg_another_name_77"
+    },
+    {
+      "id": 78,
+      "disp_order": 82,
+      "name_label": "mes_ribbon_name_078",
+      "desc_label": "mes_ribbon_info_078",
+      "title_label": "msg_another_name_78"
+    },
+    {
+      "id": 79,
+      "disp_order": 83,
+      "name_label": "mes_ribbon_name_079",
+      "desc_label": "mes_ribbon_info_079",
+      "title_label": "msg_another_name_79"
+    },
+    {
+      "id": 80,
+      "disp_order": 84,
+      "name_label": "mes_ribbon_name_080",
+      "desc_label": "mes_ribbon_info_080",
+      "title_label": "msg_another_name_80"
+    },
+    {
+      "id": 81,
+      "disp_order": 84,
+      "name_label": "mes_ribbon_name_081",
+      "desc_label": "mes_ribbon_info_081",
+      "title_label": "msg_another_name_81"
+    },
+    {
+      "id": 82,
+      "disp_order": 86,
+      "name_label": "mes_ribbon_name_082",
+      "desc_label": "mes_ribbon_info_082",
+      "title_label": "msg_another_name_82"
+    },
+    {
+      "id": 83,
+      "disp_order": 87,
+      "name_label": "mes_ribbon_name_083",
+      "desc_label": "mes_ribbon_info_083",
+      "title_label": "msg_another_name_83"
+    },
+    {
+      "id": 84,
+      "disp_order": 88,
+      "name_label": "mes_ribbon_name_084",
+      "desc_label": "mes_ribbon_info_084",
+      "title_label": "msg_another_name_84"
+    },
+    {
+      "id": 85,
+      "disp_order": 89,
+      "name_label": "mes_ribbon_name_085",
+      "desc_label": "mes_ribbon_info_085",
+      "title_label": "msg_another_name_85"
+    },
+    {
+      "id": 86,
+      "disp_order": 90,
+      "name_label": "mes_ribbon_name_086",
+      "desc_label": "mes_ribbon_info_086",
+      "title_label": "msg_another_name_86"
+    },
+    {
+      "id": 87,
+      "disp_order": 91,
+      "name_label": "mes_ribbon_name_087",
+      "desc_label": "mes_ribbon_info_087",
+      "title_label": "msg_another_name_87"
+    },
+    {
+      "id": 88,
+      "disp_order": 92,
+      "name_label": "mes_ribbon_name_088",
+      "desc_label": "mes_ribbon_info_088",
+      "title_label": "msg_another_name_88"
+    },
+    {
+      "id": 89,
+      "disp_order": 93,
+      "name_label": "mes_ribbon_name_089",
+      "desc_label": "mes_ribbon_info_089",
+      "title_label": "msg_another_name_89"
+    },
+    {
+      "id": 90,
+      "disp_order": 94,
+      "name_label": "mes_ribbon_name_090",
+      "desc_label": "mes_ribbon_info_090",
+      "title_label": "msg_another_name_90"
+    },
+    {
+      "id": 91,
+      "disp_order": 95,
+      "name_label": "mes_ribbon_name_091",
+      "desc_label": "mes_ribbon_info_091",
+      "title_label": "msg_another_name_91"
+    },
+    {
+      "id": 92,
+      "disp_order": 96,
+      "name_label": "mes_ribbon_name_092",
+      "desc_label": "mes_ribbon_info_092",
+      "title_label": "msg_another_name_92"
+    },
+    {
+      "id": 93,
+      "disp_order": 97,
+      "name_label": "mes_ribbon_name_093",
+      "desc_label": "mes_ribbon_info_093",
+      "title_label": "msg_another_name_93"
+    },
+    {
+      "id": 94,
+      "disp_order": 98,
+      "name_label": "mes_ribbon_name_094",
+      "desc_label": "mes_ribbon_info_094",
+      "title_label": "msg_another_name_94"
+    },
+    {
+      "id": 95,
+      "disp_order": 99,
+      "name_label": "mes_ribbon_name_095",
+      "desc_label": "mes_ribbon_info_095",
+      "title_label": "msg_another_name_95"
+    },
+    {
+      "id": 96,
+      "disp_order": 100,
+      "name_label": "mes_ribbon_name_096",
+      "desc_label": "mes_ribbon_info_096",
+      "title_label": "msg_another_name_96"
+    },
+    {
+      "id": 97,
+      "disp_order": 101,
+      "name_label": "mes_ribbon_name_097",
+      "desc_label": "mes_ribbon_info_097",
+      "title_label": "msg_another_name_97"
+    },
+    {
+      "id": 98,
+      "disp_order": 29,
+      "name_label": "mes_ribbon_name_098",
+      "desc_label": "mes_ribbon_info_098",
+      "title_label": "msg_another_name_98"
+    },
+    {
+      "id": 99,
+      "disp_order": 17,
+      "name_label": "mes_ribbon_name_099",
+      "desc_label": "mes_ribbon_info_099",
+      "title_label": "msg_another_name_99"
+    },
+    {
+      "id": 100,
+      "disp_order": 0,
+      "name_label": "mes_ribbon_name_100",
+      "desc_label": "mes_ribbon_info_100",
+      "title_label": "msg_another_name_100"
+    },
+    {
+      "id": 101,
+      "disp_order": 102,
+      "name_label": "mes_ribbon_name_101",
+      "desc_label": "mes_ribbon_info_101",
+      "title_label": "msg_another_name_101"
+    },
+    {
+      "id": 102,
+      "disp_order": 103,
+      "name_label": "mes_ribbon_name_102",
+      "desc_label": "mes_ribbon_info_102",
+      "title_label": "msg_another_name_102"
+    },
+    {
+      "id": 103,
+      "disp_order": 105,
+      "name_label": "mes_ribbon_name_103",
+      "desc_label": "mes_ribbon_info_103",
+      "title_label": "msg_another_name_103"
+    },
+    {
+      "id": 104,
+      "disp_order": 106,
+      "name_label": "mes_ribbon_name_104",
+      "desc_label": "mes_ribbon_info_104",
+      "title_label": "msg_another_name_104"
+    },
+    {
+      "id": 105,
+      "disp_order": 107,
+      "name_label": "mes_ribbon_name_105",
+      "desc_label": "mes_ribbon_info_105",
+      "title_label": "msg_another_name_105"
+    },
+    {
+      "id": 106,
+      "disp_order": 30,
+      "name_label": "mes_ribbon_name_106",
+      "desc_label": "mes_ribbon_info_106",
+      "title_label": "msg_another_name_106"
+    },
+    {
+      "id": 107,
+      "disp_order": 104,
+      "name_label": "mes_ribbon_name_107",
+      "desc_label": "mes_ribbon_info_107",
+      "title_label": "msg_another_name_107"
+    },
+    {
+      "id": 108,
+      "disp_order": 108,
+      "name_label": "mes_ribbon_name_108",
+      "desc_label": "mes_ribbon_info_108",
+      "title_label": "msg_another_name_108"
+    },
+    {
+      "id": 109,
+      "disp_order": 109,
+      "name_label": "mes_ribbon_name_109",
+      "desc_label": "mes_ribbon_info_109",
+      "title_label": "msg_another_name_109"
+    }
+  ]
+}

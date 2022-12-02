@@ -1,0 +1,87 @@
+{
+  "maxSpeed": 10.0,
+  "maxDistance": 100.0,
+  "dragSound": {
+    "eventName": "PLAY_PIC_COOKING_SLIDE_DRY",
+    "minSpeed": 0.1,
+    "repeatTime": 0.5,
+    "dragIntervalTime": 0.1,
+    "fadeTime": 0.1,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound0": {
+    "eventName": "PLAY_PIC_COOKING_PUT_ON_INGREDIENTS_DRY",
+    "minSpeed": 0.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound1": {
+    "eventName": "",
+    "minSpeed": 1.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound2": {
+    "eventName": "",
+    "minSpeed": 1.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound3": {
+    "eventName": "",
+    "minSpeed": 1.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound4": {
+    "eventName": "",
+    "minSpeed": 1.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound5": {
+    "eventName": "",
+    "minSpeed": 1.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound6": {
+    "eventName": "",
+    "minSpeed": 1.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  },
+  "collisionSound7": {
+    "eventName": "",
+    "minSpeed": 1.0,
+    "repeatPreventTime": 0.3,
+    "filter0": "",
+    "filter1": "",
+    "filter2": "",
+    "filter3": ""
+  }
+}

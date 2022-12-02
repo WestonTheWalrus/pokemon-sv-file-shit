@@ -1,0 +1,94 @@
+{
+  "values": [
+    {
+      "raidTrainerInfo": "raid_assist_NPC_17",
+      "npcPresetIndex": 0,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_01"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_18",
+      "npcPresetIndex": 1,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_02"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_19",
+      "npcPresetIndex": 2,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_03"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_20",
+      "npcPresetIndex": 3,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_04"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_21",
+      "npcPresetIndex": 4,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_05"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_22",
+      "npcPresetIndex": 5,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_06"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_23",
+      "npcPresetIndex": 6,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_07"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_24",
+      "npcPresetIndex": 7,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_08"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_25",
+      "npcPresetIndex": 8,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_09"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_26",
+      "npcPresetIndex": 9,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_10"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_27",
+      "npcPresetIndex": 10,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_11"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_28",
+      "npcPresetIndex": 11,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_12"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_29",
+      "npcPresetIndex": 12,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_13"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_30",
+      "npcPresetIndex": 13,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_14"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_31",
+      "npcPresetIndex": 14,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_15"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_32",
+      "npcPresetIndex": 15,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_16"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_33",
+      "npcPresetIndex": 16,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_17"
+    },
+    {
+      "raidTrainerInfo": "raid_assist_NPC_34",
+      "npcPresetIndex": 17,
+      "nameTextLabel": "TRNAME_RAID_ASSIST_18"
+    }
+  ]
+}

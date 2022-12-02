@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "devId": "DEV_BUUSUTAA",
+      "formno": 0,
+      "defaultBattleState": "ground"
+    },
+    {
+      "devId": "DEV_HASSAMU",
+      "formno": 0,
+      "defaultBattleState": "ground"
+    },
+    {
+      "devId": "DEV_GABURIASU",
+      "formno": 0,
+      "defaultBattleState": "ground"
+    },
+    {
+      "devId": "DEV_AAAAA",
+      "formno": 0,
+      "defaultBattleState": "float"
+    }
+  ]
+}

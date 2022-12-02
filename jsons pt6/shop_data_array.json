@@ -1,0 +1,308 @@
+{
+  "values": [
+    {
+      "shopid": "shop00",
+      "shopkind": "FRIENDLYSHOP"
+    },
+    {
+      "shopid": "shop_delibird_00",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_00_lineup1",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_00_lineup2",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_00_lineup3",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_01",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_01_lineup1",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_01_lineup2",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_01_lineup3",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_02",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_02_lineup1",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_02_lineup2",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_02_lineup3",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_c01_1",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_c01_1_lineup1",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_c01_1_lineup2",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delibird_c01_1_lineup3",
+      "shopkind": "DELIBIRD"
+    },
+    {
+      "shopid": "shop_delicatessen_c01_1",
+      "shopkind": "DELICATESSEN"
+    },
+    {
+      "shopid": "shop_dressup",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_hairsalon",
+      "shopkind": "HAIRMAKE"
+    },
+    {
+      "shopid": "shop_kanzume_00",
+      "shopkind": "KANZUME"
+    },
+    {
+      "shopid": "shop_koubai_00",
+      "shopkind": "KOUBAI"
+    },
+    {
+      "shopid": "shop_kusuriya_00",
+      "shopkind": "DRUG_STORE"
+    },
+    {
+      "shopid": "shop_pan_00",
+      "shopkind": "BAKERY"
+    },
+    {
+      "shopid": "shop_picnic_00",
+      "shopkind": "PICNIC"
+    },
+    {
+      "shopid": "shop_picnic_01",
+      "shopkind": "PICNIC"
+    },
+    {
+      "shopid": "shop_picnic_02",
+      "shopkind": "PICNIC"
+    },
+    {
+      "shopid": "restaurant01",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant02",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant03",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant04",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant05",
+      "shopkind": "LUXURYRESTAURANT"
+    },
+    {
+      "shopid": "restaurant06",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant07",
+      "shopkind": "LUXURYRESTAURANT"
+    },
+    {
+      "shopid": "restaurant08",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant09",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant10",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant11",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant12",
+      "shopkind": "LUXURYRESTAURANT"
+    },
+    {
+      "shopid": "restaurant13",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant14",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant15",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant16",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant18",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "restaurant01",
+      "shopkind": "RESTAURANT"
+    },
+    {
+      "shopid": "shop_restaurant_highprice01",
+      "shopkind": "LUXURYRESTAURANT"
+    },
+    {
+      "shopid": "shop_bag_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_bag_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_bag_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_delibird_00_lineup4",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_delibird_01_lineup4",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_delibird_02_lineup4",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_eye_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_eye_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_eye_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_foot_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_foot_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_foot_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_head_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_head_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_head_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_high_price_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_high_price_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_high_price_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_leg_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_leg_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_leg_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_low_price_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_low_price_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_low_price_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_ride_01",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_ride_02",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_rotom_00",
+      "shopkind": "DRESSUP"
+    },
+    {
+      "shopid": "shop_souzai_00",
+      "shopkind": "DELICATESSEN"
+    },
+    {
+      "shopid": "shop_suupaa_00",
+      "shopkind": "SUPERMARKET"
+    },
+    {
+      "shopid": "shop_999",
+      "shopkind": "WAZAMACHINEMACHINE"
+    }
+  ]
+}

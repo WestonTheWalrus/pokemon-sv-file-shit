@@ -1,0 +1,54 @@
+{
+  "values": [
+    {
+      "Param": {
+        "TakaraSeasonings": [
+          "TREASURE_SPICE_SWEET",
+          "NONE",
+          "NONE"
+        ],
+        "SkillType": "EGG"
+      }
+    },
+    {
+      "Param": {
+        "TakaraSeasonings": [
+          "TREASURE_SPICE_SALTY",
+          "NONE",
+          "NONE"
+        ],
+        "SkillType": "EXP"
+      }
+    },
+    {
+      "Param": {
+        "TakaraSeasonings": [
+          "TREASURE_SPICE_SOUR",
+          "NONE",
+          "NONE"
+        ],
+        "SkillType": "EXP"
+      }
+    },
+    {
+      "Param": {
+        "TakaraSeasonings": [
+          "TREASURE_SPICE_BITTER",
+          "NONE",
+          "NONE"
+        ],
+        "SkillType": "EXP"
+      }
+    },
+    {
+      "Param": {
+        "TakaraSeasonings": [
+          "TREASURE_SPICE_UMAMI",
+          "NONE",
+          "NONE"
+        ],
+        "SkillType": "ANOTHER_NAME"
+      }
+    }
+  ]
+}

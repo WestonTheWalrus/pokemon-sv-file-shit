@@ -1,0 +1,33 @@
+{
+  "values": [
+    {
+      "data": {
+        "name": "a_t01_i02_head_teacher",
+        "expression1": {
+          "not": false,
+          "type": "ScenarioProgress",
+          "operator": "IsFinish",
+          "variable": "common_0090",
+          "value": 0.0,
+          "exvalue": 0.0
+        },
+        "expression2": {
+          "not": false,
+          "type": "ScenarioProgress",
+          "operator": "NotStart",
+          "variable": "common_0230",
+          "value": 0.0,
+          "exvalue": 0.0
+        },
+        "expression3": {
+          "not": false,
+          "type": "ForceTrue",
+          "operator": "Equal",
+          "variable": "",
+          "value": 0.0,
+          "exvalue": 0.0
+        }
+      }
+    }
+  ]
+}

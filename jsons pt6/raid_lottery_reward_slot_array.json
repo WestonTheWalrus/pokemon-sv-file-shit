@@ -1,0 +1,158 @@
+{
+  "values": [
+    {
+      "slot_01": {
+        "slot_num": 4,
+        "rate": 10
+      },
+      "slot_02": {
+        "slot_num": 5,
+        "rate": 30
+      },
+      "slot_03": {
+        "slot_num": 6,
+        "rate": 30
+      },
+      "slot_04": {
+        "slot_num": 7,
+        "rate": 20
+      },
+      "slot_05": {
+        "slot_num": 8,
+        "rate": 10
+      }
+    },
+    {
+      "slot_01": {
+        "slot_num": 4,
+        "rate": 10
+      },
+      "slot_02": {
+        "slot_num": 5,
+        "rate": 30
+      },
+      "slot_03": {
+        "slot_num": 6,
+        "rate": 30
+      },
+      "slot_04": {
+        "slot_num": 7,
+        "rate": 20
+      },
+      "slot_05": {
+        "slot_num": 8,
+        "rate": 10
+      }
+    },
+    {
+      "slot_01": {
+        "slot_num": 5,
+        "rate": 10
+      },
+      "slot_02": {
+        "slot_num": 6,
+        "rate": 30
+      },
+      "slot_03": {
+        "slot_num": 7,
+        "rate": 30
+      },
+      "slot_04": {
+        "slot_num": 8,
+        "rate": 20
+      },
+      "slot_05": {
+        "slot_num": 9,
+        "rate": 10
+      }
+    },
+    {
+      "slot_01": {
+        "slot_num": 5,
+        "rate": 10
+      },
+      "slot_02": {
+        "slot_num": 6,
+        "rate": 30
+      },
+      "slot_03": {
+        "slot_num": 7,
+        "rate": 30
+      },
+      "slot_04": {
+        "slot_num": 8,
+        "rate": 20
+      },
+      "slot_05": {
+        "slot_num": 9,
+        "rate": 10
+      }
+    },
+    {
+      "slot_01": {
+        "slot_num": 6,
+        "rate": 10
+      },
+      "slot_02": {
+        "slot_num": 7,
+        "rate": 30
+      },
+      "slot_03": {
+        "slot_num": 8,
+        "rate": 30
+      },
+      "slot_04": {
+        "slot_num": 9,
+        "rate": 20
+      },
+      "slot_05": {
+        "slot_num": 10,
+        "rate": 10
+      }
+    },
+    {
+      "slot_01": {
+        "slot_num": 7,
+        "rate": 10
+      },
+      "slot_02": {
+        "slot_num": 8,
+        "rate": 30
+      },
+      "slot_03": {
+        "slot_num": 9,
+        "rate": 30
+      },
+      "slot_04": {
+        "slot_num": 10,
+        "rate": 20
+      },
+      "slot_05": {
+        "slot_num": 11,
+        "rate": 10
+      }
+    },
+    {
+      "slot_01": {
+        "slot_num": 7,
+        "rate": 10
+      },
+      "slot_02": {
+        "slot_num": 8,
+        "rate": 30
+      },
+      "slot_03": {
+        "slot_num": 9,
+        "rate": 30
+      },
+      "slot_04": {
+        "slot_num": 10,
+        "rate": 20
+      },
+      "slot_05": {
+        "slot_num": 11,
+        "rate": 10
+      }
+    }
+  ]
+}

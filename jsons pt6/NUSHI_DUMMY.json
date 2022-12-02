@@ -1,0 +1,84 @@
+{
+  "BehaviorName": "nushi_dummy",
+  "GroupID": "",
+  "Symbol": {
+    "ReactionTypeToPlayer": "CHASE"
+  },
+  "SightParam": {
+    "Distance": 0.0,
+    "LeftAngle": 0.0,
+    "RightAngle": 0.0,
+    "TopAngle": 0.0,
+    "BottomAngle": 0.0
+  },
+  "ActivityParam": {
+    "ActiveTime": {
+      "BeginHour": 0.0,
+      "BeginMinutes": 0.0,
+      "EndHour": 0.0,
+      "EndMinutes": 0.0
+    },
+    "InactiveTime": {
+      "BeginHour": 0.0,
+      "BeginMinutes": 0.0,
+      "EndHour": 0.0,
+      "EndMinutes": 0.0
+    },
+    "AttributeList": {
+      "Attribute0": 0.0,
+      "Attribute1": 0.0,
+      "Attribute2": 0.0,
+      "Attribute3": 0.0,
+      "Attribute4": 0.0,
+      "Attribute5": 0.0,
+      "Attribute6": 0.0,
+      "Attribute7": 0.0,
+      "Attribute8": 0.0,
+      "Attribute9": 0.0,
+      "Attribute10": 0.0,
+      "Attribute11": 0.0,
+      "Attribute12": 0.0,
+      "Attribute13": 0.0,
+      "Attribute14": 0.0,
+      "Attribute15": 0.0,
+      "Attribute16": 0.0,
+      "Attribute17": 0.0,
+      "Attribute18": 0.0,
+      "Attribute19": 0.0,
+      "Attribute20": 0.0,
+      "Attribute21": 0.0,
+      "Attribute22": 0.0,
+      "Attribute23": 0.0,
+      "Attribute24": 0.0,
+      "Attribute25": 0.0,
+      "Attribute26": 0.0,
+      "Attribute27": 0.0
+    },
+    "WeatherList": {
+      "Weather0": 0.0,
+      "Weather1": 0.0,
+      "Weather2": 0.0,
+      "Weather3": 0.0,
+      "Weather4": 0.0,
+      "Weather5": 0.0,
+      "Weather6": 0.0,
+      "Weather7": 0.0,
+      "Weather8": 0.0
+    }
+  },
+  "EcologicalType": {
+    "ReactionTypeToPlayer": "LAND"
+  },
+  "Group": {
+    "GroupType": "FLOCK"
+  },
+  "HearingParam": {
+    "Distance": 0.0
+  },
+  "CliffParam": {
+    "Interval": 0.0,
+    "Hight": 0.0,
+    "DistanceMax": 0.0,
+    "SlideDropThreshold": 0.0
+  }
+}

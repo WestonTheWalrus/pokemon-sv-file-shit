@@ -1,0 +1,29 @@
+{
+  "meteor": {
+    "shower_interval": 2,
+    "quantity_min": 1,
+    "quantity_max": 3,
+    "delay_min": 3.0,
+    "delay_max": 6.0
+  },
+  "gem": {
+    "max_num_unexplored": 44,
+    "max_num_explored": 3,
+    "max_num_an_area_unexplored": 2,
+    "max_num_an_area_explored": 2,
+    "area_max": 30,
+    "group_max": 4,
+    "gem_max": 72,
+    "lottery_group_max": 3,
+    "lottery_kwm_max": 1,
+    "gem_fetch_length": 300.0,
+    "gem_release_length": 320.0,
+    "league_pay_difficulty_01": 500,
+    "league_pay_difficulty_02": 700,
+    "league_pay_difficulty_03": 1000,
+    "league_pay_difficulty_04": 1200,
+    "league_pay_difficulty_05": 1500,
+    "league_pay_difficulty_06": 1800,
+    "league_pay_difficulty_07": 2000
+  }
+}

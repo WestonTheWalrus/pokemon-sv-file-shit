@@ -1,0 +1,2656 @@
+{
+  "values": [
+    {
+      "param": {
+        "waveNum": 0,
+        "addTime": 300,
+        "pokemonLevel": 8,
+        "route": [
+          "U",
+          "U",
+          "U"
+        ],
+        "routeSwitch": true,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 1,
+        "addTime": 30,
+        "pokemonLevel": 9,
+        "route": [
+          "Q",
+          "Q",
+          "K"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          204,
+          207,
+          210,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 2,
+        "addTime": 30,
+        "pokemonLevel": 10,
+        "route": [
+          "L",
+          "L",
+          "P"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          204,
+          207,
+          210,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 3,
+        "addTime": 30,
+        "pokemonLevel": 11,
+        "route": [
+          "E",
+          "F",
+          "J"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          202,
+          205,
+          205,
+          208,
+          208,
+          211,
+          211,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 4,
+        "addTime": 30,
+        "pokemonLevel": 12,
+        "route": [
+          "J",
+          "B",
+          "I"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          212,
+          212,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 5,
+        "addTime": 30,
+        "pokemonLevel": 13,
+        "route": [
+          "P",
+          "A",
+          "D"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          205,
+          205,
+          205,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 6,
+        "addTime": 30,
+        "pokemonLevel": 14,
+        "route": [
+          "K",
+          "D",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          204,
+          207,
+          210,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 7,
+        "addTime": 30,
+        "pokemonLevel": 15,
+        "route": [
+          "L",
+          "I",
+          "B"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 8,
+        "addTime": 30,
+        "pokemonLevel": 16,
+        "route": [
+          "Q",
+          "O",
+          "F"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          201,
+          201,
+          201,
+          201,
+          204,
+          204,
+          204,
+          204,
+          204
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 9,
+        "addTime": 30,
+        "pokemonLevel": 17,
+        "route": [
+          "U",
+          "P",
+          "L"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          207,
+          207,
+          207,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 10,
+        "addTime": 15,
+        "pokemonLevel": 22,
+        "route": [
+          "K",
+          "K",
+          "K"
+        ],
+        "routeSwitch": true,
+        "unitNum": 1,
+        "unitId": [
+          213,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 11,
+        "addTime": 15,
+        "pokemonLevel": 19,
+        "route": [
+          "U",
+          "P",
+          "L"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 12,
+        "addTime": 15,
+        "pokemonLevel": 20,
+        "route": [
+          "R",
+          "J",
+          "F"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 13,
+        "addTime": 15,
+        "pokemonLevel": 21,
+        "route": [
+          "S",
+          "O",
+          "C"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 14,
+        "addTime": 15,
+        "pokemonLevel": 22,
+        "route": [
+          "T",
+          "I",
+          "G"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 15,
+        "addTime": 15,
+        "pokemonLevel": 23,
+        "route": [
+          "N",
+          "D",
+          "H"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 16,
+        "addTime": 15,
+        "pokemonLevel": 24,
+        "route": [
+          "H",
+          "A",
+          "N"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 17,
+        "addTime": 15,
+        "pokemonLevel": 25,
+        "route": [
+          "G",
+          "B",
+          "T"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 18,
+        "addTime": 15,
+        "pokemonLevel": 26,
+        "route": [
+          "F",
+          "F",
+          "M"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 19,
+        "addTime": 15,
+        "pokemonLevel": 27,
+        "route": [
+          "L",
+          "Q",
+          "Q"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          213,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 20,
+        "addTime": 10,
+        "pokemonLevel": 28,
+        "route": [
+          "U",
+          "U",
+          "U"
+        ],
+        "routeSwitch": true,
+        "unitNum": 1,
+        "unitId": [
+          202,
+          205,
+          208,
+          211,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 21,
+        "addTime": 10,
+        "pokemonLevel": 29,
+        "route": [
+          "P",
+          "Q",
+          "P"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 22,
+        "addTime": 10,
+        "pokemonLevel": 30,
+        "route": [
+          "K",
+          "M",
+          "O"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 23,
+        "addTime": 10,
+        "pokemonLevel": 31,
+        "route": [
+          "L",
+          "N",
+          "I"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 24,
+        "addTime": 10,
+        "pokemonLevel": 32,
+        "route": [
+          "Q",
+          "H",
+          "D"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 25,
+        "addTime": 10,
+        "pokemonLevel": 33,
+        "route": [
+          "R",
+          "G",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 26,
+        "addTime": 10,
+        "pokemonLevel": 34,
+        "route": [
+          "S",
+          "C",
+          "B"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 27,
+        "addTime": 10,
+        "pokemonLevel": 35,
+        "route": [
+          "T",
+          "B",
+          "F"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 28,
+        "addTime": 10,
+        "pokemonLevel": 36,
+        "route": [
+          "N",
+          "E",
+          "Q"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          214,
+          214,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 29,
+        "addTime": 10,
+        "pokemonLevel": 42,
+        "route": [
+          "H",
+          "F",
+          "M"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          212,
+          213,
+          213,
+          213,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 30,
+        "addTime": 10,
+        "pokemonLevel": 39,
+        "route": [
+          "G",
+          "G",
+          "G"
+        ],
+        "routeSwitch": true,
+        "unitNum": 1,
+        "unitId": [
+          215,
+          215,
+          215,
+          216,
+          217,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 31,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 32,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 33,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 34,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 35,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 36,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 37,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 38,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 39,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 40,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 41,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 42,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 43,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 44,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 45,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 46,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 47,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 48,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 49,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 50,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 51,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 52,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 53,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 54,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 55,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 56,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 57,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 58,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 59,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 60,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 61,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 62,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 63,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 64,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 65,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 66,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 67,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 68,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 69,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 70,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 71,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 72,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 73,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 74,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 75,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 76,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 77,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 78,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 79,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 80,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 81,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 82,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 83,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 84,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 85,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 86,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 87,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 88,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 89,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 90,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 91,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 92,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 93,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 94,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 95,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 96,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 97,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 98,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 99,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 100,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
+      "param": {
+        "waveNum": 101,
+        "addTime": 10,
+        "pokemonLevel": 40,
+        "route": [
+          "A",
+          "A",
+          "A"
+        ],
+        "routeSwitch": false,
+        "unitNum": 1,
+        "unitId": [
+          201,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    }
+  ]
+}

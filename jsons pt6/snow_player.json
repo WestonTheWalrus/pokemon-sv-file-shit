@@ -1,0 +1,653 @@
+{
+  "Eraser": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 2.5,
+        "y": 2.0,
+        "z": 2.0
+      },
+      "MaxScale": {
+        "x": 2.5,
+        "y": 2.0,
+        "z": 2.0
+      },
+      "MinPos": {
+        "x": 0.3,
+        "y": -0.025,
+        "z": -0.025
+      },
+      "MaxPos": {
+        "x": 0.3,
+        "y": 0.25,
+        "z": 0.025
+      },
+      "MinStrength": -0.5,
+      "MaxStrength": -0.5,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": true,
+      "RotateLockZ": true
+    },
+    "JointName": "spine_01"
+  },
+  "Param0": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.3,
+        "y": 0.15,
+        "z": 0.15
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.15,
+        "z": 0.15
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": -0.08,
+        "z": -0.2
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": 0.08,
+        "z": 0.15
+      },
+      "MinStrength": 0.08,
+      "MaxStrength": 0.09,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": true,
+      "RotateLockZ": true
+    },
+    "JointName": "waist"
+  },
+  "Param1": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.15,
+        "y": 0.15,
+        "z": 0.5
+      },
+      "MaxScale": {
+        "x": 0.15,
+        "y": 0.15,
+        "z": 0.5
+      },
+      "MinPos": {
+        "x": 0.15,
+        "y": -0.15,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.3,
+        "y": 0.15,
+        "z": 0.0
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.05,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": true,
+      "RotateLockZ": false
+    },
+    "JointName": "head"
+  },
+  "Param2": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": -0.015,
+        "z": -0.1
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": 0.015,
+        "z": 0.1
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.05,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": "spine_02"
+  },
+  "Param3": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MaxScale": {
+        "x": 0.4,
+        "y": 0.4,
+        "z": 0.4
+      },
+      "MinPos": {
+        "x": -0.05,
+        "y": 0.0,
+        "z": -0.3
+      },
+      "MaxPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "MinStrength": 0.02,
+      "MaxStrength": 0.03,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": "spine_03"
+  },
+  "Param4": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.5,
+        "y": 0.1,
+        "z": 0.1
+      },
+      "MaxScale": {
+        "x": 0.5,
+        "y": 0.1,
+        "z": 0.1
+      },
+      "MinPos": {
+        "x": 0.2,
+        "y": -0.1,
+        "z": -0.15
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": 0.1,
+        "z": 0.0
+      },
+      "MinStrength": 0.02,
+      "MaxStrength": 0.06,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": true,
+      "RotateLockZ": true
+    },
+    "JointName": "head"
+  },
+  "Param5": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": -0.1,
+        "z": -0.1
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": 0.1,
+        "z": 0.1
+      },
+      "MinStrength": 0.01,
+      "MaxStrength": 0.01,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": true
+    },
+    "JointName": ""
+  },
+  "Param6": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": 0.025,
+        "z": -0.05
+      },
+      "MaxPos": {
+        "x": -0.025,
+        "y": 0.125,
+        "z": 0.05
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.06,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": "left_arm_01"
+  },
+  "Param7": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": 0.05,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": 0.12,
+        "z": 0.0
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.08,
+      "AdaptJointRotate": true,
+      "RotateLockX": true,
+      "RotateLockY": false,
+      "RotateLockZ": true
+    },
+    "JointName": ""
+  },
+  "Param8": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": 0.05,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": 0.12,
+        "z": 0.0
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.08,
+      "AdaptJointRotate": true,
+      "RotateLockX": true,
+      "RotateLockY": false,
+      "RotateLockZ": true
+    },
+    "JointName": ""
+  },
+  "Param9": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": -0.125,
+        "z": -0.05
+      },
+      "MaxPos": {
+        "x": -0.025,
+        "y": -0.025,
+        "z": 0.05
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.06,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": "right_arm_01"
+  },
+  "Param10": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": -0.1,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": -0.05,
+        "z": 0.0
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.08,
+      "AdaptJointRotate": true,
+      "RotateLockX": true,
+      "RotateLockY": false,
+      "RotateLockZ": true
+    },
+    "JointName": ""
+  },
+  "Param11": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "MaxScale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "MinPos": {
+        "x": -0.1,
+        "y": -0.1,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.1,
+        "y": -0.05,
+        "z": 0.0
+      },
+      "MinStrength": 0.05,
+      "MaxStrength": 0.08,
+      "AdaptJointRotate": true,
+      "RotateLockX": true,
+      "RotateLockY": false,
+      "RotateLockZ": true
+    },
+    "JointName": ""
+  },
+  "Param12": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.35,
+        "y": 0.35,
+        "z": 0.35
+      },
+      "MaxScale": {
+        "x": 0.4,
+        "y": 0.4,
+        "z": 0.4
+      },
+      "MinPos": {
+        "x": -0.05,
+        "y": 0.0,
+        "z": -0.05
+      },
+      "MaxPos": {
+        "x": 0.08,
+        "y": 0.15,
+        "z": 0.05
+      },
+      "MinStrength": 0.03,
+      "MaxStrength": 0.05,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": "left_leg_01"
+  },
+  "Param13": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.35,
+        "y": 0.35,
+        "z": 0.35
+      },
+      "MaxScale": {
+        "x": 0.4,
+        "y": 0.4,
+        "z": 0.4
+      },
+      "MinPos": {
+        "x": -0.05,
+        "y": -0.15,
+        "z": -0.05
+      },
+      "MaxPos": {
+        "x": 0.08,
+        "y": 0.0,
+        "z": 0.05
+      },
+      "MinStrength": 0.03,
+      "MaxStrength": 0.05,
+      "AdaptJointRotate": true,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": "right_leg_01"
+  },
+  "Param14": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinStrength": 0.0,
+      "MaxStrength": 0.0,
+      "AdaptJointRotate": false,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": ""
+  },
+  "Param15": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinStrength": 0.0,
+      "MaxStrength": 0.0,
+      "AdaptJointRotate": false,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": ""
+  },
+  "Param16": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinStrength": 0.0,
+      "MaxStrength": 0.0,
+      "AdaptJointRotate": false,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": ""
+  },
+  "Param17": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinStrength": 0.0,
+      "MaxStrength": 0.0,
+      "AdaptJointRotate": false,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": ""
+  },
+  "Param18": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinStrength": 0.0,
+      "MaxStrength": 0.0,
+      "AdaptJointRotate": false,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": ""
+  },
+  "Param19": {
+    "BoxInfo": {
+      "MinScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxScale": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MaxPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MinStrength": 0.0,
+      "MaxStrength": 0.0,
+      "AdaptJointRotate": false,
+      "RotateLockX": false,
+      "RotateLockY": false,
+      "RotateLockZ": false
+    },
+    "JointName": ""
+  }
+}

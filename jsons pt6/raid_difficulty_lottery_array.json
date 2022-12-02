@@ -1,0 +1,134 @@
+{
+  "values": [
+    {
+      "target_01": {
+        "difficulty": 1,
+        "rate": 80
+      },
+      "target_02": {
+        "difficulty": 2,
+        "rate": 20
+      },
+      "target_03": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_04": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_05": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_06": {
+        "difficulty": 0,
+        "rate": 0
+      }
+    },
+    {
+      "target_01": {
+        "difficulty": 1,
+        "rate": 30
+      },
+      "target_02": {
+        "difficulty": 2,
+        "rate": 40
+      },
+      "target_03": {
+        "difficulty": 3,
+        "rate": 30
+      },
+      "target_04": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_05": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_06": {
+        "difficulty": 0,
+        "rate": 0
+      }
+    },
+    {
+      "target_01": {
+        "difficulty": 1,
+        "rate": 20
+      },
+      "target_02": {
+        "difficulty": 2,
+        "rate": 20
+      },
+      "target_03": {
+        "difficulty": 3,
+        "rate": 30
+      },
+      "target_04": {
+        "difficulty": 4,
+        "rate": 30
+      },
+      "target_05": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_06": {
+        "difficulty": 0,
+        "rate": 0
+      }
+    },
+    {
+      "target_01": {
+        "difficulty": 3,
+        "rate": 40
+      },
+      "target_02": {
+        "difficulty": 4,
+        "rate": 35
+      },
+      "target_03": {
+        "difficulty": 5,
+        "rate": 25
+      },
+      "target_04": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_05": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_06": {
+        "difficulty": 0,
+        "rate": 0
+      }
+    },
+    {
+      "target_01": {
+        "difficulty": 3,
+        "rate": 30
+      },
+      "target_02": {
+        "difficulty": 4,
+        "rate": 40
+      },
+      "target_03": {
+        "difficulty": 5,
+        "rate": 30
+      },
+      "target_04": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_05": {
+        "difficulty": 0,
+        "rate": 0
+      },
+      "target_06": {
+        "difficulty": 0,
+        "rate": 0
+      }
+    }
+  ]
+}

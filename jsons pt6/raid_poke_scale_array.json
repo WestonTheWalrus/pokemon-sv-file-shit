@@ -1,0 +1,4813 @@
+{
+  "values": [
+    {
+      "monsno": "DEV_HITOKAGE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RIZAADO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RIZAADON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 5,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 6,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 7,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PIKATYUU",
+      "formno": 8,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RAITYUU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RAITYUU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RAITYUU",
+      "formno": 1,
+      "sex": "MALE",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RAITYUU",
+      "formno": 1,
+      "sex": "FEMALE",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PURIN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PUKURIN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KONPAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MORUFON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DHIGUDA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DHIGUDA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DAGUTORIO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DAGUTORIO",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYAASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYAASU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYAASU",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PERUSIAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.25,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PERUSIAN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.25,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KODAKKU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GORUDAKKU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MANKII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OKORIZARU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GAADHI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GAADHI",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UINDHI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UINDHI",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YADON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YADON",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YADORAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YADORAN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_REAKOIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BETOBETAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BETOBETAA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BETOBETON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BETOBETON",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SHERUDAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PARUSHEN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOOSUTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GENGAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SURIIPU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SURIIPAA",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SURIIPAA",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BIRIRIDAMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BIRIRIDAMA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MARUMAIN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MARUMAIN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RAKKII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUTORAIKU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUTORAIKU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KENTAROSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KENTAROSU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KENTAROSU",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KENTAROSU",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOIKINGU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOIKINGU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GYARADOSU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GYARADOSU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_METAMON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IIBUI",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IIBUI",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SYAWAAZU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SANDAASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BUUSUTAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURIIZAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.4
+    },
+    {
+      "monsno": "DEV_HURIIZAA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_SANDAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SANDAA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FAIYAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_FAIYAA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MINIRYUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HAKURYUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.25,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAIRYUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MYUUTUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MYUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HINOARASI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAGUMARASI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BAKUHUUN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BAKUHUUN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PITYUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PUPURIN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MERIIPU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MOKOKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DENRYUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MARIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MARIRURI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_USOKKII",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_USOKKII",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HANEKKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_POPOKKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WATAKKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HIMANATTU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KIMAWARI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UPAA",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UPAA",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UPAA",
+      "formno": 1,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UPAA",
+      "formno": 1,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NUOO",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NUOO",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_EEFI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BURAKKII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YAMIKARASU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YAMIKARASU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YADOKINGU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YADOKINGU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MUUMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KIRINRIKI",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KIRINRIKI",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUNUGIDAMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FORETOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NOKOTTI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HARIISEN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HARIISEN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HASSAMU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HASSAMU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HERAKUROSU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HERAKUROSU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYUURA",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYUURA",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYUURA",
+      "formno": 1,
+      "sex": "MALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYUURA",
+      "formno": 1,
+      "sex": "FEMALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HIMEGUMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RINGUMA",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RINGUMA",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DERIBAADO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DERUBIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HERUGAA",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HERUGAA",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOMAZOU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DONFAN",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DONFAN",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ODOSISI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HAPINASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YOOGIRASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SANAGIRASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BANGIRASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KYAMOME",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_PERIPPAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RARUTOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KIRURIA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SAANAITO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AMETAMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AMEMOOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KINOKOKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KINOGASSA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NAMAKERO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YARUKIMONO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KEKKINGU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAKUNOSITA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HARITEYAMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.4,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RURIRI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YAMIRAMI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ASANAN",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ASANAN",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TYAAREMU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TYAAREMU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOKURIN",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOKURIN",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MARUNOOMU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MARUNOOMU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DONMERU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DONMERU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BAKUUDA",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BAKUUDA",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOOTASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BANEBUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BUUPIGGU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SABONEA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NOKUTASU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NOKUTASU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TIRUTTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TIRUTARISU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_ZANGUUSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HABUNEEKU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOZYOTTI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NAMAZUN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAGEBOUZU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZYUPETTA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TOROPIUSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YUKIWARASI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ONIGOORI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RABUKASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TATUBEI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOMORUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BOOMANDA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAIOOGA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GURAADON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_REKKUUZA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.3
+    },
+    {
+      "monsno": "DEV_MUKKURU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 4.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_MUKKURU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 4.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_MUKUBAADO",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_MUKUBAADO",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_MUKUHOOKU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_MUKUHOOKU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_KOROBOOSI",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOROBOOSI",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOROTOKKU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOROTOKKU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KORINKU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KORINKU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RUKUSIO",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RUKUSIO",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RENTORAA",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RENTORAA",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MITUHANII",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MITUHANII",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BIIKUIN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PATIRISU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BUIZERU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUROOZERU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KARANAKUSI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KARANAKUSI",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TORITODON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TORITODON",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUWANTE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUWARAIDO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MUUMAAZI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DONKARASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_SUKANPUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUKATANKU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOOMIRAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOOTAKUN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_USOHATI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PINPUKU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIKARUGE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUKAMARU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUKAMARU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GABAITO",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GABAITO",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GABURIASU",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GABURIASU",
+      "formno": 0,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RIORU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RUKARIO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.25,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HIPOPOTASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.25,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KABARUDON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GUREGGURU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOKUROGGU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KEIKOUO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEORANTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YUKIKABURI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YUKINOOO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MANYUURA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZIBAKOIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RIIFIA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GUREISIA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ERUREIDO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YUKIMENOKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ROTOMU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ROTOMU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ROTOMU",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ROTOMU",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ROTOMU",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ROTOMU",
+      "formno": 5,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YUKUSII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_EMURITTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AGUNOMU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DHIARUGA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DHIARUGA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PARUKIA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PARUKIA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HIIDORAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GIRATHINA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GIRATHINA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KURESERIA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 5,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 6,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 7,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 8,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 9,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 10,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 11,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 12,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 13,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 14,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 15,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 16,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ARUSEUSU",
+      "formno": 17,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIZYUMARU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUTATIMARU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DAIKENKI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DAIKENKI",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TYURINE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOREDHIA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOREDHIA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BASURAO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BASURAO",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MEGUROKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WARUBIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WARUBIARU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZOROA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZOROA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZOROAAKU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZOROAAKU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOTIMU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOTIMIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOTIRUZERU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SIKIZIKA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MEBUKIZIKA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MEBUKIZIKA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MEBUKIZIKA",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MEBUKIZIKA",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TAMAGETAKE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MOROBARERU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAMANBOU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SIBISIRASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 8.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SIBIBIIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SIBIRUDON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KIBAGO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ONONDO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ONONOKUSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUMASYUN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TUNBEAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURIIZIO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOMATANA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KIRIKIZAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WASIBON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WHOOGURU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_WHOOGURU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_MONOZU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZIHEDDO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SAZANDORA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MERARUBA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_URUGAMOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TORUNEROSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TORUNEROSU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BORUTOROSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BORUTOROSU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RANDOROSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RANDOROSU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MEROETTA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MEROETTA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 3.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HARIMARON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HARIBOOGU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BURIGARON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FOKKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TEERUNAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAFOKUSII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KEROMATU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GEKOGASIRA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GEKKOUGA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YAYAKOMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_HINOYAKOMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_FAIAROO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 5,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 6,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 7,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 8,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 9,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 10,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 11,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 12,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 13,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 14,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 15,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 16,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 17,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 18,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUKIMUSI",
+      "formno": 19,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 5,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 6,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 7,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 8,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 9,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 10,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 11,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 12,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 13,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 14,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 15,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 16,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 17,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 18,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOHUURAI",
+      "formno": 19,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 5,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 6,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 7,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 8,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 9,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 10,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 11,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 12,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 13,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 14,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 15,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 16,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 17,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 18,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BIBIYON",
+      "formno": 19,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_SISIKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAENZISI",
+      "formno": 0,
+      "sex": "MALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAENZISI",
+      "formno": 1,
+      "sex": "FEMALE",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURABEBE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURABEBE",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURABEBE",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURABEBE",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURABEBE",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAETTE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAETTE",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAETTE",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAETTE",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAETTE",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAAJESU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAAJESU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAAJESU",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAAJESU",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HURAAJESU",
+      "formno": 4,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MHEEKURU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GOOGOOTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUZUMOO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DORAMIDORO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UDEPPOU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BUROSUTAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NINFIA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RUTYABURU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DEDENNE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MERESII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NUMERA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NUMEIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NUMEIRU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NUMERUGON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NUMERUGON",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUREHFI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KATIKOORU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUREBEESU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUREBEESU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ONBATTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ONBAAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DHIANSII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUUPA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUUPA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BORUKENION",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MOKUROO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HUKUSUROO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZYUNAIPAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZYUNAIPAA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YANGUUSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DEKAGUUSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAKENKANI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KEKENKANI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ODORIDORI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ODORIDORI",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ODORIDORI",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ODORIDORI",
+      "formno": 3,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IWANKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RUGARUGAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RUGARUGAN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RUGARUGAN",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HIDOIDE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOHIDOIDE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DOROBANKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BANBADORO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KARIKIRI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RARANTESU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YATOUMORI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ENNYUUTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AMAKAZI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AMAMAIKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AMAAZYO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YAREYUUTAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NAGETUKESARU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUNABHA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SIRODESUNA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEKKOARA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIMIKKYU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIMIKKYU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HAGIGISIRI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAGIANA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAGIANA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SARUNORI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BATINKII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GORIRANDAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HIBANII",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_RABIHUTTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_EESUBAAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MESSON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZIMEREON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_INTEREON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HOSIGARISU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YOKUBARISU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOKOGARA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AOGARASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AAMAAGAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAMUKAME",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAZIRIGAME",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TANDON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TOROGGON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SEKITANZAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAZITTYU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 6.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_APPURYUU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TARUPPURU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUNAHEBI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SADAIZYA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SASIKAMASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAMASUZYOO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_EREZUN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUTORINDAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUTORINDAA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YABATYA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_POTTODESU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIBURIMU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TEBURIMU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BURIMUON",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BEROBAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GIMOO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OORONGE",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NYAIKINGU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TAIREETU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.4,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BATINUNI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_YUKIHAMI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MOSUNOU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.4
+    },
+    {
+      "monsno": "DEV_ISIHENZIN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOORIPPO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOORIPPO",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IESSAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IESSAN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZOUDOU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DAIOUDOU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DORAMESIYA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DORONTI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DORAPARUTO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZASIAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZASIAN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZAMAZENTA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZAMAZENTA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.2,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MUGENDAINA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 0.55,
+      "offset": 0.4
+    },
+    {
+      "monsno": "DEV_AAMAA1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AAMAA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_m23",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_REDEN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_REDORA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HAKUBA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOKUBA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KURAUN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KURAUN",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KURAUN",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ODOSISI2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUTORAIKU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HIMEGUMA3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_rBASURAO2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_rNYUURA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_rHARISEN2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FEATOROSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FEATOROSU",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEKO1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEKO2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEKO3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WANI1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WANI2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_WANI3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAMO1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAMO2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAMO3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BUTA1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BUTA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BUTA2",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NOKOTTI2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NOKOTTI2",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUMO1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KUMO2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BATTA1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BATTA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUKARABE1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUKARABE2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OBAKEINU1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OBAKEINU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DATYOU1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_DATYOU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KIRINRIKI2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UMIDHIGUDA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_UMITORIO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OYAKATA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MERURUUSA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IRUKA1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IRUKA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_IRUKA2",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ORIIBU1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ORIIBU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ORIIBU3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HABANERO1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HABANERO2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAERU1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KAERU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ENZIN1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ENZIN2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIMIZU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEZUMI1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEZUMI2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_NEZUMI2",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OKAKUZIRA1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OKAKUZIRA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.3,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOORIDORA1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOORIDORA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOORIDORA3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUSIDORA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUSIDORA",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_SUSIDORA",
+      "formno": 2,
+      "sex": "DEFAULT",
+      "scale": 7.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BAIKU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAAMOTTO1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAAMOTTO2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MAAMOTTO3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIZUDORI1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MIZUDORI2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOUNOTORI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_INKO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_HURAMINGO",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KEGANI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GANEN1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GANEN2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_GANEN3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KARUKAN1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KARUKAN2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AIAI1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 6.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AIAI2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PANINU1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 4.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_PANINU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MASUTHIHU1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MASUTHIHU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TANBURU1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_TANBURU2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOIN1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOIN1",
+      "formno": 1,
+      "sex": "DEFAULT",
+      "scale": 5.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOIN2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ADONFAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AMOROBARERU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AKETUBAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AREAKOIRU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_APURIN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AMUUMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AURUGAMOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AAAAA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BDONFAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BKETUBAN",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BURUGAMOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.5
+    },
+    {
+      "monsno": "DEV_BHARITEYAMA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BSAZANDORA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BBANGIRASU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BKOORI",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BBBBB",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZYUNDEN1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZYUNDEN2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZYUNDEN3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_ZYUNDEN4",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_AIGUANA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_BIGUANA",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FEARII1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 3.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FEARII2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_FEARII3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HINOKO1",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HINOKO2A",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_HINOKO2B",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OKAKINGU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_OKAGYARADOSU",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_KOMATANA3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.5,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_rUPAA2",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 2.0,
+      "offset": 0.0
+    },
+    {
+      "monsno": "DEV_MANKII3",
+      "formno": 0,
+      "sex": "DEFAULT",
+      "scale": 1.75,
+      "offset": 0.0
+    }
+  ]
+}

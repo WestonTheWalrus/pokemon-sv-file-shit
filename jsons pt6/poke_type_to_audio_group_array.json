@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "pokeType": "DanBattle",
+      "groupPath": "Field/DanBattlePokemon"
+    },
+    {
+      "pokeType": "DanPartner",
+      "groupPath": "Field/PartnerPokemon"
+    },
+    {
+      "pokeType": "Partner",
+      "groupPath": "Field/PartnerPokemon"
+    },
+    {
+      "pokeType": "Picnic",
+      "groupPath": "Field/PartnerPokemon"
+    },
+    {
+      "pokeType": "Picnic",
+      "groupPath": "Field/Env/WildPokemon"
+    },
+    {
+      "pokeType": "Simple",
+      "groupPath": "Field/Env/WildPokemon"
+    },
+    {
+      "pokeType": "Traffic",
+      "groupPath": "Field/Env/Traffic"
+    },
+    {
+      "pokeType": "Wild",
+      "groupPath": "Field/Env/WildPokemon"
+    }
+  ]
+}

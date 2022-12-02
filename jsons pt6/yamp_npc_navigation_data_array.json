@@ -1,0 +1,43 @@
+{
+  "values": [
+    {
+      "ID": "NAVI_TEST_SCENE",
+      "Type": "SCENE_OBJECT",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MapIconID": "",
+      "SceneName": "ter_04_02_resident",
+      "ObjectName": "objects_un_pokemoncenter01_area01_01",
+      "mstxtLabel": "ymap_01_01"
+    },
+    {
+      "ID": "NAVI_TEST_MAPICON",
+      "Type": "MAPICON_ID",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "MapIconID": "DAN_AKU",
+      "SceneName": "",
+      "ObjectName": "",
+      "mstxtLabel": "ymap_01_01"
+    },
+    {
+      "ID": "NAVI_TEST_POS",
+      "Type": "POSITION_XYZ",
+      "Position": {
+        "x": 2528.950928,
+        "y": 68.375999,
+        "z": 1042.751953
+      },
+      "MapIconID": "",
+      "SceneName": "",
+      "ObjectName": "",
+      "mstxtLabel": "ymap_01_01"
+    }
+  ]
+}

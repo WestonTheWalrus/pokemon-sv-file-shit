@@ -1,0 +1,4888 @@
+{
+  "values": [
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "0",
+        "anim_state": "wait03"
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "1",
+        "anim_state": "wait03"
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "2",
+        "anim_state": "wait03"
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_df_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "28",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "29",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "30",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "31",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "32",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_cup",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "33",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_cup",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "",
+        "anim_slot": "",
+        "anim_state": "wait03"
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0370_worker",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_clipboard",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0390_businessman",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0390_businessman",
+        "anim_slot": "42",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0400_ol",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0400_ol",
+        "anim_slot": "42",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0410_mania",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_41",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0430_chef",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_ladle",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0440_backpacker",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_phone",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0470_cleaning",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_brush",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0470_cleaning",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_brush",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0620_schildm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0620_schildm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_b_20",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0620_schildm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_b_20",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0620_schildm",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0620_schildm",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0620_schildm",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0630_syouthm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0630_syouthm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0630_syouthm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_dm_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0630_syouthm",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0630_syouthm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0640_sadultm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0640_sadultm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0640_sadultm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_dm_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0640_sadultm",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0640_sadultm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0641_smiddlem",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0641_smiddlem",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0641_smiddlem",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_dm_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0641_smiddlem",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0641_smiddlem",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0650_soldm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0650_soldm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0650_soldm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_dm_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0650_soldm",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0650_soldm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "14",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "15",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0660_sinfantm",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0670_schildf",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0670_schildf",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_b_20",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0670_schildf",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_b_20",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0670_schildf",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0670_schildf",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0670_schildf",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0670_schildf",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0680_syouthf",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0680_syouthf",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0690_sadultf",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0690_sadultf",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0691_smiddlef",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0691_smiddlef",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0692_soldf",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0692_soldf",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "14",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "15",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0700_sinfantmf",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "14",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "15",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0720_infantm",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "14",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "15",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0730_infantf",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.35,
+            "z": -0.1
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "14",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "15",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0740_childm",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "14",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "15",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_bookb_a_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "22",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_sandwichk",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "37",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_switch",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_chaircushion01",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.55,
+            "z": -0.05
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0750_childf",
+        "anim_slot": "38",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_glass",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0760_youthm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0760_youthm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0760_youthm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_dm_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0760_youthm",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0760_youthm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0780_adultm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0780_adultm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0780_adultm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_dm_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0780_adultm",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0780_adultm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0800_middlem",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0800_middlem",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0800_middlem",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_dm_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0800_middlem",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0800_middlem",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0840_oldm",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0840_oldm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0860_hunkm",
+        "anim_slot": "19",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0860_hunkm",
+        "anim_slot": "20",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_19",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "acs_pencil",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0860_hunkm",
+        "anim_slot": "21",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_booka_21",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0860_hunkm",
+        "anim_slot": "25",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0860_hunkm",
+        "anim_slot": "26",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_shoppingbaga",
+          "node": "right_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0890_deliverer",
+        "anim_slot": "41",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_paperboxa",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    },
+    {
+      "motion": {
+        "model_filename": "tr0890_deliverer",
+        "anim_slot": "42",
+        "anim_state": ""
+      },
+      "attach": {
+        "data_0": {
+          "template": "acs_paperboxb",
+          "node": "left_attach_off",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        },
+        "data_1": {
+          "template": "",
+          "node": "",
+          "label": "",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "anim_trigger": "",
+          "anim_int": 0
+        }
+      }
+    }
+  ]
+}

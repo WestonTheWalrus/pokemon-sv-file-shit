@@ -1,0 +1,33 @@
+{
+  "values": [
+    {
+      "data": {
+        "name": "event_pos_warp_i11",
+        "expression1": {
+          "not": false,
+          "type": "ScenarioProgress",
+          "operator": "IsFinish",
+          "variable": "common_1055",
+          "value": 0.0,
+          "exvalue": 0.0
+        },
+        "expression2": {
+          "not": false,
+          "type": "ForceTrue",
+          "operator": "Equal",
+          "variable": "",
+          "value": 0.0,
+          "exvalue": 0.0
+        },
+        "expression3": {
+          "not": false,
+          "type": "ForceTrue",
+          "operator": "Equal",
+          "variable": "",
+          "value": 0.0,
+          "exvalue": 0.0
+        }
+      }
+    }
+  ]
+}
