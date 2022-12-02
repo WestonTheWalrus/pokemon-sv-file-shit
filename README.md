@@ -23,3 +23,5 @@ Things you could use:
 pkNx: https://github.com/kwsch/pkNX/tree/master/pkNX.WinForms by kwsch
 
 SCVI extract: https://github.com/psthrn42/SCVI_Extract by psthrn42
+
+if you want the games files, dm me
