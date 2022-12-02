@@ -1,0 +1,14 @@
+{
+  "encounterCountMax": 30,
+  "encounterCheckInterval": 10.0,
+  "chainDataPath": "audio/exl/fb/EnvPokeVoiceChainData.bin",
+  "encounterUnregisterFrameCount": 600,
+  "playbackLimitInterval": 5.0,
+  "audioGroupPath": "Field/Env/EnvPokeVoice",
+  "timeOfDayHours": {
+    "morningTime": 5,
+    "dayTime": 10,
+    "eveningTime": 17,
+    "nightTime": 20
+  }
+}

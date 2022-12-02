@@ -1,0 +1,18 @@
+{
+  "NpcPokeVoiceProbability": 50,
+  "EsperGymPokeVoiceProbability": 20,
+  "GhostGymPokeVoiceProbability": 20,
+  "DenkiGymPokeVoiceProbability": 20,
+  "KusaGymPokeVoiceProbability": 20,
+  "KooriGymPokeVoiceProbability": 20,
+  "MizuGymPokeVoiceProbability": 20,
+  "MushiGymPokeVoiceProbability": 20,
+  "PlayerMaxVelocity": 6.0,
+  "RideMaxVelocity": 15.0,
+  "WaterExistenceThreshold": 0.5,
+  "AirExistenceThreashold": 0.5,
+  "NetPlayerAttributePickDistance": 30.0,
+  "PlaybackLimitFieldDefault": 8,
+  "PlaybackLimitFieldWhenBattle": 4,
+  "PlaybackLimitFieldWhenEvent": 4
+}

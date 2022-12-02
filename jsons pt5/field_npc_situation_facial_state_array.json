@@ -1,0 +1,25 @@
+{
+  "values": [
+    {
+      "State": "Default",
+      "Priority": 99,
+      "FacialLabel": "Default",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "PropertyLookAtPlayer",
+      "Priority": 0,
+      "FacialLabel": "Default",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    },
+    {
+      "State": "PropertyNormal",
+      "Priority": 1,
+      "FacialLabel": "Default",
+      "EnableLookAt": true,
+      "EnableEyeBlink": true
+    }
+  ]
+}

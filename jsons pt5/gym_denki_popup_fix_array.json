@@ -1,0 +1,19 @@
+{
+  "values": [
+    {
+      "eventShowTime": 3.0,
+      "eventAppearFirstTime": 0.4,
+      "eventAppearMinTime": 0.3,
+      "eventAppearMaxTime": 0.8,
+      "eventPopup1AreaId": 1,
+      "eventPopup2AreaId": 2,
+      "eventPopup3AreaId": 3,
+      "eventPopup4AreaId": 4,
+      "bossShowTime": 2.0,
+      "bossPopup1AreaId": 5,
+      "bossPopup2AreaId": 6,
+      "bossPopup3AreaId": 7,
+      "bossPopup4AreaId": 8
+    }
+  ]
+}

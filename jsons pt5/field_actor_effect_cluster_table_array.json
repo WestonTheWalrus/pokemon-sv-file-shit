@@ -1,0 +1,3739 @@
+{
+  "values": [
+    {
+      "Key": "PL_LEAF_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_LEAF"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_LEAF"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_LEAF"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLID_LEAF"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_GRASS_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_GRS"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_GRS"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_GRS"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLID_GRS"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_GRASS_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_SOIL_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_SOIL"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_SOIL"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_SOIL"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_SOIL"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "PL_CLIFF_F_DUST"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "PL_CLIFF_F_DUST"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_SOIL_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "PL_CLIFF_F_DUST"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "PL_CLIFF_F_DUST"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_SAND_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_SAND"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_SAND"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_SAND"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_SAND"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_SAND_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_MUD_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_MUD"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_MUD"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_MUD"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_MUD"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_SHOAL_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_SNOW_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_SNOW"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_SNOW"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_SNOW"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_SNOW"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "PL_CLIFF_F_SNOW"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "PL_CLIFF_F_SNOW"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_RAIN_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_RIVER_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RD_LEAF_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_LEAF"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_LEAF"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_LEAF"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_LEAF"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_LEAF"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RD_DASH_LEAF"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_LEAF"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_GRASS_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_GRS"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_GRS"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_GRS"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_GRS"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_GRS"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_DASH_GRS"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_GRASS"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_GRASS_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_17": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_GRASS_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_GRS"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_GRS"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_GRS"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_GRS"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_GRS"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_GRS"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_GRASS"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_GRASS_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_RAIN"
+      },
+      "Pair_17": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_SOIL_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_SOIL"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_SOIL"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_SOIL"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_SOIL"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_SOIL"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "RDP_CLIFF_DEBRIS_SOIL"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_DASH_SOIL"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_16": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_SOIL"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_SOIL_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "RDP_CLIFF_DEBRIS_SOIL"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_16": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_SOIL_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_SOIL"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_SOIL"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_SOIL"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_SOIL"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_SOIL"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "RDP_CLIFF_DEBRIS_SOIL"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_SOIL"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_16": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_SOIL"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_SOIL_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "RDP_CLIFF_F_DUST"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "RDP_CLIFF_DEBRIS_SOIL"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_RAIN"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING"
+      },
+      "Pair_16": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_SAND_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_SAND"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_SAND"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_SAND"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_SAND"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_SAND"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_DASH_SAND"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_SAND"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_SAND_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_17": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_SAND_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_SAND"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_SAND"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_SAND"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_SAND"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_SAND"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_SAND"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_SAND"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_SAND_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_RAIN"
+      },
+      "Pair_17": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_SAND"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_MUD_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_MUD"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_MUD"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_MUD"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_MUD"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_MUD"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_DASH_MUD"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_MUD"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_MUD_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_MUD"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_MUD"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_MUD"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_MUD"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_MUD"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_MUD"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_MUD"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_SHOAL_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_SHOAL_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_SNOW_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_SNOW"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_SNOW"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_SNOW"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_SNOW"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_SNOW"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "RDP_CLIFF_DEBRIS_SNOW"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_DASH_SNOW"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_SNOW"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_16": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_SNOW_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_SNOW"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_SNOW"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_SNOW"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_SNOW"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_SNOW"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "RDP_CLIFF_F_SNOW"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "RDP_CLIFF_DEBRIS_SNOW"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_SNOW"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_SNOW"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_16": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "RDP_CLIFF_DRAGGING_SNOW"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_RAIN_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_RAIN_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_RAIN"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_13": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RD_RIVER_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RD_SEA_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_KARE_GRASS_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "NONE",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "NONE"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "NONE"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "NONE"
+      },
+      "Pair_05": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Jump",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "HighJump",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Front_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Front_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Front_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Cliff_Front_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "Dash",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "Cliff_Down_right_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "Cliff_Down_left_hand",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "Cliff_Down_right_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "Cliff_Down_left_toe",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "RunTurn",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_LEAF_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "Cliff_Front_right",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front_left",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_LEAF_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_LEAF"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_LEAF"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_LEAF"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_LEAF"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_LEAF"
+      },
+      "Pair_06": {
+        "EffectName": "Cliff_Front",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "Cliff_Back",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "Cliff_Up",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "Cliff_Down",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "Cliff_Debris",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_LEAF"
+      },
+      "Pair_12": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_LEAF"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_KARE_LEAF_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_KARE_LEAF"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_KARE_LEAF"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_KARE_LEAF"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_KARE_LEAF"
+      },
+      "Pair_05": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "PL_KARE_LEAF_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "PL_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "RotomLanding",
+        "FileKey": "PL_LAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Sliding",
+        "FileKey": "PL_SLD_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_06": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_07": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_KARE_LEAF_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_KARE_LEAF"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_KARE_LEAF"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_KARE_LEAF"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_KARE_LEAF"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_KARE_LEAF"
+      },
+      "Pair_06": {
+        "EffectName": "RunTurn",
+        "FileKey": "RD_RUN_TURN_KARE_LEAF"
+      },
+      "Pair_07": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_DASH_KARE_LEAF"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDP_KARE_LEAF_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_07": {
+        "EffectName": "Dash",
+        "FileKey": "RDP_RUN_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_KARE_LEAF_NORM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_KARE_LEAF"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_KARE_LEAF"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_KARE_LEAF"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_KARE_LEAF"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_KARE_LEAF"
+      },
+      "Pair_06": {
+        "EffectName": "RunTurn",
+        "FileKey": "RD_RUN_TURN_KARE_LEAF"
+      },
+      "Pair_07": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_KARE_LEAF"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    },
+    {
+      "Key": "RDF_KARE_LEAF_ABSM",
+      "Pair_01": {
+        "EffectName": "Run",
+        "FileKey": "RDF_RUN_RAIN"
+      },
+      "Pair_02": {
+        "EffectName": "Landing",
+        "FileKey": "RD_LAND_RAIN"
+      },
+      "Pair_03": {
+        "EffectName": "HeavyLanding",
+        "FileKey": "RD_HILAND_RAIN"
+      },
+      "Pair_04": {
+        "EffectName": "Jump",
+        "FileKey": "RD_JUMP_RAIN"
+      },
+      "Pair_05": {
+        "EffectName": "HighJump",
+        "FileKey": "RD_HIJUMP_RAIN"
+      },
+      "Pair_06": {
+        "EffectName": "RunTurn",
+        "FileKey": "RDP_RUN_TURN_RAIN"
+      },
+      "Pair_07": {
+        "EffectName": "Dash",
+        "FileKey": "RDF_DASH_RAIN"
+      },
+      "Pair_08": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_09": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_10": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_11": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_12": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_13": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_14": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_15": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_16": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_17": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_18": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_19": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      },
+      "Pair_20": {
+        "EffectName": "",
+        "FileKey": "NONE"
+      }
+    }
+  ]
+}

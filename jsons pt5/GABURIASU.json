@@ -1,0 +1,48 @@
+{
+  "Ittekoi": {
+    "EncountDistance": 0.0,
+    "EncountHeight": 0.0
+  },
+  "Obon": {
+    "ObonSize": 0.0,
+    "WaitType": "NONE"
+  },
+  "Partner": {
+    "BehaviorType": "NONE",
+    "LeftOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "RightOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "Rummaging": {
+    "RummagingRadius": 0.0,
+    "RummagingCategory": {
+      "IsBush": false,
+      "IsRock": false,
+      "IsUnderWater": false,
+      "IsInTheGround": false,
+      "IsHighAltitude": false
+    }
+  },
+  "Gravity": {
+    "Accel": 0.0,
+    "SpeedMax": 0.0
+  },
+  "Ground": {
+    "SlideDropThreshold": 0.0,
+    "VerticalMargin": 0.0,
+    "WallHitAngle": 0.0,
+    "WaterDraftLine": 0.0,
+    "WaterSurfaceMargin": 0.0,
+    "WaterWithstandLine": 0.0,
+    "UnderWaterThreshold": 0.0,
+    "ShallowWaterThreshold": 0.0,
+    "AcceptableRadiusRate": 0.0
+  }
+}

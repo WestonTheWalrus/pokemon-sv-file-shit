@@ -1,0 +1,484 @@
+{
+  "values": [
+    {
+      "id": "board_city_c01",
+      "label": "kanban_c01",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_c02",
+      "label": "kanban_c02",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_c03",
+      "label": "kanban_c03",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t01",
+      "label": "kanban_t01",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t02",
+      "label": "kanban_t02",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t03",
+      "label": "kanban_t03",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t04",
+      "label": "kanban_t04",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t05",
+      "label": "kanban_t05",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t06",
+      "label": "kanban_t06",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t07",
+      "label": "kanban_t07",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t08",
+      "label": "kanban_t08",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t09",
+      "label": "kanban_t09",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_city_t0502",
+      "label": "kanban_t05_02",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_c01",
+      "label": "arrow_guide_to_C01",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_c02",
+      "label": "arrow_guide_to_C02",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_c03",
+      "label": "arrow_guide_to_C03",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_forest",
+      "label": "arrow_guide_to_Forest",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_ice",
+      "label": "arrow_guide_to_Ice",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_lake",
+      "label": "arrow_guide_to_Lake",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_lake02",
+      "label": "arrow_guide_to_Lake02",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_mountain",
+      "label": "arrow_guide_to_Mountain",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_spot09",
+      "label": "arrow_guide_to_Spot09",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t03",
+      "label": "arrow_guide_to_T03",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t04",
+      "label": "arrow_guide_to_T04",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t05",
+      "label": "arrow_guide_to_T05",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t06",
+      "label": "arrow_guide_to_T06",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t07",
+      "label": "arrow_guide_to_T07",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t08",
+      "label": "arrow_guide_to_T08",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t09",
+      "label": "arrow_guide_to_T09",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0402",
+      "label": "arrow_guide_to_T0402",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0403",
+      "label": "arrow_guide_to_T0403",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0404",
+      "label": "arrow_guide_to_T0404",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0405",
+      "label": "arrow_guide_to_T0405",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0406",
+      "label": "arrow_guide_to_T0406",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0407",
+      "label": "arrow_guide_to_T0407",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0408",
+      "label": "arrow_guide_to_T0408",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0409",
+      "label": "arrow_guide_to_T0409",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0410",
+      "label": "arrow_guide_to_T0410",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0411",
+      "label": "arrow_guide_to_T0411",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0412",
+      "label": "arrow_guide_to_T0412",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0413",
+      "label": "arrow_guide_to_T0413",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0414",
+      "label": "arrow_guide_to_T0414",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0415",
+      "label": "arrow_guide_to_T0415",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0416",
+      "label": "arrow_guide_to_T0416",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0417",
+      "label": "arrow_guide_to_T0417",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0418",
+      "label": "arrow_guide_to_T0418",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0419",
+      "label": "arrow_guide_to_T0419",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0420",
+      "label": "arrow_guide_to_T0420",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0421",
+      "label": "arrow_guide_to_T0421",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0422",
+      "label": "arrow_guide_to_T0422",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0423",
+      "label": "arrow_guide_to_T0423",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0424",
+      "label": "arrow_guide_to_T0424",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0425",
+      "label": "arrow_guide_to_T0425",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0426",
+      "label": "arrow_guide_to_T0426",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0427",
+      "label": "arrow_guide_to_T0427",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0428",
+      "label": "arrow_guide_to_T0428",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0429",
+      "label": "arrow_guide_to_T0429",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0430",
+      "label": "arrow_guide_to_T0430",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0431",
+      "label": "arrow_guide_to_T0431",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0432",
+      "label": "arrow_guide_to_T0432",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0433",
+      "label": "arrow_guide_to_T0433",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0434",
+      "label": "arrow_guide_to_T0434",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0435",
+      "label": "arrow_guide_to_T0435",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0436",
+      "label": "arrow_guide_to_T0436",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0437",
+      "label": "arrow_guide_to_T0437",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_guide_to_t0902",
+      "label": "arrow_guide_to_T0902",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_01",
+      "label": "spot_kanban_01",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_02",
+      "label": "spot_kanban_02",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_03",
+      "label": "spot_kanban_03",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_04",
+      "label": "spot_kanban_04",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_05",
+      "label": "spot_kanban_05",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_06",
+      "label": "spot_kanban_06",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_07",
+      "label": "spot_kanban_07",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_08",
+      "label": "spot_kanban_08",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_09",
+      "label": "spot_kanban_09",
+      "window_type": "signboard"
+    },
+    {
+      "id": "board_spot_10",
+      "label": "spot_kanban_10",
+      "window_type": "signboard"
+    },
+    {
+      "id": "popup_c01_01",
+      "label": "popup_c01_01",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_c01_01_thinking",
+      "label": "popup_c01_01",
+      "window_type": "thinking"
+    },
+    {
+      "id": "popup_c01_02",
+      "label": "popup_c01_02",
+      "window_type": "burst"
+    },
+    {
+      "id": "popup_c01_03",
+      "label": "popup_c01_03",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_c01_04",
+      "label": "popup_c01_04",
+      "window_type": "thinking"
+    },
+    {
+      "id": "popup_c01_05",
+      "label": "popup_c01_05",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_c01_06",
+      "label": "popup_c01_06",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_c01_07",
+      "label": "popup_c01_07",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_c01_08",
+      "label": "popup_c01_08",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_c01_09",
+      "label": "popup_c01_09",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_c01_10",
+      "label": "popup_c01_10",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_normal_020_cook_01",
+      "label": "popup_normal_020_cook_01",
+      "window_type": "sub_quest"
+    },
+    {
+      "id": "popup_normal_020_cook_02",
+      "label": "popup_normal_020_cook_02",
+      "window_type": "sub_quest"
+    },
+    {
+      "id": "popup_normal_020_cook_03",
+      "label": "popup_normal_020_cook_03",
+      "window_type": "sub_quest"
+    },
+    {
+      "id": "popup_normal_020_cook_04",
+      "label": "popup_normal_020_cook_04",
+      "window_type": "sub_quest"
+    },
+    {
+      "id": "popup_normal_020_cook_05",
+      "label": "popup_normal_020_cook_05",
+      "window_type": "sub_quest"
+    },
+    {
+      "id": "popup_c01_09",
+      "label": "popup_c01_09",
+      "window_type": "normal"
+    },
+    {
+      "id": "popup_test1",
+      "label": "popup_dummy",
+      "window_type": "burst"
+    },
+    {
+      "id": "popup_test2",
+      "label": "popup_dummy",
+      "window_type": "thinking"
+    },
+    {
+      "id": "popup_test3",
+      "label": "popup_dummy",
+      "window_type": "sub_quest"
+    }
+  ]
+}

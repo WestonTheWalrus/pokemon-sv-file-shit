@@ -1,0 +1,484 @@
+{
+  "values": [
+    {
+      "name": "tr0000",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0020",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0040",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0050",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0070",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0080",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0090",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0100",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0110",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0120",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0130",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0140",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0150",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0160",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0170",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0180",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0190",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0200",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0210",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0220",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0230",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0240",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0250",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0260",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0270",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0280",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0290",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0300",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0310",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0320",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0330",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0340",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0350",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0360",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0370",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0380",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0390",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0400",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0410",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0420",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0430",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0440",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0450",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0460",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0470",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0480",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0490",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0500",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0510",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0520",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0600",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0610",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0620",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0630",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0640",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0641",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0650",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0660",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0670",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0680",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0690",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0691",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0692",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0700",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0720",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0730",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0740",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0750",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0760",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0770",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0780",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0790",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0800",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0810",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0840",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0850",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0860",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0870",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0880",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    },
+    {
+      "name": "tr0890",
+      "limit": 25,
+      "jointRight": "right_skirt_a_01",
+      "jointLeft": "left_skirt_a_01"
+    }
+  ]
+}

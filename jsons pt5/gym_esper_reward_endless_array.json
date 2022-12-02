@@ -1,0 +1,280 @@
+{
+  "values": [
+    {
+      "exerciseSetting": {
+        "variation": 4,
+        "inputSeconds": 2.0,
+        "instructCount": 10,
+        "fixedReward": {
+          "itemId": "ITEMID_NONE",
+          "itemCount": 0
+        },
+        "rewards": [
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          }
+        ],
+        "rewardsCount": 1
+      }
+    },
+    {
+      "exerciseSetting": {
+        "variation": 4,
+        "inputSeconds": 1.5,
+        "instructCount": 15,
+        "fixedReward": {
+          "itemId": "ITEMID_NONE",
+          "itemCount": 0
+        },
+        "rewards": [
+          {
+            "itemId": "ITEMID_ZAROKUNOMI",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_NEKOBUNOMI",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_TAPORUNOMI",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_ROMENOMI",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_UBUNOMI",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_MATOMANOMI",
+            "itemCount": 1
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          }
+        ],
+        "rewardsCount": 1
+      }
+    },
+    {
+      "exerciseSetting": {
+        "variation": 4,
+        "inputSeconds": 1.15,
+        "instructCount": 20,
+        "fixedReward": {
+          "itemId": "ITEMID_NONE",
+          "itemCount": 0
+        },
+        "rewards": [
+          {
+            "itemId": "ITEMID_ZAROKUNOMI",
+            "itemCount": 3
+          },
+          {
+            "itemId": "ITEMID_NEKOBUNOMI",
+            "itemCount": 3
+          },
+          {
+            "itemId": "ITEMID_TAPORUNOMI",
+            "itemCount": 3
+          },
+          {
+            "itemId": "ITEMID_ROMENOMI",
+            "itemCount": 3
+          },
+          {
+            "itemId": "ITEMID_UBUNOMI",
+            "itemCount": 3
+          },
+          {
+            "itemId": "ITEMID_MATOMANOMI",
+            "itemCount": 3
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          }
+        ],
+        "rewardsCount": 1
+      }
+    },
+    {
+      "exerciseSetting": {
+        "variation": 4,
+        "inputSeconds": 0.9,
+        "instructCount": 25,
+        "fixedReward": {
+          "itemId": "ITEMID_NONE",
+          "itemCount": 0
+        },
+        "rewards": [
+          {
+            "itemId": "ITEMID_ZAROKUNOMI",
+            "itemCount": 5
+          },
+          {
+            "itemId": "ITEMID_NEKOBUNOMI",
+            "itemCount": 5
+          },
+          {
+            "itemId": "ITEMID_TAPORUNOMI",
+            "itemCount": 5
+          },
+          {
+            "itemId": "ITEMID_ROMENOMI",
+            "itemCount": 5
+          },
+          {
+            "itemId": "ITEMID_UBUNOMI",
+            "itemCount": 5
+          },
+          {
+            "itemId": "ITEMID_MATOMANOMI",
+            "itemCount": 5
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          }
+        ],
+        "rewardsCount": 2
+      }
+    },
+    {
+      "exerciseSetting": {
+        "variation": 4,
+        "inputSeconds": 0.75,
+        "instructCount": 81,
+        "fixedReward": {
+          "itemId": "ITEMID_NONE",
+          "itemCount": 0
+        },
+        "rewards": [
+          {
+            "itemId": "ITEMID_ZAROKUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_NEKOBUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_TAPORUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_ROMENOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_UBUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_MATOMANOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          }
+        ],
+        "rewardsCount": 2
+      }
+    },
+    {
+      "exerciseSetting": {
+        "variation": 0,
+        "inputSeconds": 0.0,
+        "instructCount": 0,
+        "fixedReward": {
+          "itemId": "ITEMID_SUTAANOMI",
+          "itemCount": 1
+        },
+        "rewards": [
+          {
+            "itemId": "ITEMID_ZAROKUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_NEKOBUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_TAPORUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_ROMENOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_UBUNOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_MATOMANOMI",
+            "itemCount": 10
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          },
+          {
+            "itemId": "ITEMID_NONE",
+            "itemCount": 0
+          }
+        ],
+        "rewardsCount": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "values": [
+    {
+      "label": "trade_c02_0194",
+      "pokeData": {
+        "devId": "DEV_UPAA",
+        "formId": 0,
+        "level": 18,
+        "sex": "MALE",
+        "tokusei": "SET_2",
+        "gemType": "MIZU",
+        "rareType": "NO_RARE",
+        "scaleType": "M",
+        "scaleValue": 0,
+        "weightType": "M",
+        "waightValue": 0,
+        "talentType": "VALUE",
+        "talentVnum": 0,
+        "talentValue": {
+          "hp": 27,
+          "atk": 18,
+          "def": 25,
+          "spAtk": 16,
+          "spDef": 31,
+          "agi": 13
+        },
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "item": "ITEMID_HUSIGINAAME",
+        "seikaku": "NONKI",
+        "seikakuHosei": "DEFAULT",
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "ballId": "MONSUTAABOORU",
+        "useNickName": true,
+        "nicknameLabel": 13962955351347520314,
+        "parentNameLabel": 4703637244338590224,
+        "trainerId": 33081,
+        "parentSex": "FEMALE"
+      }
+    },
+    {
+      "label": "trade_c03_0093",
+      "pokeData": {
+        "devId": "DEV_GOOSUTO",
+        "formId": 0,
+        "level": 25,
+        "sex": "FEMALE",
+        "tokusei": "SET_1",
+        "gemType": "GHOST",
+        "rareType": "NO_RARE",
+        "scaleType": "S",
+        "scaleValue": 0,
+        "weightType": "S",
+        "waightValue": 0,
+        "talentType": "VALUE",
+        "talentVnum": 0,
+        "talentValue": {
+          "hp": 14,
+          "atk": 20,
+          "def": 25,
+          "spAtk": 28,
+          "spDef": 16,
+          "agi": 31
+        },
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "item": "ITEMID_NONE",
+        "seikaku": "SAMISIGARIYA",
+        "seikakuHosei": "DEFAULT",
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "ballId": "MONSUTAABOORU",
+        "useNickName": true,
+        "nicknameLabel": 10803929472845007775,
+        "parentNameLabel": 3481721597248392323,
+        "trainerId": 16519,
+        "parentSex": "FEMALE"
+      }
+    },
+    {
+      "label": "trade_t03_0872",
+      "pokeData": {
+        "devId": "DEV_YUKIHAMI",
+        "formId": 0,
+        "level": 10,
+        "sex": "FEMALE",
+        "tokusei": "RANDOM_12",
+        "gemType": "KOORI",
+        "rareType": "NO_RARE",
+        "scaleType": "L",
+        "scaleValue": 0,
+        "weightType": "L",
+        "waightValue": 0,
+        "talentType": "VALUE",
+        "talentVnum": 0,
+        "talentValue": {
+          "hp": 31,
+          "atk": 18,
+          "def": 13,
+          "spAtk": 28,
+          "spDef": 26,
+          "agi": 20
+        },
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "item": "ITEMID_NONE",
+        "seikaku": "TEREYA",
+        "seikakuHosei": "DEFAULT",
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "ballId": "MONSUTAABOORU",
+        "useNickName": true,
+        "nicknameLabel": 11786297947786292489,
+        "parentNameLabel": 14931681408943467341,
+        "trainerId": 50724,
+        "parentSex": "MALE"
+      }
+    }
+  ]
+}

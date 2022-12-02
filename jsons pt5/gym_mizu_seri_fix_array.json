@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "fixTableId": 1,
+      "smallPrice": 500,
+      "largePrice": 1000,
+      "npcSmallRate": 7000,
+      "npcLargeRate": 3000,
+      "npcWishSmallRate": 3000,
+      "npcWishLargeRate": 7000,
+      "popupDistance": 6.0
+    },
+    {
+      "fixTableId": 101,
+      "smallPrice": 5000,
+      "largePrice": 10000,
+      "npcSmallRate": 7000,
+      "npcLargeRate": 3000,
+      "npcWishSmallRate": 3000,
+      "npcWishLargeRate": 7000,
+      "popupDistance": 6.0
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "values": [
+    {
+      "DemoID": "d010",
+      "EventID": "common_0000",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D010",
+      "Optimize": {
+        "DiscardField": "ALL",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d020_movie",
+      "EventID": "common_0010",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D020",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d030",
+      "EventID": "common_0065",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D030",
+      "Optimize": {
+        "DiscardField": "AboveL",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d035",
+      "EventID": "common_0085",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D035",
+      "Optimize": {
+        "DiscardField": "AboveL",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d040",
+      "EventID": "common_0140",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D040",
+      "Optimize": {
+        "DiscardField": "AboveXL",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d050",
+      "EventID": "common_0150",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D050",
+      "Optimize": {
+        "DiscardField": "AboveL",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d060",
+      "EventID": "common_0290",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D060",
+      "Optimize": {
+        "DiscardField": "AboveL",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d100",
+      "EventID": "legend_0070",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D100",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d110",
+      "EventID": "legend_0100",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D110",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d200",
+      "EventID": "champ_0280",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D200",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d210",
+      "EventID": "champ_0290",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D210",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d310",
+      "EventID": "team_0155",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D310",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": true,
+        "DicardTrainer": true,
+        "DicardTraffic": true,
+        "DiscardSymbol": true
+      }
+    },
+    {
+      "DemoID": "d400",
+      "EventID": "common_1040",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D400",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d410",
+      "EventID": "common_1160",
+      "Skippable": true,
+      "BGMEvent": "SYS_DEMO_SKIP_D410",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d420",
+      "EventID": "common_1240",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D420",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d430",
+      "EventID": "common_1250",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D430",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d440",
+      "EventID": "common_1270",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D440",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d450",
+      "EventID": "common_1280",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D450",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d460",
+      "EventID": "common_1300",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D460",
+      "Optimize": {
+        "DiscardField": "NONE",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    },
+    {
+      "DemoID": "d500",
+      "EventID": "common_1310",
+      "Skippable": false,
+      "BGMEvent": "SYS_DEMO_SKIP_D500",
+      "Optimize": {
+        "DiscardField": "ALL",
+        "DiscardNpc": false,
+        "DicardTrainer": false,
+        "DicardTraffic": false,
+        "DiscardSymbol": false
+      }
+    }
+  ]
+}

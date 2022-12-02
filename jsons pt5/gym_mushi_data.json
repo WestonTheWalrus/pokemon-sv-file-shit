@@ -1,0 +1,27 @@
+{
+  "pushBallPower": {
+    "forward": 1.0,
+    "upper": 0.2,
+    "rideForward": 0.8,
+    "rideUpper": 0.2
+  },
+  "boundOutsideFence": {
+    "add": 2.5,
+    "magnification": 1.0
+  },
+  "ballStartHeightOffset": 0.04,
+  "freeMoveParam": {
+    "fadeOutTime": 0.5,
+    "fadeInTime": 0.2,
+    "goalBallVelocity": 0.5,
+    "goalTimeOut": 3.0
+  },
+  "eventCommonParam": {
+    "goalBallVelocity": 0.5,
+    "playerWaitTime": 2.0
+  },
+  "subEventParam": {
+    "itemID": "ITEMID_MONSUTAABOORU",
+    "itemNum": 0
+  }
+}

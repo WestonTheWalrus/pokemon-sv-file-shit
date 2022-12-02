@@ -1,0 +1,252 @@
+{
+  "values": [
+    {
+      "name": "ANIMAL_CARNIVORE",
+      "initChainName": "ONLY_INTERVAL",
+      "areaName": "",
+      "timeOfDay": "DAY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL_CARNIVORE",
+      "initChainName": "ANIMAL_CARNIVORE_START",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL_CARNIVORE",
+      "initChainName": "SOMETIMES_CALL",
+      "areaName": "",
+      "timeOfDay": "MORNING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL_CARNIVORE",
+      "initChainName": "ANIMAL_CARNIVORE_START",
+      "areaName": "",
+      "timeOfDay": "NIGHT",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL",
+      "initChainName": "ONLY_INTERVAL",
+      "areaName": "",
+      "timeOfDay": "DAY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL",
+      "initChainName": "ANIMAL_START",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL_LITTLE",
+      "initChainName": "SOMETIMES_CALL",
+      "areaName": "",
+      "timeOfDay": "DAY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL_LITTLE",
+      "initChainName": "ANIMAL_LITTLE_START",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL_LITTLE",
+      "initChainName": "SOMETIMES_CALL",
+      "areaName": "",
+      "timeOfDay": "MORNING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL_LITTLE",
+      "initChainName": "ANIMAL_LITTLE_START",
+      "areaName": "",
+      "timeOfDay": "NIGHT",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL",
+      "initChainName": "SOMETIMES_CALL",
+      "areaName": "",
+      "timeOfDay": "MORNING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "ANIMAL",
+      "initChainName": "ANIMAL_START",
+      "areaName": "",
+      "timeOfDay": "NIGHT",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD",
+      "initChainName": "BIRD_START",
+      "areaName": "",
+      "timeOfDay": "DAY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD",
+      "initChainName": "SOMETIMES_CALL",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 40.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD_LITTLE",
+      "initChainName": "BIRD_LITTLE_START",
+      "areaName": "",
+      "timeOfDay": "DAY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD_LITTLE",
+      "initChainName": "SOMETIMES_CALL",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 40.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD_LITTLE",
+      "initChainName": "BIRD_LITTLE_START",
+      "areaName": "",
+      "timeOfDay": "MORNING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD_LITTLE",
+      "initChainName": "ONLY_INTERVAL",
+      "areaName": "",
+      "timeOfDay": "NIGHT",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD",
+      "initChainName": "BIRD_START",
+      "areaName": "",
+      "timeOfDay": "MORNING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "BIRD",
+      "initChainName": "ONLY_INTERVAL",
+      "areaName": "",
+      "timeOfDay": "NIGHT",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "CROWS",
+      "initChainName": "ONLY_INTERVAL",
+      "areaName": "",
+      "timeOfDay": "DAY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "CROWS",
+      "initChainName": "BIRD_LITTLE_START",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "CROWS",
+      "initChainName": "BIRD_START",
+      "areaName": "",
+      "timeOfDay": "MORNING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "CROWS",
+      "initChainName": "BIRD_START",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "INSECT",
+      "initChainName": "ONLY_INTERVAL",
+      "areaName": "",
+      "timeOfDay": "DAY",
+      "minDistance": 50.0,
+      "priority": 100
+    },
+    {
+      "name": "INSECT",
+      "initChainName": "INSECT_START",
+      "areaName": "",
+      "timeOfDay": "EVENING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "INSECT",
+      "initChainName": "SOMETIMES_CALL",
+      "areaName": "",
+      "timeOfDay": "MORNING",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "INSECT",
+      "initChainName": "INSECT_START",
+      "areaName": "",
+      "timeOfDay": "NIGHT",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "LARGE_CREATURES",
+      "initChainName": "LARGE_CREATURES_START",
+      "areaName": "",
+      "timeOfDay": "ANY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "LEGENDS",
+      "initChainName": "LEGENDS_START",
+      "areaName": "",
+      "timeOfDay": "ANY",
+      "minDistance": 30.0,
+      "priority": 100
+    },
+    {
+      "name": "OTHERS",
+      "initChainName": "OTHERS_START",
+      "areaName": "",
+      "timeOfDay": "ANY",
+      "minDistance": 30.0,
+      "priority": 100
+    }
+  ]
+}

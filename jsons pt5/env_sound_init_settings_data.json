@@ -1,0 +1,421 @@
+{
+  "soundTag": "sounditem_point_list",
+  "fetchDistance": 50.0,
+  "releaseDistance": 60.0,
+  "useScenePointCallback": false,
+  "waterTypeNames": {
+    "count": 3,
+    "name0": "SEA_SOUND",
+    "name1": "RIVER_SOUND",
+    "name2": "LAKE_SOUND",
+    "name3": ""
+  },
+  "terrainGridSize": 5.0,
+  "terrainSearchRadius": 30.0,
+  "terrainUnloadRadius": 50.0,
+  "terrainMaxUpdateCount": 10,
+  "grassTypeNames": {
+    "value0": {
+      "detailLayer": "plants_me_level_grass01",
+      "name": "GRASS_SOUND"
+    },
+    "value1": {
+      "detailLayer": "plants_me_level_grass31",
+      "name": "GRASS_SOUND"
+    },
+    "value2": {
+      "detailLayer": "plants_me_level_grass51",
+      "name": "GRASS_SOUND"
+    },
+    "value3": {
+      "detailLayer": "plants_me_main_grass01",
+      "name": "GRASS_SOUND"
+    },
+    "value4": {
+      "detailLayer": "plants_me_main_grass02",
+      "name": "GRASS_SOUND"
+    },
+    "value5": {
+      "detailLayer": "plants_me_main_grass11",
+      "name": "GRASS_SOUND"
+    },
+    "value6": {
+      "detailLayer": "plants_me_main_grass12",
+      "name": "GRASS_SOUND"
+    },
+    "value7": {
+      "detailLayer": "plants_me_main_grass21",
+      "name": "GRASS_SOUND"
+    },
+    "value8": {
+      "detailLayer": "plants_me_main_grass22",
+      "name": "GRASS_SOUND"
+    },
+    "value9": {
+      "detailLayer": "plants_me_main_grass31",
+      "name": "GRASS_SOUND"
+    },
+    "value10": {
+      "detailLayer": "plants_me_main_grass32",
+      "name": "GRASS_SOUND"
+    },
+    "value11": {
+      "detailLayer": "plants_me_main_grass41",
+      "name": "GRASS_SOUND"
+    },
+    "value12": {
+      "detailLayer": "plants_me_main_grass42",
+      "name": "GRASS_SOUND"
+    },
+    "value13": {
+      "detailLayer": "plants_me_main_grass51",
+      "name": "GRASS_SOUND"
+    },
+    "value14": {
+      "detailLayer": "plants_me_main_grass52",
+      "name": "GRASS_SOUND"
+    },
+    "value15": {
+      "detailLayer": "plants_me_main_grass61",
+      "name": "GRASS_SOUND"
+    },
+    "value16": {
+      "detailLayer": "plants_me_main_grass62",
+      "name": "GRASS_SOUND"
+    },
+    "value17": {
+      "detailLayer": "plants_me_main_grass71",
+      "name": "GRASS_SOUND"
+    },
+    "value18": {
+      "detailLayer": "plants_me_main_grass72",
+      "name": "GRASS_SOUND"
+    },
+    "value19": {
+      "detailLayer": "plants_me_turf_grass01",
+      "name": "GRASS_SOUND"
+    },
+    "value20": {
+      "detailLayer": "plants_un_cliffgrass01",
+      "name": "GRASS_M"
+    },
+    "value21": {
+      "detailLayer": "plants_un_cliffgrass02",
+      "name": "GRASS_M"
+    },
+    "value22": {
+      "detailLayer": "plants_un_geranium01_purple",
+      "name": "GRASS_SOUND"
+    },
+    "value23": {
+      "detailLayer": "plants_un_geranium01_red",
+      "name": "GRASS_SOUND"
+    },
+    "value24": {
+      "detailLayer": "plants_un_geranium01_blue",
+      "name": "GRASS_SOUND"
+    },
+    "value25": {
+      "detailLayer": "plants_un_geranium01_white",
+      "name": "GRASS_SOUND"
+    },
+    "value26": {
+      "detailLayer": "plants_un_geranium02_purple",
+      "name": "GRASS_SOUND"
+    },
+    "value27": {
+      "detailLayer": "plants_un_geranium02_blue",
+      "name": "GRASS_SOUND"
+    },
+    "value28": {
+      "detailLayer": "plants_un_geranium02_red",
+      "name": "GRASS_SOUND"
+    },
+    "value29": {
+      "detailLayer": "plants_un_geranium02_white",
+      "name": "GRASS_SOUND"
+    },
+    "value30": {
+      "detailLayer": "plants_un_lavender01_violet",
+      "name": "GRASS_SOUND"
+    },
+    "value31": {
+      "detailLayer": "plants_me_pampasgrass01",
+      "name": "GRASS_WHEAT"
+    },
+    "value32": {
+      "detailLayer": "plants_me_pampasgrass02",
+      "name": "GRASS_WHEAT"
+    },
+    "value33": {
+      "detailLayer": "plants_me_bush01",
+      "name": "GRASS_M"
+    },
+    "value34": {
+      "detailLayer": "plants_me_bush01_01",
+      "name": "GRASS_SOUND"
+    },
+    "value35": {
+      "detailLayer": "plants_me_bush01_02",
+      "name": "GRASS_SOUND"
+    },
+    "value36": {
+      "detailLayer": "plants_me_bush02",
+      "name": "GRASS_SOUND"
+    },
+    "value37": {
+      "detailLayer": "plants_me_bush02_01",
+      "name": "GRASS_SOUND"
+    },
+    "value38": {
+      "detailLayer": "plants_me_cosmos02_yellow",
+      "name": "GRASS_SOUND"
+    },
+    "value39": {
+      "detailLayer": "plants_me_cosmos02_blue",
+      "name": "GRASS_SOUND"
+    },
+    "value40": {
+      "detailLayer": "plants_me_cosmos02_pink",
+      "name": "GRASS_SOUND"
+    },
+    "value41": {
+      "detailLayer": "plants_un_garden_amapola01_pink",
+      "name": "GRASS_SOUND"
+    },
+    "value42": {
+      "detailLayer": "plants_un_garden_amapola02_pink",
+      "name": "GRASS_SOUND"
+    },
+    "value43": {
+      "detailLayer": "plants_un_garden_amapola03_pink",
+      "name": "GRASS_SOUND"
+    },
+    "value44": {
+      "detailLayer": "plants_un_garden_cosmos01_orange",
+      "name": "GRASS_SOUND"
+    },
+    "value45": {
+      "detailLayer": "plants_un_garden_cosmos02_orange",
+      "name": "GRASS_SOUND"
+    },
+    "value46": {
+      "detailLayer": "plants_un_garden_cosmos03_orange",
+      "name": "GRASS_SOUND"
+    },
+    "value47": {
+      "detailLayer": "plants_un_garden_nasturtium01",
+      "name": "GRASS_SOUND"
+    },
+    "value48": {
+      "detailLayer": "plants_un_garden_nasturtium02",
+      "name": "GRASS_SOUND"
+    },
+    "value49": {
+      "detailLayer": "plants_un_garden_nasturtium03",
+      "name": "GRASS_SOUND"
+    },
+    "value50": {
+      "detailLayer": "plants_un_garden_tulip01_orange",
+      "name": "GRASS_SOUND"
+    },
+    "value51": {
+      "detailLayer": "plants_un_garden_tulip01_pink",
+      "name": "GRASS_SOUND"
+    },
+    "value52": {
+      "detailLayer": "plants_un_garden_tulip01_yellow",
+      "name": "GRASS_SOUND"
+    },
+    "value53": {
+      "detailLayer": "plants_me_cosmos03_01_orange",
+      "name": "GRASS_SOUND"
+    },
+    "value54": {
+      "detailLayer": "plants_me_cosmos03_01_pink",
+      "name": "GRASS_SOUND"
+    },
+    "value55": {
+      "detailLayer": "plants_me_cosmos03_01_pinkmix",
+      "name": "GRASS_SOUND"
+    },
+    "value56": {
+      "detailLayer": "plants_me_cosmos03_01_purple",
+      "name": "GRASS_SOUND"
+    },
+    "value57": {
+      "detailLayer": "plants_me_cosmos03_01_yellow",
+      "name": "GRASS_SOUND"
+    },
+    "value58": {
+      "detailLayer": "plants_me_cosmos03_01_yellowmix",
+      "name": "GRASS_SOUND"
+    },
+    "value59": {
+      "detailLayer": "plants_me_cosmos03_02_orange",
+      "name": "GRASS_SOUND"
+    },
+    "value60": {
+      "detailLayer": "plants_me_cosmos03_02_pink",
+      "name": "GRASS_SOUND"
+    },
+    "value61": {
+      "detailLayer": "plants_me_cosmos03_02_pinkmix",
+      "name": "GRASS_SOUND"
+    },
+    "value62": {
+      "detailLayer": "plants_me_cosmos03_02_purple",
+      "name": "GRASS_SOUND"
+    },
+    "value63": {
+      "detailLayer": "plants_me_cosmos03_02_yellow",
+      "name": "GRASS_SOUND"
+    },
+    "value64": {
+      "detailLayer": "plants_me_cosmos03_02_yellowmix",
+      "name": "GRASS_SOUND"
+    },
+    "value65": {
+      "detailLayer": "plants_un_cliffgrass03",
+      "name": "TREE_SOUND"
+    },
+    "value66": {
+      "detailLayer": "plants_un_cliffgrass04",
+      "name": "TREE_SOUND"
+    },
+    "value67": {
+      "detailLayer": "plants_un_cliffgrass05",
+      "name": "TREE_SOUND"
+    },
+    "value68": {
+      "detailLayer": "plants_un_clifftree01",
+      "name": "TREE_SOUND"
+    },
+    "value69": {
+      "detailLayer": "plants_un_bougainvillea01_pink",
+      "name": "TREE_SOUND"
+    },
+    "value70": {
+      "detailLayer": "plants_un_bougainvillea01_red",
+      "name": "TREE_SOUND"
+    },
+    "value71": {
+      "detailLayer": "plants_un_bougainvillea01_blue",
+      "name": "TREE_SOUND"
+    },
+    "value72": {
+      "detailLayer": "plants_un_bougainvillea01_yellow",
+      "name": "TREE_SOUND"
+    },
+    "value73": {
+      "detailLayer": "plants_un_bougainvillea01_white",
+      "name": "TREE_SOUND"
+    },
+    "value74": {
+      "detailLayer": "plants_un_bougainvillea01_leaf",
+      "name": "TREE_SOUND"
+    },
+    "value75": {
+      "detailLayer": "plants_un_cypress01",
+      "name": "TREE_SOUND"
+    },
+    "value76": {
+      "detailLayer": "plants_un_shrub01",
+      "name": "TREE_SOUND"
+    },
+    "value77": {
+      "detailLayer": "plants_un_shrub01_pink",
+      "name": "TREE_SOUND"
+    },
+    "value78": {
+      "detailLayer": "plants_un_shrub01_blue",
+      "name": "TREE_SOUND"
+    },
+    "value79": {
+      "detailLayer": "plants_un_shrub01_yellow",
+      "name": "TREE_SOUND"
+    },
+    "value80": {
+      "detailLayer": "plants_un_shrub01_white",
+      "name": "TREE_SOUND"
+    },
+    "value81": {
+      "detailLayer": "plants_un_shrub02_pink",
+      "name": "TREE_SOUND"
+    },
+    "value82": {
+      "detailLayer": "plants_un_shrub02_blue",
+      "name": "TREE_SOUND"
+    },
+    "value83": {
+      "detailLayer": "plants_un_shrub02_yellow",
+      "name": "TREE_SOUND"
+    },
+    "value84": {
+      "detailLayer": "plants_un_shrub02_purple",
+      "name": "TREE_SOUND"
+    },
+    "value85": {
+      "detailLayer": "plants_un_shrub02_red",
+      "name": "TREE_SOUND"
+    },
+    "value86": {
+      "detailLayer": "plants_un_bayleaf01",
+      "name": "TREE_SOUND"
+    },
+    "value87": {
+      "detailLayer": "plants_me_beachgrass01",
+      "name": "GRASS_WATER"
+    },
+    "value88": {
+      "detailLayer": "plants_me_beachgrass02",
+      "name": "GRASS_WATER"
+    },
+    "value89": {
+      "detailLayer": "plants_me_beachgrass03",
+      "name": "GRASS_WATER"
+    },
+    "value90": {
+      "detailLayer": "plants_me_beachspurge01",
+      "name": "GRASS_WATER"
+    },
+    "value91": {
+      "detailLayer": "plants_me_beachspurge02",
+      "name": "GRASS_WATER"
+    },
+    "value92": {
+      "detailLayer": "plants_me_pondgrass01",
+      "name": "GRASS_WATER"
+    },
+    "value93": {
+      "detailLayer": "plants_me_pondgrass02",
+      "name": "GRASS_WATER"
+    },
+    "value94": {
+      "detailLayer": "plants_me_pondgrass03",
+      "name": "GRASS_WATER"
+    },
+    "value95": {
+      "detailLayer": "plants_me_pondgrass04",
+      "name": "GRASS_DEAD"
+    },
+    "value96": {
+      "detailLayer": "plants_me_pondgrass05",
+      "name": "GRASS_DEAD"
+    },
+    "value97": {
+      "detailLayer": "plants_me_pondgrass04_dead",
+      "name": "GRASS_DEAD"
+    },
+    "value98": {
+      "detailLayer": "plants_me_pondgrass05_dead",
+      "name": "GRASS_DEAD"
+    },
+    "value99": {
+      "detailLayer": "",
+      "name": ""
+    },
+    "count": 98
+  },
+  "maxSoundPositions": 12
+}

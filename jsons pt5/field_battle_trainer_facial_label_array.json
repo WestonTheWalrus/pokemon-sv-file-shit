@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "Label": "Default",
+      "face": 1,
+      "mouth": 1,
+      "EnableLookAt": true
+    },
+    {
+      "Label": "Win",
+      "face": 0,
+      "mouth": 6,
+      "EnableLookAt": true
+    }
+  ]
+}

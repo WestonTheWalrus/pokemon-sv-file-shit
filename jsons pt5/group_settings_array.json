@@ -1,0 +1,242 @@
+{
+  "values": [
+    {
+      "path": "",
+      "name": "Event",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": 0,
+      "priorityMaxDistance": 0,
+      "color": {
+        "R": 0,
+        "G": 200,
+        "B": 0
+      },
+      "discardOldest": true
+    },
+    {
+      "path": "",
+      "name": "Field",
+      "priorityOffset": 0,
+      "playbackLimit": 8,
+      "priorityDistanceOffset": 0,
+      "priorityMaxDistance": 0,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "",
+      "name": "Player",
+      "priorityOffset": 0,
+      "playbackLimit": 8,
+      "priorityDistanceOffset": 0,
+      "priorityMaxDistance": 0,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 200
+      },
+      "discardOldest": true
+    },
+    {
+      "path": "",
+      "name": "",
+      "priorityOffset": 0,
+      "playbackLimit": 12,
+      "priorityDistanceOffset": 0,
+      "priorityMaxDistance": 0,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "",
+      "name": "Battle",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": 0,
+      "priorityMaxDistance": 0,
+      "color": {
+        "R": 200,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": true
+    },
+    {
+      "path": "Field",
+      "name": "NetBattle",
+      "priorityOffset": 10,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -50,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 100,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field",
+      "name": "DanBattlePokemon",
+      "priorityOffset": 0,
+      "playbackLimit": 5,
+      "priorityDistanceOffset": -100,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field",
+      "name": "NushiPokemon",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -50,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 150,
+        "G": 0,
+        "B": 150
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field",
+      "name": "PartnerPokemon",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -50,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 100,
+        "G": 0,
+        "B": 100
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field",
+      "name": "Gimmick",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -100,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": true
+    },
+    {
+      "path": "Field",
+      "name": "Env",
+      "priorityOffset": -10,
+      "playbackLimit": 5,
+      "priorityDistanceOffset": 0,
+      "priorityMaxDistance": 0,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field/Env",
+      "name": "SymbolPokemon",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -100,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 200,
+        "G": 100,
+        "B": 100
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field/Env",
+      "name": "Traffic",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -100,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 100,
+        "G": 200,
+        "B": 100
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field/Env",
+      "name": "WildPokemon",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -100,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 200,
+        "G": 200,
+        "B": 200
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field/Env",
+      "name": "EnvPokeVoice",
+      "priorityOffset": -10,
+      "playbackLimit": 3,
+      "priorityDistanceOffset": 0,
+      "priorityMaxDistance": 0,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Field/Env",
+      "name": "NPC",
+      "priorityOffset": 0,
+      "playbackLimit": 0,
+      "priorityDistanceOffset": -100,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 0,
+        "G": 100,
+        "B": 100
+      },
+      "discardOldest": false
+    },
+    {
+      "path": "Player",
+      "name": "NetPlayer",
+      "priorityOffset": 0,
+      "playbackLimit": 6,
+      "priorityDistanceOffset": -50,
+      "priorityMaxDistance": 100,
+      "color": {
+        "R": 0,
+        "G": 0,
+        "B": 100
+      },
+      "discardOldest": true
+    }
+  ]
+}

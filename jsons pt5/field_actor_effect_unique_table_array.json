@@ -1,0 +1,209 @@
+{
+  "values": [
+    {
+      "File": "RD_ON",
+      "Version": "Both",
+      "EffectName": "Rideon"
+    },
+    {
+      "File": "RD_OFF",
+      "Version": "Both",
+      "EffectName": "Rideoff"
+    },
+    {
+      "File": "RD_GLIDING_WIND",
+      "Version": "Both",
+      "EffectName": "Gliding_Wind"
+    },
+    {
+      "File": "RD_GLIDING_TRAIL",
+      "Version": "Past",
+      "EffectName": "Gliding_Trail"
+    },
+    {
+      "File": "RD_TRANS_GROUND_SEA",
+      "Version": "Both",
+      "EffectName": "Trans_Ground_Sea"
+    },
+    {
+      "File": "RD_TRANS_GROUND_SKY",
+      "Version": "Both",
+      "EffectName": "Trans_Ground_Sky"
+    },
+    {
+      "File": "RD_TRANS_GROUND_SKY",
+      "Version": "Both",
+      "EffectName": "Trans_Sea_Sky"
+    },
+    {
+      "File": "RD_TRANS_SKY_SEA",
+      "Version": "Both",
+      "EffectName": "Trans_Sky_Sea"
+    },
+    {
+      "File": "RD_TRANS_SKY_GROUND",
+      "Version": "Both",
+      "EffectName": "Trans_Sky_Ground"
+    },
+    {
+      "File": "RD_WHISTLE",
+      "Version": "Both",
+      "EffectName": "Whistle"
+    },
+    {
+      "File": "PL_ORDER",
+      "Version": "Player",
+      "EffectName": "Order"
+    },
+    {
+      "File": "RD_STAMINA_DAWN",
+      "Version": "Both",
+      "EffectName": "Stamina_Down"
+    },
+    {
+      "File": "RD_COLDBREATH",
+      "Version": "Both",
+      "EffectName": "ColdBreath_Ride"
+    },
+    {
+      "File": "PL_COLDBREATH",
+      "Version": "Player",
+      "EffectName": "ColdBreath_Player"
+    },
+    {
+      "File": "RD_JUMP_SEA",
+      "Version": "Both",
+      "EffectName": "Jump_Sea"
+    },
+    {
+      "File": "RD_HIJUMP_SEA",
+      "Version": "Both",
+      "EffectName": "HighJump_Sea"
+    },
+    {
+      "File": "RD_LAND_SEA",
+      "Version": "Both",
+      "EffectName": "Landing_Sea"
+    },
+    {
+      "File": "RD_HILAND_SEA",
+      "Version": "Both",
+      "EffectName": "HeavyLanding_Sea"
+    },
+    {
+      "File": "RD_RUN_SEA",
+      "Version": "Both",
+      "EffectName": "Run_Sea"
+    },
+    {
+      "File": "RD_RUN_START_SEA",
+      "Version": "Both",
+      "EffectName": "Run_Start_Sea"
+    },
+    {
+      "File": "RD_RUN_HETA_SEA",
+      "Version": "Both",
+      "EffectName": "Run_Heta_Sea"
+    },
+    {
+      "File": "RD_IDLING_SEA",
+      "Version": "Both",
+      "EffectName": "Run_Idlling_Sea"
+    },
+    {
+      "File": "RD_BACKFLOW",
+      "Version": "Both",
+      "EffectName": "Backflow_River"
+    },
+    {
+      "File": "PL_BACKFLOW",
+      "Version": "Player",
+      "EffectName": "Backflow_River"
+    },
+    {
+      "File": "RD_SHALLOW_SEA",
+      "Version": "Both",
+      "EffectName": "Shallow_Sea"
+    },
+    {
+      "File": "RD_DASH_WIND",
+      "Version": "Both",
+      "EffectName": "Dash_Wind"
+    },
+    {
+      "File": "RDF_THRUSTER",
+      "Version": "Future",
+      "EffectName": "Thruster"
+    },
+    {
+      "File": "PL_SHALLOW_SEA",
+      "Version": "Player",
+      "EffectName": "Shallow_Sea_Player"
+    },
+    {
+      "File": "PL_RUN_SEA",
+      "Version": "Ride",
+      "EffectName": "Run_Sea_Player"
+    },
+    {
+      "File": "PL_WITHSTAND_SEA",
+      "Version": "Player",
+      "EffectName": "Withstand_Sea_Player"
+    },
+    {
+      "File": "RD_ICE_GYM_SPEED_DOWN",
+      "Version": "Invalid",
+      "EffectName": "IceGym_Speed_Down"
+    },
+    {
+      "File": "RD_ICE_GYM_WIND",
+      "Version": "Both",
+      "EffectName": "IceGym_Speed_Wind"
+    },
+    {
+      "File": "PL_IDLING_SEA",
+      "Version": "Player",
+      "EffectName": "Idling_Sea_Player"
+    },
+    {
+      "File": "PL_FUNBARI_SEA",
+      "Version": "Player",
+      "EffectName": "Funbari_Sea_Player"
+    },
+    {
+      "File": "PL_LAND_SEA",
+      "Version": "Player",
+      "EffectName": "Land_Sea_Player"
+    },
+    {
+      "File": "RDF_THRUSTER_WAIT",
+      "Version": "Future",
+      "EffectName": "Thruster_Wait"
+    },
+    {
+      "File": "RD_DASH_WIND_LOOP",
+      "Version": "Ride",
+      "EffectName": "Dash_Wind_Loop"
+    },
+    {
+      "File": "RD_DASH_SEA",
+      "Version": "Ride",
+      "EffectName": "Dash_Sea"
+    },
+    {
+      "File": "RDF_THRUSTER_AIR",
+      "Version": "Future",
+      "EffectName": "Thruster_Air"
+    },
+    {
+      "File": "RD_GLIDING_TRAIL_B",
+      "Version": "Future",
+      "EffectName": "Gliding_Trail_B"
+    },
+    {
+      "File": "PL_FALL_SEA",
+      "Version": "Player",
+      "EffectName": "Fall_Sea_Player"
+    }
+  ]
+}

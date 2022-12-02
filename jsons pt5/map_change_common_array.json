@@ -1,0 +1,15 @@
+{
+  "values": [
+    {
+      "lh_ladder_wait": 0.5,
+      "lh_ladder_fade_duration": 0.5,
+      "map_change_single_door_angle": 45.0,
+      "map_change_double_door_angle": 45.0,
+      "map_change_auto_door_angle": 45.0,
+      "map_change_pos_angle": 90.0,
+      "map_change_campus_door_angle": 90.0,
+      "map_change_atlantis_door_angle": 90.0,
+      "map_change_stick_angle": 0.1
+    }
+  ]
+}

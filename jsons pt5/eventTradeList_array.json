@@ -1,0 +1,22 @@
+{
+  "values": [
+    {
+      "label": "trade_c02",
+      "receivePoke": "trade_c02_0194",
+      "sendPoke_devId": "DEV_UPAA",
+      "sendPoke_formId": 1
+    },
+    {
+      "label": "trade_c03",
+      "receivePoke": "trade_c03_0093",
+      "sendPoke_devId": "DEV_BATINUNI",
+      "sendPoke_formId": -1
+    },
+    {
+      "label": "trade_t03",
+      "receivePoke": "trade_t03_0872",
+      "sendPoke_devId": "DEV_HURABEBE",
+      "sendPoke_formId": -1
+    }
+  ]
+}

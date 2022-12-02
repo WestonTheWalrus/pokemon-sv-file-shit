@@ -1,0 +1,644 @@
+{
+  "values": [
+    {
+      "motion": "Angry",
+      "type": "Loop",
+      "name": "angry_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 6
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Bow",
+      "type": "OneShot",
+      "name": "bow",
+      "animationConfig": {
+        "trigger": "once_event_trigger",
+        "intValue": {
+          "name": "once_event_type",
+          "value": 5
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Byebye",
+      "type": "Loop",
+      "name": "byebye_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Chair01",
+      "type": "Loop",
+      "name": "chairwait01_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Chair02",
+      "type": "Loop",
+      "name": "chairwait02_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Chair03",
+      "type": "Loop",
+      "name": "chairwait03_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Cheer",
+      "type": "Loop",
+      "name": "cheer_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Get",
+      "type": "OneShot",
+      "name": "get",
+      "animationConfig": {
+        "trigger": "once_event_trigger",
+        "intValue": {
+          "name": "once_event_type",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Glad",
+      "type": "Loop",
+      "name": "glad_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Grief",
+      "type": "Loop",
+      "name": "grief_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 9
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Laugh",
+      "type": "Loop",
+      "name": "laugh_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 10
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "LS14_chair01_idle",
+      "type": "OneShot",
+      "name": "chair01_idle01",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS14_listen01",
+      "type": "Loop",
+      "name": "listen01_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS14_speak01",
+      "type": "Loop",
+      "name": "speak01_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS18_chair03_idle",
+      "type": "OneShot",
+      "name": "chair03_idle01",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS18_listen03",
+      "type": "Loop",
+      "name": "listen03_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS18_speak03",
+      "type": "Loop",
+      "name": "speak03_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS19_chair02_idle",
+      "type": "OneShot",
+      "name": "chair02_idel01",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS19_chairsleep02",
+      "type": "Loop",
+      "name": "chairsleep02_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS19_listen02",
+      "type": "Loop",
+      "name": "listen02_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS19_speak02",
+      "type": "Loop",
+      "name": "speak02_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS23_sleep01",
+      "type": "Loop",
+      "name": "sleep01_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS27_halfsit01",
+      "type": "Loop",
+      "name": "halfsit01_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS36_chair04_idle",
+      "type": "OneShot",
+      "name": "chair04_idle01",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS36_listen04",
+      "type": "Loop",
+      "name": "listen04_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "LS36_speak04",
+      "type": "Loop",
+      "name": "speak04_loop",
+      "animationConfig": {
+        "trigger": "mob_trigger",
+        "intValue": {
+          "name": "mob_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "No",
+      "type": "OneShot",
+      "name": "no",
+      "animationConfig": {
+        "trigger": "once_event_trigger",
+        "intValue": {
+          "name": "once_event_type",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Pass",
+      "type": "OneShot",
+      "name": "pass",
+      "animationConfig": {
+        "trigger": "once_event_trigger",
+        "intValue": {
+          "name": "once_event_type",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Sad",
+      "type": "Loop",
+      "name": "sad_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 7
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Search",
+      "type": "Loop",
+      "name": "search_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 5
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Speak1",
+      "type": "Loop",
+      "name": "speak01_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "additive_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "speak_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Speak2",
+      "type": "Loop",
+      "name": "speak02_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "additive_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "speak_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Surprise",
+      "type": "Loop",
+      "name": "surprise_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 8
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Think",
+      "type": "Loop",
+      "name": "think_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Typing",
+      "type": "Loop",
+      "name": "typing_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Wait1",
+      "type": "Wait",
+      "name": "wait01_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "wait_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Wait2",
+      "type": "Wait",
+      "name": "wait02_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "wait_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Wait3",
+      "type": "Wait",
+      "name": "wait03_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "wait_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Withstand",
+      "type": "Loop",
+      "name": "withstand_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 11
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Yes",
+      "type": "OneShot",
+      "name": "yes",
+      "animationConfig": {
+        "trigger": "once_event_trigger",
+        "intValue": {
+          "name": "once_event_type",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    }
+  ]
+}

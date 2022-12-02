@@ -1,0 +1,172 @@
+{
+  "values": [
+    {
+      "areaId": 1,
+      "posId": 1,
+      "posX": 600.0,
+      "posY": 300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 1,
+      "posId": 2,
+      "posX": 250.0,
+      "posY": 400.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 1,
+      "posId": 3,
+      "posX": 250.0,
+      "posY": 200.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 1,
+      "posId": 4,
+      "posX": 600.0,
+      "posY": 200.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 1,
+      "posId": 5,
+      "posX": 425.0,
+      "posY": 300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 2,
+      "posId": 1,
+      "posX": -600.0,
+      "posY": -300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 2,
+      "posId": 2,
+      "posX": -250.0,
+      "posY": -400.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 2,
+      "posId": 3,
+      "posX": -250.0,
+      "posY": -200.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 2,
+      "posId": 4,
+      "posX": -600.0,
+      "posY": -200.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 2,
+      "posId": 5,
+      "posX": -425.0,
+      "posY": -300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 3,
+      "posId": 1,
+      "posX": 600.0,
+      "posY": -120.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 3,
+      "posId": 2,
+      "posX": 350.0,
+      "posY": -400.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 3,
+      "posId": 3,
+      "posX": 425.0,
+      "posY": -300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 3,
+      "posId": 4,
+      "posX": 370.0,
+      "posY": -300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 3,
+      "posId": 5,
+      "posX": 300.0,
+      "posY": -120.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 4,
+      "posId": 1,
+      "posX": -600.0,
+      "posY": 230.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 4,
+      "posId": 2,
+      "posX": -140.0,
+      "posY": 420.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 4,
+      "posId": 3,
+      "posX": -425.0,
+      "posY": 300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 4,
+      "posId": 4,
+      "posX": -600.0,
+      "posY": 120.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 4,
+      "posId": 5,
+      "posX": -300.0,
+      "posY": 300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 5,
+      "posId": 1,
+      "posX": 600.0,
+      "posY": 120.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 6,
+      "posId": 1,
+      "posX": -425.0,
+      "posY": -300.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 7,
+      "posId": 1,
+      "posX": 350.0,
+      "posY": -400.0,
+      "windowType": "Normal"
+    },
+    {
+      "areaId": 8,
+      "posId": 1,
+      "posX": -600.0,
+      "posY": 200.0,
+      "windowType": "Normal"
+    }
+  ]
+}

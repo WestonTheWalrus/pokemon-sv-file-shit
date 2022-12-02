@@ -1,0 +1,544 @@
+{
+  "values": [
+    {
+      "state": "Attack",
+      "parameter": {
+        "name": "0400_attack01",
+        "path": "one_attack/",
+        "triggerType": "Trigger",
+        "trigger": "one_attack_trigger",
+        "value": {
+          "int_name": "one_attack_int",
+          "int": 1,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "BattleWait",
+      "parameter": {
+        "name": "0001_battlewait01_loop",
+        "path": "move_base/",
+        "triggerType": "Wait",
+        "trigger": "",
+        "value": {
+          "int_name": "",
+          "int": 0,
+          "bool_name": "battle_wait_switch",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "DefaultWait",
+      "parameter": {
+        "name": "0000_defaultwait01_loop",
+        "path": "move_base/",
+        "triggerType": "Wait",
+        "trigger": "",
+        "value": {
+          "int_name": "",
+          "int": 0,
+          "bool_name": "battle_wait_switch",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Eat",
+      "parameter": {
+        "name": "0291_eat01_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 2,
+          "bool_name": "loop_emotion_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "Glad",
+      "parameter": {
+        "name": "0550_glad01",
+        "path": "one_emotion/",
+        "triggerType": "Trigger",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 1,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Hate",
+      "parameter": {
+        "name": "0563_hate01",
+        "path": "one_emotion/",
+        "triggerType": "Trigger",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 3,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Idle1",
+      "parameter": {
+        "name": "0010_defaultidle01",
+        "path": "idle/",
+        "triggerType": "Trigger",
+        "trigger": "idle_trigger",
+        "value": {
+          "int_name": "idle_int",
+          "int": 1,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Idle2",
+      "parameter": {
+        "name": "0011_defaultidle02",
+        "path": "idle/",
+        "triggerType": "Trigger",
+        "trigger": "idle_trigger",
+        "value": {
+          "int_name": "idle_int",
+          "int": 2,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "LegendDemoEat",
+      "parameter": {
+        "name": "demo04_eat_loop",
+        "path": "demo04_eat/",
+        "triggerType": "Event",
+        "trigger": "",
+        "value": {
+          "int_name": "iguana_demo_int",
+          "int": 4,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "LegendDemoEnd",
+      "parameter": {
+        "name": "wait01",
+        "path": "move_base/",
+        "triggerType": "Event",
+        "trigger": "",
+        "value": {
+          "int_name": "",
+          "int": 0,
+          "bool_name": "iguana_demo_bool",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "LegendDemoLookUp",
+      "parameter": {
+        "name": "demo04_lookup_loop",
+        "path": "demo04_lookup/",
+        "triggerType": "Event",
+        "trigger": "",
+        "value": {
+          "int_name": "iguana_demo_int",
+          "int": 3,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "LegendDemoRoar",
+      "parameter": {
+        "name": "demo04_roar_loop",
+        "path": "demo04_roar/",
+        "triggerType": "Event",
+        "trigger": "",
+        "value": {
+          "int_name": "iguana_demo_int",
+          "int": 2,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "LegendDemoWait",
+      "parameter": {
+        "name": "demo04_wait",
+        "path": "demo_action/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "iguana_demo_int",
+          "int": 1,
+          "bool_name": "iguana_demo_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "Notice",
+      "parameter": {
+        "name": "0560_notice01",
+        "path": "one_emotion/",
+        "triggerType": "Trigger",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 2,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "RangeAttack",
+      "parameter": {
+        "name": "0450_rangeattack01",
+        "path": "one_attack/",
+        "triggerType": "Trigger",
+        "trigger": "one_attack_trigger",
+        "value": {
+          "int_name": "one_attack_int",
+          "int": 3,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Refresh",
+      "parameter": {
+        "name": "0320_refresh01",
+        "path": "one_emotion/",
+        "triggerType": "Trigger",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 4,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Roar",
+      "parameter": {
+        "name": "0300_roar01",
+        "path": "one_attack/",
+        "triggerType": "Trigger",
+        "trigger": "one_attack_trigger",
+        "value": {
+          "int_name": "one_attack_int",
+          "int": 4,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Sleep",
+      "parameter": {
+        "name": "0281_sleep01_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 1,
+          "bool_name": "loop_emotion_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "Sleep02",
+      "parameter": {
+        "name": "5281_sleep02_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Event",
+        "trigger": "",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 7,
+          "bool_name": "loop_emotion_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "Sleep02Eat",
+      "parameter": {
+        "name": "5294_eat02_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Event",
+        "trigger": "",
+        "value": {
+          "int_name": "",
+          "int": 0,
+          "bool_name": "loop_emotion_event_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "Sleep02EatEnd",
+      "parameter": {
+        "name": "05281_sleep02_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Event",
+        "trigger": "",
+        "value": {
+          "int_name": "",
+          "int": 0,
+          "bool_name": "loop_emotion_event_bool",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "Sleep02OnceHead",
+      "parameter": {
+        "name": "5283_oncehead01",
+        "path": "loop_emotion/",
+        "triggerType": "Event",
+        "trigger": "loop_emotion_event_trigger",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 7,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "SmallDamage",
+      "parameter": {
+        "name": "0500_damage01",
+        "path": "damage/",
+        "triggerType": "Trigger",
+        "trigger": "damage_trigger",
+        "value": {
+          "int_name": "damage_int",
+          "int": 1,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop01",
+      "parameter": {
+        "name": "sad01_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 4,
+          "bool_name": "loop_emotion_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop02",
+      "parameter": {
+        "name": "0584_fear01_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 5,
+          "bool_name": "loop_emotion_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop03",
+      "parameter": {
+        "name": "0587_frisk01_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 6,
+          "bool_name": "loop_emotion_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop04",
+      "parameter": {
+        "name": "reserved01_loop",
+        "path": "loop_emotion/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "loop_emotion_int",
+          "int": 7,
+          "bool_name": "loop_emotion_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "UniqueOnce01",
+      "parameter": {
+        "name": "distrust01",
+        "path": "one_emotion/",
+        "triggerType": "Trigger",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 5,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "UniqueOnce02",
+      "parameter": {
+        "name": "learn01",
+        "path": "one_emotion/",
+        "triggerType": "Trigger",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 6,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "UniqueOnce03",
+      "parameter": {
+        "name": "reserved01",
+        "path": "one_emotion/",
+        "triggerType": "NONE",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 7,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "UniqueOnce04",
+      "parameter": {
+        "name": "reserved01",
+        "path": "one_emotion/",
+        "triggerType": "NONE",
+        "trigger": "one_emotion_trigger",
+        "value": {
+          "int_name": "one_emotion_int",
+          "int": 8,
+          "bool_name": "",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "WildBool01",
+      "parameter": {
+        "name": "0271_wild_bool01_loop",
+        "path": "wild_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "wild_int",
+          "int": 1,
+          "bool_name": "wild_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "WildBool02",
+      "parameter": {
+        "name": "0261_wild_bool02_loop",
+        "path": "wild_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "wild_int",
+          "int": 2,
+          "bool_name": "wild_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "WildBool03",
+      "parameter": {
+        "name": "5011_dance01_loop",
+        "path": "wild_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "value": {
+          "int_name": "wild_int",
+          "int": 3,
+          "bool_name": "wild_bool",
+          "bool": true
+        }
+      }
+    },
+    {
+      "state": "WildShot01",
+      "parameter": {
+        "name": "0330_wild_shot01",
+        "path": "wild_shot/",
+        "triggerType": "Trigger",
+        "trigger": "wild_trigger",
+        "value": {
+          "int_name": "wild_int",
+          "int": 1,
+          "bool_name": "wild_bool",
+          "bool": false
+        }
+      }
+    },
+    {
+      "state": "WildShot02",
+      "parameter": {
+        "name": "0340_wild_shot02",
+        "path": "wild_shot",
+        "triggerType": "Trigger",
+        "trigger": "wild_trigger",
+        "value": {
+          "int_name": "wild_int",
+          "int": 2,
+          "bool_name": "wild_bool",
+          "bool": false
+        }
+      }
+    }
+  ]
+}

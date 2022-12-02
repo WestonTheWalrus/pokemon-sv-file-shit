@@ -1,0 +1,836 @@
+{
+  "values": [
+    {
+      "Key": "PL_RUN_LEAF",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_leaf.ptcl"
+    },
+    {
+      "Key": "PL_LAND_LEAF",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_leaf_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLID_LEAF",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_leaf.ptcl"
+    },
+    {
+      "Key": "PL_RUN_GRS",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_grass.ptcl"
+    },
+    {
+      "Key": "PL_LAND_GRS",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_grass_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLID_GRS",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_grass.ptcl"
+    },
+    {
+      "Key": "PL_RUN_SOIL",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_soil.ptcl"
+    },
+    {
+      "Key": "PL_LAND_SOIL",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_soil_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLD_SOIL",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_soil.ptcl"
+    },
+    {
+      "Key": "PL_RUN_SAND",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_sand.ptcl"
+    },
+    {
+      "Key": "PL_LAND_SAND",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_sand_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLD_SAND",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_sand.ptcl"
+    },
+    {
+      "Key": "PL_RUN_MUD",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_mud.ptcl"
+    },
+    {
+      "Key": "PL_LAND_MUD",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_mud_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLD_MUD",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_mud.ptcl"
+    },
+    {
+      "Key": "PL_RUN_SHOAL",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_shoal.ptcl"
+    },
+    {
+      "Key": "PL_LAND_SHOAL",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_shoal_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLD_SHOAL",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_shoal.ptcl"
+    },
+    {
+      "Key": "PL_LAND_RIVER",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_river_normal.ptcl"
+    },
+    {
+      "Key": "PL_RUN_SNOW",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_snow.ptcl"
+    },
+    {
+      "Key": "PL_LAND_SNOW",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_snow_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLD_SNOW",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_snow.ptcl"
+    },
+    {
+      "Key": "PL_RUN_RAIN",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_rain.ptcl"
+    },
+    {
+      "Key": "PL_LAND_RAIN",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_rain_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLD_RAIN",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_rain.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_LEAF",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_run_leaf.ptcl"
+    },
+    {
+      "Key": "RD_LAND_LEAF",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_leaf_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_LEAF",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_leaf_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_LEAF",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_leaf_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_LEAF",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_leaf_large.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_GRS",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_grass.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_GRS",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_grass.ptcl"
+    },
+    {
+      "Key": "RD_LAND_GRS",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_grass_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_GRS",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_grass_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_GRS",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_grass_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_GRS",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_grass_large.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_SOIL",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_soil.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_SOIL",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_soil.ptcl"
+    },
+    {
+      "Key": "RD_LAND_SOIL",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_soil_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_SOIL",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_soil_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_SOIL",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_soil_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_SOIL",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_soil_large.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_SAND",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_sand.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_SAND",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_sand.ptcl"
+    },
+    {
+      "Key": "RD_LAND_SAND",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_sand_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_SAND",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_sand_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_SAND",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_sand_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_SAND",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_sand_large.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_MUD",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_mud.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_MUD",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_mud.ptcl"
+    },
+    {
+      "Key": "RD_LAND_MUD",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_mud_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_MUD",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_mud_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_MUD",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_mud_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_MUD",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_mud_large.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_shoal.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_shoal.ptcl"
+    },
+    {
+      "Key": "RD_LAND_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_shoal_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_shoal_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_shoal_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_shoal_large.ptcl"
+    },
+    {
+      "Key": "RD_LAND_RIVER",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_river_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_RIVER",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_river_large.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_SNOW",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_snow.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_SNOW",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_snow.ptcl"
+    },
+    {
+      "Key": "RD_LAND_SNOW",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_snow_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_SNOW",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_snow_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_SNOW",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_snow_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_SNOW",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_snow_large.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_RAIN",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_rain.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_RAIN",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_rain.ptcl"
+    },
+    {
+      "Key": "RD_LAND_RAIN",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_rain_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_RAIN",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_rain_large.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_GENE",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_general_large.ptcl"
+    },
+    {
+      "Key": "RD_LAND_SEA",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_sea_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_SEA",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_sea_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_SEA",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_sea_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_SEA",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_sea_large.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_F_DUST",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_f_dust.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_B_DUST",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_b_dust.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_F_SNOW",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_f_snow.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_B_SNOW",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_b_snow.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_F_WATER",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_f_water.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_B_WATER",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_b_water.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_F_SMOKE",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_f_smoke.ptcl"
+    },
+    {
+      "Key": "PL_CLIFF_B_SMOKE",
+      "FileName": "effect/field/chara/ef_chara_cliff/ef_chara_cliff_b_smoke.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_F_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_f_dust.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_B_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_b_dust.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_F_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_f_dust.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_B_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_b_dust.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_F_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_f_snow.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_B_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_b_snow.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_F_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_f_snow.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_B_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_b_snow.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_F_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_f_water.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_B_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_b_water.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_F_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_f_water.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_B_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_b_water.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_F_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_f_smoke.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_B_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_ka_cliff_b_smoke.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_F_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_f_smoke.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_B_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff/ef_ride_mi_cliff_b_smoke.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_UP_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_up_dust.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DOWN_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_down_dust.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_UP_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_up_dust.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DOWN_DUST",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_down_dust.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_UP_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_up_snow.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DOWN_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_down_snow.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_UP_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_up_snow.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DOWN_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_down_snow.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_UP_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_up_water.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DOWN_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_down_water.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_UP_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_up_water.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DOWN_WATER",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_down_water.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_UP_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_up_smoke.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DOWN_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_ka_cliff_down_smoke.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_UP_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_up_smoke.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DOWN_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff_speed/ef_ride_mi_cliff_down_smoke.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DEBRIS_SOIL",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_ka_cliff_debris_soil.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DEBRIS_SOIL",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_mi_cliff_debris_soil.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DEBRIS_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_ka_cliff_debris_snow.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DEBRIS_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_mi_cliff_debris_snow.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DEBRIS_SAND",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_ka_cliff_debris_sand.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DEBRIS_SAND",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_mi_cliff_debris_sand.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DEBRIS_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_ka_cliff_debris_smoke.ptcl"
+    },
+    {
+      "Key": "RDF_CLIFF_DEBRIS_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_mi_cliff_debris_smoke.ptcl"
+    },
+    {
+      "Key": "RD_DASH_LEAF",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_dash_leaf.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_GRS",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_grass.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_MUD",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_mud.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_RAIN",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_rain.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_SAND",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_sand.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_shoal.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_SNOW",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_snow.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_SOIL",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_soil.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_GRS",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_grass.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_MUD",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_mud.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_RAIN",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_rain.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_SAND",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_sand.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_SHOAL",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_shoal.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_SNOW",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_snow.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_SOIL",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_soil.ptcl"
+    },
+    {
+      "Key": "RD_ON",
+      "FileName": "effect/field/ride/ef_ride_onoff/ef_ride_on.ptcl"
+    },
+    {
+      "Key": "RD_OFF",
+      "FileName": "effect/field/ride/ef_ride_onoff/ef_ride_off.ptcl"
+    },
+    {
+      "Key": "RD_GLIDING_WIND",
+      "FileName": "effect/field/ride/ef_ride_gliding/ef_ride_gliding_wind.ptcl"
+    },
+    {
+      "Key": "RD_GLIDING_TRAIL",
+      "FileName": "effect/field/ride/ef_ride_gliding/ef_ride_trail.ptcl"
+    },
+    {
+      "Key": "RD_TRANS_GROUND_SEA",
+      "FileName": "effect/field/ride/ef_ride_deform/ef_ride_ka_deform_ground_swim.ptcl"
+    },
+    {
+      "Key": "RD_TRANS_GROUND_SKY",
+      "FileName": "effect/field/ride/ef_ride_deform/ef_ride_ka_deform_ground_sky.ptcl"
+    },
+    {
+      "Key": "RD_TRANS_SEA_SKY",
+      "FileName": "effect/field/ride/ef_ride_deform/ef_ride_ka_deform_swim_sky.ptcl"
+    },
+    {
+      "Key": "RD_TRANS_SKY_SEA",
+      "FileName": "effect/field/ride/ef_ride_deform/ef_ride_ka_deform_sky_swim.ptcl"
+    },
+    {
+      "Key": "RD_TRANS_SKY_GROUND",
+      "FileName": "effect/field/ride/ef_ride_deform/ef_ride_ka_deform_sky_ground.ptcl"
+    },
+    {
+      "Key": "RD_WHISTLE",
+      "FileName": "effect/field/ride/ef_ride_howl/ef_ride_howl.ptcl"
+    },
+    {
+      "Key": "RD_STAMINA_DAWN",
+      "FileName": "effect/field/ride/ef_stamina_dawn/ef_stamina_dawn.ptcl"
+    },
+    {
+      "Key": "RD_COLDBREATH",
+      "FileName": "effect/field/ride/ef_ride_coldbreath/ef_ride_coldbreath.ptcl"
+    },
+    {
+      "Key": "PL_COLDBREATH",
+      "FileName": "effect/field/chara/ef_chara_coldbreath/ef_chara_coldbreath.ptcl"
+    },
+    {
+      "Key": "PL_ORDER",
+      "FileName": "effect/field/chara/ef_chara_followsign/ef_chara_followsign_sign.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_SEA",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_sea_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_SEA",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_sea_large.ptcl"
+    },
+    {
+      "Key": "RD_LAND_SEA",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_sea_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_SEA",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_sea_large.ptcl"
+    },
+    {
+      "Key": "RD_RUN_SEA",
+      "FileName": "effect/field/ride/ef_ride_sea/ef_ride_run_sea_normal.ptcl"
+    },
+    {
+      "Key": "RD_RUN_START_SEA",
+      "FileName": "effect/field/ride/ef_ride_sea/ef_ride_run_sea_start.ptcl"
+    },
+    {
+      "Key": "RD_RUN_HETA_SEA",
+      "FileName": "effect/field/ride/ef_ride_sea/ef_ride_run_sea_heta.ptcl"
+    },
+    {
+      "Key": "RD_IDLING_SEA",
+      "FileName": "effect/field/ride/ef_ride_sea/ef_ride_sea_idling.ptcl"
+    },
+    {
+      "Key": "RD_BACKFLOW",
+      "FileName": "effect/field/ride/ef_ride_backflow/ef_ride_backflow.ptcl"
+    },
+    {
+      "Key": "PL_BACKFLOW",
+      "FileName": "effect/field/chara/ef_chara_backflow/ef_chara_backflow.ptcl"
+    },
+    {
+      "Key": "RD_SHALLOW_SEA",
+      "FileName": "effect/field/ride/ef_ride_sea/ef_ride_shallow_sea.ptcl"
+    },
+    {
+      "Key": "RD_DASH_WIND",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_dash_wind.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_KARE_GRASS",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_kare_grass.ptcl"
+    },
+    {
+      "Key": "RDF_THRUSTER",
+      "FileName": "effect/field/ride/ef_ride_thruster/ef_ride_thruster.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_RAIN",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_rain_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_RAIN",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_rain_large.ptcl"
+    },
+    {
+      "Key": "PL_SHALLOW_SEA",
+      "FileName": "effect/field/chara/ef_chara_sea/ef_chara_shallow_sea.ptcl"
+    },
+    {
+      "Key": "PL_RUN_SEA",
+      "FileName": "effect/field/chara/ef_chara_sea/ef_chara_run_sea_normal.ptcl"
+    },
+    {
+      "Key": "PL_WITHSTAND_SEA",
+      "FileName": "effect/field/chara/ef_chara_sea/ef_chara_sea_withstand.ptcl"
+    },
+    {
+      "Key": "RD_ICE_GYM_SPEED_DOWN",
+      "FileName": "effect/field/gym/ice/ef_ride_speed_down.ptcl"
+    },
+    {
+      "Key": "RD_ICE_GYM_WIND",
+      "FileName": "effect/field/gym/ice/ef_ride_speedup_wind.ptcl"
+    },
+    {
+      "Key": "PL_IDLING_SEA",
+      "FileName": "effect/field/chara/ef_chara_sea/ef_chara_sea_idlling.ptcl"
+    },
+    {
+      "Key": "PL_FUNBARI_SEA",
+      "FileName": "effect/field/chara/ef_chara_sea/ef_chara_sea_funbari.ptcl"
+    },
+    {
+      "Key": "PL_LAND_SEA",
+      "FileName": "effect/field/chara/ef_chara_sea/ef_chara_sea_landing.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DRAGGING",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_ka_cliff_dragging_soil.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_TURN_SOIL",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_ka_dashturn_soil.ptcl"
+    },
+    {
+      "Key": "RDF_THRUSTER_WAIT",
+      "FileName": "effect/field/ride/ef_ride_thruster/ef_ride_thruster_wait.ptcl"
+    },
+    {
+      "Key": "RD_DASH_WIND_LOOP",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_dash_wind_loop.ptcl"
+    },
+    {
+      "Key": "RD_DASH_SEA",
+      "FileName": "effect/field/ride/ef_ride_sea/ef_ride_run_sea_dash.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_LEAF",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_leaf.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_LEAF",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_leaf.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_TURN_LEAF",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_dashturn_leaf.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_TURN_GRASS",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_ka_dashturn_grass.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_TURN_SAND",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_ka_dashturn_sand.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_TURN_SNOW",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_ka_dashturn_snow.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_TURN_RAIN",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_ka_dashturn_rain.ptcl"
+    },
+    {
+      "Key": "RDP_CLIFF_DRAGGING_SNOW",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_ka_cliff_dragging_snow.ptcl"
+    },
+    {
+      "Key": "RDP_CLIPP_DRAGGING_SMOKE",
+      "FileName": "effect/field/ride/ef_ride_cliff_debris/ef_ride_ka_cliff_dragging_smoke.ptcl"
+    },
+    {
+      "Key": "RDF_THRUSTER_AIR",
+      "FileName": "effect/field/ride/ef_ride_thruster/ef_ride_thruster_air.ptcl"
+    },
+    {
+      "Key": "RD_GLIDING_TRAIL_B",
+      "FileName": "effect/field/ride/ef_ride_gliding/ef_ride_trail_b.ptcl"
+    },
+    {
+      "Key": "PL_RUN_KARE_LEAF",
+      "FileName": "effect/field/chara/ef_chara_run/ef_chara_run_kare_leaf.ptcl"
+    },
+    {
+      "Key": "PL_LAND_KARE_LEAF",
+      "FileName": "effect/field/chara/ef_chara_landing/ef_chara_landing_kare_leaf_normal.ptcl"
+    },
+    {
+      "Key": "PL_SLD_KARE_LEAF",
+      "FileName": "effect/field/chara/ef_chara_sliding/ef_chara_sliding_kare_leaf.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_ka_run_kare_leaf.ptcl"
+    },
+    {
+      "Key": "RDF_RUN_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_run/ef_ride_mi_run_kare_leaf.ptcl"
+    },
+    {
+      "Key": "RD_LAND_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_landing_normal/ef_ride_landing_kare_leaf_normal.ptcl"
+    },
+    {
+      "Key": "RD_HILAND_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_landing_large/ef_ride_landing_kare_leaf_large.ptcl"
+    },
+    {
+      "Key": "RD_JUMP_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_jump_normal/ef_ride_jump_kare_leaf_normal.ptcl"
+    },
+    {
+      "Key": "RD_HIJUMP_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_jump_large/ef_ride_jump_kare_leaf_large.ptcl"
+    },
+    {
+      "Key": "RD_RUN_TURN_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_dashturn_kare_leaf.ptcl"
+    },
+    {
+      "Key": "RDP_DASH_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_ka_dash_kare_leaf.ptcl"
+    },
+    {
+      "Key": "RDF_DASH_KARE_LEAF",
+      "FileName": "effect/field/ride/ef_ride_dash/ef_ride_mi_dash_kare_leaf.ptcl"
+    },
+    {
+      "Key": "RDP_RUN_TURN_MUD",
+      "FileName": "effect/field/ride/ef_ride_dashturn/ef_ride_ka_dashturn_mud.ptcl"
+    },
+    {
+      "Key": "PL_FALL_SEA",
+      "FileName": "effect/field/chara/ef_chara_sea/ef_chara_sea_fall.ptcl"
+    }
+  ]
+}

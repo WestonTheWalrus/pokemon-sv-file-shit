@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "out_of_range_lower_x": 1750.0,
+      "out_of_range_lower_y": -645.0,
+      "out_of_range_lower_z": -3090.0,
+      "out_of_range_upper_x": 3000.0,
+      "out_of_range_upper_y": 120.0,
+      "out_of_range_upper_z": -1970.0
+    },
+    {
+      "out_of_range_lower_x": 2110.0,
+      "out_of_range_lower_y": 100.0,
+      "out_of_range_lower_z": -2030.0,
+      "out_of_range_upper_x": 2670.0,
+      "out_of_range_upper_y": 211.0,
+      "out_of_range_upper_z": -1460.0
+    },
+    {
+      "out_of_range_lower_x": -350.0,
+      "out_of_range_lower_y": -50.0,
+      "out_of_range_lower_z": -5500.0,
+      "out_of_range_upper_x": 5100.0,
+      "out_of_range_upper_y": 1000.0,
+      "out_of_range_upper_z": -300.0
+    },
+    {
+      "out_of_range_lower_x": -60.0,
+      "out_of_range_lower_y": -10.0,
+      "out_of_range_lower_z": -65.0,
+      "out_of_range_upper_x": 60.0,
+      "out_of_range_upper_y": 30.0,
+      "out_of_range_upper_z": 65.0
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "values": [
+    {
+      "motion": "Attack",
+      "type": "OneShot",
+      "name": "0400_attack01",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "BattleWait",
+      "type": "Wait",
+      "name": "0001_battlewait01_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "battle_wait_switch",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Bite",
+      "type": "OneShot",
+      "name": "0484_bite",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 9
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Body",
+      "type": "OneShot",
+      "name": "0480_body",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 5
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "DefaultWait",
+      "type": "Wait",
+      "name": "0000_defaultwait01_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "battle_wait_switch",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Eat",
+      "type": "Loop",
+      "name": "0291_eat01_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_emotion_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "loop_emotion_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Glad",
+      "type": "OneShot",
+      "name": "0550_glad01",
+      "animationConfig": {
+        "trigger": "one_emotion_trigger",
+        "intValue": {
+          "name": "one_emotion_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Hate",
+      "type": "OneShot",
+      "name": "0563_hate01",
+      "animationConfig": {
+        "trigger": "one_emotion_trigger",
+        "intValue": {
+          "name": "one_emotion_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Kick",
+      "type": "OneShot",
+      "name": "0482_kick",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 7
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Notice",
+      "type": "OneShot",
+      "name": "0560_notice01",
+      "animationConfig": {
+        "trigger": "one_emotion_trigger",
+        "intValue": {
+          "name": "one_emotion_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Punch",
+      "type": "OneShot",
+      "name": "0481_punch",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 6
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "RangeAttack",
+      "type": "OneShot",
+      "name": "0450_rangeattack01",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Refresh",
+      "type": "OneShot",
+      "name": "0320_refresh01",
+      "animationConfig": {
+        "trigger": "one_emotion_trigger",
+        "intValue": {
+          "name": "one_emotion_int",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "RangeAttack",
+      "type": "OneShot",
+      "name": "0300_roar01",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "Sleep",
+      "type": "Loop",
+      "name": "0281_sleep01_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "loop_emotion_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "loop_emotion_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "motion": "Tail",
+      "type": "OneShot",
+      "name": "0483_tail",
+      "animationConfig": {
+        "trigger": "one_attack_trigger",
+        "intValue": {
+          "name": "one_attack_int",
+          "value": 8
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "motion": "WildBool02",
+      "type": "Loop",
+      "name": "0261_wild_bool02_loop",
+      "animationConfig": {
+        "trigger": "",
+        "intValue": {
+          "name": "wild_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "wild_bool",
+          "value": true
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "values": [
+    {
+      "ID": "AKU",
+      "eventNpcSceneName": "ajito_aku_040_main",
+      "eventNpcObjName": "event_npc_ajito_aku_040_aku_boss",
+      "danClearQuestType": "Aku"
+    },
+    {
+      "ID": "DOKU",
+      "eventNpcSceneName": "ajito_doku_040_main",
+      "eventNpcObjName": "event_npc_ajito_doku_040_doku_boss",
+      "danClearQuestType": "Doku"
+    },
+    {
+      "ID": "FAIRY",
+      "eventNpcSceneName": "ajito_fairy_040_main",
+      "eventNpcObjName": "event_npc_ajito_fairy_040_fairy_boss",
+      "danClearQuestType": "Fairy"
+    },
+    {
+      "ID": "HONOO",
+      "eventNpcSceneName": "ajito_honoo_040_main",
+      "eventNpcObjName": "event_npc_ajito_honoo_040_honoo_boss",
+      "danClearQuestType": "Honoo"
+    },
+    {
+      "ID": "KAKUTOU",
+      "eventNpcSceneName": "ajito_kakutou_040_main",
+      "eventNpcObjName": "event_npc_ajito_kakutou_040_kakutou_boss",
+      "danClearQuestType": "Kakutou"
+    }
+  ]
+}

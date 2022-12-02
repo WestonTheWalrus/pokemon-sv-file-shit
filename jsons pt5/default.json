@@ -1,0 +1,8 @@
+{
+  "TreeNearBegin": 0.0,
+  "TreeNearEnd": 5.0,
+  "GrassNearBegin": 0.6,
+  "GrassNearEnd": 3.2,
+  "TreeFarBegin": 10000.0,
+  "TreeFarEnd": 10000.0
+}

@@ -1,0 +1,98 @@
+{
+  "bankNames": {
+    "bankName0": "BGM.bnk",
+    "bankName1": "ME.bnk",
+    "bankName2": "COMMON.bnk",
+    "bankName3": "DEMO.bnk",
+    "bankName4": "UI.bnk",
+    "bankName5": "VIB.bnk",
+    "bankName6": "ENV.bnk",
+    "bankName7": "",
+    "bankName8": "",
+    "bankName9": "",
+    "bankName10": "",
+    "bankName11": "",
+    "bankName12": "",
+    "bankName13": "",
+    "bankName14": "",
+    "bankName15": ""
+  },
+  "asyncBankNames": {
+    "bankName0": "PM.bnk",
+    "bankName1": "PL.bnk",
+    "bankName2": "BATTLE_SYSTEM.bnk",
+    "bankName3": "PROPS.bnk",
+    "bankName4": "NPC.bnk",
+    "bankName5": "PM_SKILLS.bnk",
+    "bankName6": "PM_VOICE.bnk",
+    "bankName7": "",
+    "bankName8": "",
+    "bankName9": "",
+    "bankName10": "",
+    "bankName11": "",
+    "bankName12": "",
+    "bankName13": "",
+    "bankName14": "",
+    "bankName15": ""
+  },
+  "packageNames": {
+    "packageName0": "Stream.pck",
+    "packageName1": "LooseMedia.pck",
+    "packageName2": "",
+    "packageName3": "",
+    "packageName4": "",
+    "packageName5": "",
+    "packageName6": "",
+    "packageName7": "",
+    "packageName8": "",
+    "packageName9": "",
+    "packageName10": "",
+    "packageName11": "",
+    "packageName12": "",
+    "packageName13": "",
+    "packageName14": "",
+    "packageName15": ""
+  },
+  "deviceThread": {
+    "affinityMask": 2,
+    "nxIdealCore": 1,
+    "nxPriority": 14,
+    "winPriority": 0
+  },
+  "engineThread": {
+    "affinityMask": 6,
+    "nxIdealCore": 2,
+    "nxPriority": 15,
+    "winPriority": 0
+  },
+  "outputManagerThread": {
+    "affinityMask": 6,
+    "nxIdealCore": 2,
+    "nxPriority": 15,
+    "winPriority": 0
+  },
+  "bankManagerThread": {
+    "affinityMask": 6,
+    "nxIdealCore": 2,
+    "nxPriority": 15,
+    "winPriority": 0
+  },
+  "opusDecoderThread": {
+    "affinityMask": 6,
+    "nxIdealCore": 2,
+    "nxPriority": 15,
+    "winPriority": 0
+  },
+  "monitorThread": {
+    "affinityMask": 6,
+    "nxIdealCore": 2,
+    "nxPriority": 15,
+    "winPriority": 0
+  },
+  "physicsLayer": 9,
+  "initEventName": "",
+  "useStreamCache": true,
+  "granularity": 131072,
+  "bankReadBufferSize": 262144,
+  "IOMemorySize": 4194304
+}

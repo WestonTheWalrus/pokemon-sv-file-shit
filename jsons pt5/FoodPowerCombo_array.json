@@ -1,0 +1,7654 @@
+{
+  "values": [
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "PEPPER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BAKED_CHORIZO",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_TOMATOES",
+          "SLICED_TOMATOES",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_HAM",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 90,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 85,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "TREASURE_SPICE_BITTER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_HAM",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 180,
+          "Ghost": 185,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "TREASURE_SPICE_SWEET",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_HAM",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 85,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 180,
+          "Ghost": 185,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "TREASURE_SPICE_SALTY",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_HAM",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 180,
+          "Ghost": 185,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "TREASURE_SPICE_SOUR",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_HAM",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 180,
+          "Ghost": 185,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "TREASURE_SPICE_UMAMI",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_HAM",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 180,
+          "Ghost": 185,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "TREASURE_SPICE_BITTER",
+          "PEPPER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "LETTUCE",
+          "FRIED_BACON",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 180,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "TREASURE_SPICE_SALTY",
+          "PEPPER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "LETTUCE",
+          "FRIED_BACON",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 180,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "TREASURE_SPICE_SWEET",
+          "PEPPER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "LETTUCE",
+          "FRIED_BACON",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 85,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 180,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "TREASURE_SPICE_SOUR",
+          "PEPPER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "LETTUCE",
+          "FRIED_BACON",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 180,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "TREASURE_SPICE_UMAMI",
+          "PEPPER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "LETTUCE",
+          "FRIED_BACON",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 180,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BERRY_JAM",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HALF_STRAWBERRY",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 90,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 80,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 85,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BERRY_JAM",
+          "YOGHURT",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HALF_STRAWBERRY",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 190,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 80,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 85,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BERRY_JAM",
+          "YOGHURT",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HALF_STRAWBERRY",
+          "CUTTED_PINE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 80,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 185,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 190,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BERRY_JAM",
+          "YOGHURT",
+          "TREASURE_SPICE_SWEET",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HALF_STRAWBERRY",
+          "CUTTED_PINE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 180,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 185,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 190,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "PEANUT_BUTTER",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 90,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 85,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "PEANUT_BUTTER",
+          "BUTTER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 80,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 85,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "PEANUT_BUTTER",
+          "BERRY_JAM",
+          "BUTTER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 185,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 190,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "PEANUT_BUTTER",
+          "BERRY_JAM",
+          "TREASURE_SPICE_UMAMI",
+          "BUTTER"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 85,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 185,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 180,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 190,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 90,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 80,
+          "Hagane": 0,
+          "Honoo": 85,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "WATERCRESS",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 190,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 80,
+          "Hagane": 0,
+          "Honoo": 85,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "WATERCRESS",
+          "BASIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 85,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 190,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 80,
+          "Mizu": 0,
+          "Kusa": 185,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "TREASURE_SPICE_SOUR",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "WATERCRESS",
+          "BASIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 190,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 180,
+          "Mizu": 0,
+          "Kusa": 185,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 90,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 0,
+          "Iwa": 85,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "BUTTER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 190,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 0,
+          "Iwa": 85,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "CREAM_CHEESE",
+          "BUTTER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 80,
+          "Hikou": 0,
+          "Doku": 185,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "CREAM_CHEESE",
+          "TREASURE_SPICE_SALTY",
+          "BUTTER"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 180,
+          "Hikou": 0,
+          "Doku": 185,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "KETCHUP",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BOILED_WHITE_SAUSAGE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 90,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 80,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 85,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "KETCHUP",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BOILED_WHITE_SAUSAGE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 80,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 85,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "KETCHUP",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BOILED_WHITE_SAUSAGE",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 80,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 185,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "KETCHUP",
+          "MUSTARD",
+          "TREASURE_SPICE_BITTER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BOILED_WHITE_SAUSAGE",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 185,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CURRY_POWEDER",
+          "MAYONNAISE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "RICE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 90,
+          "Kakutou": 80,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 85,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CURRY_POWEDER",
+          "MAYONNAISE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "RICE",
+          "JALAPENO",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 80,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CURRY_POWEDER",
+          "MAYONNAISE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "RICE",
+          "JALAPENO",
+          "SLICED_TOMATOES",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 185,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 80
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CURRY_POWEDER",
+          "MAYONNAISE",
+          "TREASURE_SPICE_UMAMI",
+          "NONE"
+        ],
+        "Ingredients": [
+          "RICE",
+          "JALAPENO",
+          "SLICED_TOMATOES",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 185
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "YOGHURT",
+          "WHIPPED_CREAM",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "ROUND_SLICED_APPLE",
+          "ROUND_SLICED_APPLE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 90,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 85,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "YOGHURT",
+          "WHIPPED_CREAM",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "ROUND_SLICED_APPLE",
+          "ROUND_SLICED_APPLE",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 190,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 85,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "YOGHURT",
+          "WHIPPED_CREAM",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "ROUND_SLICED_APPLE",
+          "ROUND_SLICED_APPLE",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "HALF_STRAWBERRY",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 190,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "YOGHURT",
+          "WHIPPED_CREAM",
+          "TREASURE_SPICE_SWEET",
+          "NONE"
+        ],
+        "Ingredients": [
+          "ROUND_SLICED_APPLE",
+          "ROUND_SLICED_APPLE",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "HALF_STRAWBERRY",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 180,
+          "Hikou": 190,
+          "Doku": 185,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "AVOCADO",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 90,
+          "Dragon": 80,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "AVOCADO",
+          "CUTTED_PINE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 190,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 80,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 85,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "AVOCADO",
+          "CUTTED_PINE",
+          "JALAPENO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 80,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 185,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "TREASURE_SPICE_SOUR",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "AVOCADO",
+          "CUTTED_PINE",
+          "JALAPENO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 180,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 185,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "AVOCADO",
+          "SMOKING_FISH_FILLETS",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 85,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 90,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "AVOCADO",
+          "SMOKING_FISH_FILLETS",
+          "SLICED_TOMATOES",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 80,
+          "Fairy": 85
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "AVOCADO",
+          "SMOKING_FISH_FILLETS",
+          "SLICED_TOMATOES",
+          "LETTUCE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 80,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "TREASURE_SPICE_SALTY",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "AVOCADO",
+          "SMOKING_FISH_FILLETS",
+          "SLICED_TOMATOES",
+          "LETTUCE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 180,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "KETCHUP",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 90,
+          "Jimen": 80,
+          "Iwa": 85,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "KETCHUP",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 190,
+          "Jimen": 80,
+          "Iwa": 85,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "KETCHUP",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "LETTUCE",
+          "BAKED_CHORIZO",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 190,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 185,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 80,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "KETCHUP",
+          "TREASURE_SPICE_BITTER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "LETTUCE",
+          "BAKED_CHORIZO",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 190,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 185,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "POTATO_SALAD",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_PAPRIKA",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 90,
+          "Ghost": 80,
+          "Hagane": 85,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "POTATO_SALAD",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_PAPRIKA",
+          "AVOCADO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 85,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "POTATO_SALAD",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_PAPRIKA",
+          "AVOCADO",
+          "SLICED_RED_ONION",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 185,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 80,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "TREASURE_SPICE_SWEET",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "POTATO_SALAD",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_PAPRIKA",
+          "AVOCADO",
+          "SLICED_RED_ONION",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 185,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CHILI_SAUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "JALAPENO",
+          "SLICED_ONION",
+          "BOILED_WHITE_SAUSAGE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 80,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 90,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CHILI_SAUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "JALAPENO",
+          "SLICED_ONION",
+          "BOILED_WHITE_SAUSAGE",
+          "SLICED_PIMENTO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 80,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 190,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CHILI_SAUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "JALAPENO",
+          "SLICED_ONION",
+          "BOILED_WHITE_SAUSAGE",
+          "SLICED_PIMENTO",
+          "WATERCRESS",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 80,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 185,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 190,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CHILI_SAUCE",
+          "TREASURE_SPICE_SOUR",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "JALAPENO",
+          "SLICED_ONION",
+          "BOILED_WHITE_SAUSAGE",
+          "SLICED_PIMENTO",
+          "WATERCRESS",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 185,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 190,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "MAYONNAISE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BOILED_EGG",
+          "SLICED_CUCUMBER",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 90,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 80,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 85,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "MAYONNAISE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BOILED_EGG",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_ONION",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 190,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 80,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 85,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "MAYONNAISE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BOILED_EGG",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_ONION",
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 190,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 80,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 185,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "MAYONNAISE",
+          "TREASURE_SPICE_SALTY",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BOILED_EGG",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_ONION",
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 190,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 185,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "SLICED_CHEESE",
+          "TORTILLA_DE_PATATAS",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 90,
+          "Hagane": 0,
+          "Honoo": 80,
+          "Mizu": 0,
+          "Kusa": 85,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "CURRY_POWEDER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "SLICED_CHEESE",
+          "TORTILLA_DE_PATATAS",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 80,
+          "Mizu": 0,
+          "Kusa": 85,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "CURRY_POWEDER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "SLICED_CHEESE",
+          "TORTILLA_DE_PATATAS",
+          "AVOCADO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 80,
+          "Hagane": 0,
+          "Honoo": 185,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "CURRY_POWEDER",
+          "TREASURE_SPICE_BITTER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "SLICED_CHEESE",
+          "TORTILLA_DE_PATATAS",
+          "AVOCADO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 185,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "SALT",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CHOPPED_CHERRY_TOMATOES",
+          "AVOCADO",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 90,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 80,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "SALT",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CHOPPED_CHERRY_TOMATOES",
+          "AVOCADO",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 85,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "SALT",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CHOPPED_CHERRY_TOMATOES",
+          "AVOCADO",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "SLICED_PICKLE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 185,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MARMALADE",
+          "SALT",
+          "TREASURE_SPICE_UMAMI",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CHOPPED_CHERRY_TOMATOES",
+          "AVOCADO",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "SLICED_PICKLE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 185,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "FRIED_BACON",
+          "LETTUCE",
+          "SLICED_TOMATOES",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 90,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 80,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 85
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "FRIED_BACON",
+          "LETTUCE",
+          "SLICED_TOMATOES",
+          "BASIL",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 85,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 80
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "FRIED_BACON",
+          "LETTUCE",
+          "SLICED_TOMATOES",
+          "BASIL",
+          "SLICED_CHEESE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 185,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 80
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "TREASURE_SPICE_SWEET",
+          "NONE"
+        ],
+        "Ingredients": [
+          "FRIED_BACON",
+          "LETTUCE",
+          "SLICED_TOMATOES",
+          "BASIL",
+          "SLICED_CHEESE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 185
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "KETCHUP",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "FRIED_FISH",
+          "POTATO_SALAD",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 90,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 85,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "KETCHUP",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "FRIED_FISH",
+          "POTATO_SALAD",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 85,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "KETCHUP",
+          "HORSE_RADISH",
+          "NONE"
+        ],
+        "Ingredients": [
+          "FRIED_FISH",
+          "POTATO_SALAD",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "KETCHUP",
+          "HORSE_RADISH",
+          "TREASURE_SPICE_UMAMI"
+        ],
+        "Ingredients": [
+          "FRIED_FISH",
+          "POTATO_SALAD",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 185,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "SLICED_HAM",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 85,
+          "Kakutou": 90,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 80,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "SLICED_HAM",
+          "CURED_HAM",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 190,
+          "Hikou": 85,
+          "Doku": 0,
+          "Jimen": 80,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "SLICED_HAM",
+          "CURED_HAM",
+          "JALAPENO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 80,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 185
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MAYONNAISE",
+          "MUSTARD",
+          "TREASURE_SPICE_SALTY",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PICKLE",
+          "SLICED_HAM",
+          "CURED_HAM",
+          "JALAPENO",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 180,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 185
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CREAM_CHEESE",
+          "PEPPER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 90,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 85,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CREAM_CHEESE",
+          "PEPPER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "AVOCADO",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 0,
+          "Hagane": 85,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CREAM_CHEESE",
+          "PEPPER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "AVOCADO",
+          "BASIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 80,
+          "Kusa": 0,
+          "Denki": 185,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "CREAM_CHEESE",
+          "PEPPER",
+          "SALT",
+          "TREASURE_SPICE_SALTY"
+        ],
+        "Ingredients": [
+          "SLICED_CHEESE",
+          "AVOCADO",
+          "BASIL",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 180,
+          "Kusa": 0,
+          "Denki": 185,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_ONION",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 90,
+          "Koori": 0,
+          "Dragon": 85,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "HORSE_RADISH",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_ONION",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 190,
+          "Koori": 0,
+          "Dragon": 85,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "HORSE_RADISH",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_ONION",
+          "WATERCRESS",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 190,
+          "Koori": 0,
+          "Dragon": 185,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "HORSE_RADISH",
+          "TREASURE_SPICE_SWEET"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_ONION",
+          "WATERCRESS",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 180,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 190,
+          "Koori": 0,
+          "Dragon": 185,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "WATERCRESS",
+          "NONE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 80,
+          "Koori": 0,
+          "Dragon": 85,
+          "Aku": 90,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "WATERCRESS",
+          "SLICED_RED_ONION",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 85,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "WATERCRESS",
+          "SLICED_RED_ONION",
+          "BASIL",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 80,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 185,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 190,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "PEPPER",
+          "SALT",
+          "TREASURE_SPICE_SALTY"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "WATERCRESS",
+          "SLICED_RED_ONION",
+          "BASIL",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 180,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 185,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 190,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "CUTTED_PINE",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 90,
+          "Kakutou": 0,
+          "Hikou": 80,
+          "Doku": 0,
+          "Jimen": 85,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "MARMALADE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "CUTTED_PINE",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 190,
+          "Kakutou": 0,
+          "Hikou": 80,
+          "Doku": 85,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "MARMALADE",
+          "YOGHURT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "CUTTED_PINE",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 80,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 190,
+          "Kakutou": 0,
+          "Hikou": 80,
+          "Doku": 185,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "MARMALADE",
+          "YOGHURT",
+          "TREASURE_SPICE_SWEET"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "CUTTED_PINE",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 190,
+          "Kakutou": 0,
+          "Hikou": 180,
+          "Doku": 185,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SMOKING_FISH_FILLETS",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 90,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 85,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SMOKING_FISH_FILLETS",
+          "POTATO_SALAD",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 85,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SMOKING_FISH_FILLETS",
+          "POTATO_SALAD",
+          "HAMBURG",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 80,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "TREASURE_SPICE_BITTER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CURED_HAM",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SMOKING_FISH_FILLETS",
+          "POTATO_SALAD",
+          "HAMBURG",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 190,
+          "Ghost": 0,
+          "Hagane": 185,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "SLICED_TOMATOES",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 90,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 80,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 85
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "WASABI_SAUCE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "SLICED_TOMATOES",
+          "LETTUCE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 80,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 85
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "WASABI_SAUCE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "SLICED_TOMATOES",
+          "LETTUCE",
+          "SLICED_YELLOW_PAPRIKA",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 80,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "WASABI_SAUCE",
+          "TREASURE_SPICE_UMAMI"
+        ],
+        "Ingredients": [
+          "CRAB_STICK",
+          "SLICED_TOMATOES",
+          "LETTUCE",
+          "SLICED_YELLOW_PAPRIKA",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 190,
+          "Denki": 180,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "BUTTER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 90,
+          "Kakutou": 0,
+          "Hikou": 80,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 85,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "BUTTER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "SLICED_CHEESE",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 190,
+          "Kakutou": 0,
+          "Hikou": 80,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 85,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "BUTTER",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "SLICED_CHEESE",
+          "BASIL",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 90,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 80,
+          "Kakutou": 0,
+          "Hikou": 185,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 190,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WHIPPED_CREAM",
+          "BUTTER",
+          "SALT",
+          "TREASURE_SPICE_SOUR"
+        ],
+        "Ingredients": [
+          "SLICED_BANANA",
+          "ROUND_SLICED_APPLE",
+          "SLICED_CHEESE",
+          "BASIL",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 185,
+          "Kakutou": 180,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 190,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "VINEGAR",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PIMENTO",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SLICED_CUCUMBER",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 90,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 85,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "VINEGAR",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PIMENTO",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_ONION",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 85,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "VINEGAR",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SLICED_PIMENTO",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_ONION",
+          "WATERCRESS",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 185,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "OLIVE_OIL",
+          "VINEGAR",
+          "TREASURE_SPICE_SALTY"
+        ],
+        "Ingredients": [
+          "SLICED_PIMENTO",
+          "CHOPPED_CHERRY_TOMATOES",
+          "SLICED_CUCUMBER",
+          "SLICED_RED_ONION",
+          "WATERCRESS",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 180,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 185,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "PEANUT_BUTTER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "TORTILLA_DE_PATATAS",
+          "FRIED_FISH",
+          "CURED_HAM",
+          "POTATO_SALAD",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 80,
+          "Ghost": 85,
+          "Hagane": 90,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "PEANUT_BUTTER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "TORTILLA_DE_PATATAS",
+          "FRIED_FISH",
+          "CURED_HAM",
+          "POTATO_SALAD",
+          "BOILED_WHITE_SAUSAGE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 85,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "PEANUT_BUTTER",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "TORTILLA_DE_PATATAS",
+          "FRIED_FISH",
+          "CURED_HAM",
+          "POTATO_SALAD",
+          "BOILED_WHITE_SAUSAGE",
+          "HAMBURG"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 185,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "PEANUT_BUTTER",
+          "TREASURE_SPICE_SOUR",
+          "NONE"
+        ],
+        "Ingredients": [
+          "TORTILLA_DE_PATATAS",
+          "FRIED_FISH",
+          "CURED_HAM",
+          "POTATO_SALAD",
+          "BOILED_WHITE_SAUSAGE",
+          "HAMBURG"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MUSTARD",
+          "CHILI_SAUCE",
+          "PEPPER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BAKED_CHORIZO",
+          "SLICED_ONION",
+          "SLICED_PIMENTO",
+          "NONE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 85,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 85,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 90,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 80,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MUSTARD",
+          "CHILI_SAUCE",
+          "PEPPER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BAKED_CHORIZO",
+          "SLICED_ONION",
+          "SLICED_PIMENTO",
+          "BASIL",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 190,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 85,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 80,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MUSTARD",
+          "CHILI_SAUCE",
+          "PEPPER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "BAKED_CHORIZO",
+          "SLICED_ONION",
+          "SLICED_PIMENTO",
+          "BASIL",
+          "JALAPENO",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 90,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 190,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 185,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 80,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "MUSTARD",
+          "CHILI_SAUCE",
+          "PEPPER",
+          "TREASURE_SPICE_UMAMI"
+        ],
+        "Ingredients": [
+          "BAKED_CHORIZO",
+          "SLICED_ONION",
+          "SLICED_PIMENTO",
+          "BASIL",
+          "JALAPENO",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 80,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 0
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 190,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 185,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "WASABI_SAUCE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "WATERCRESS",
+          "SLICED_YELLOW_PAPRIKA",
+          "SLICED_ONION",
+          "SLICED_TOMATOES",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 90,
+          "Esper": 80,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 85
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "WASABI_SAUCE",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "WATERCRESS",
+          "SLICED_YELLOW_PAPRIKA",
+          "SLICED_ONION",
+          "SLICED_TOMATOES",
+          "SLICED_CUCUMBER",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 190,
+          "Esper": 80,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 85
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "WASABI_SAUCE",
+          "MAYONNAISE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "WATERCRESS",
+          "SLICED_YELLOW_PAPRIKA",
+          "SLICED_ONION",
+          "SLICED_TOMATOES",
+          "SLICED_CUCUMBER",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 90,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 190,
+          "Esper": 80,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 185
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "WASABI_SAUCE",
+          "MAYONNAISE",
+          "TREASURE_SPICE_SWEET"
+        ],
+        "Ingredients": [
+          "WATERCRESS",
+          "SLICED_YELLOW_PAPRIKA",
+          "SLICED_ONION",
+          "SLICED_TOMATOES",
+          "SLICED_CUCUMBER",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 190,
+          "Esper": 180,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 185
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "HORSE_RADISH",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_TOMATOES",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "CUTTED_PINE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 90,
+          "Jimen": 80,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 85,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "HORSE_RADISH",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_TOMATOES",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "CUTTED_PINE",
+          "AVOCADO",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 85,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "HORSE_RADISH",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_TOMATOES",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "CUTTED_PINE",
+          "AVOCADO",
+          "SLICED_CHEESE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 90,
+          "EXP": 0,
+          "LOST_PROPERTY": 80,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 80,
+          "Jimen": 185,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "BUTTER",
+          "HORSE_RADISH",
+          "TREASURE_SPICE_BITTER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "SLICED_TOMATOES",
+          "ROUND_SLICED_KIWI_FRUIT",
+          "CUTTED_PINE",
+          "AVOCADO",
+          "SLICED_CHEESE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 85,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 185,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 190,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "OLIVE_OIL",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "WATERCRESS",
+          "BASIL",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 85,
+          "Koori": 90,
+          "Dragon": 0,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "OLIVE_OIL",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "WATERCRESS",
+          "BASIL",
+          "TOFU",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 85,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 190,
+          "Dragon": 0,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "OLIVE_OIL",
+          "SALT",
+          "NONE"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "WATERCRESS",
+          "BASIL",
+          "TOFU",
+          "SLICED_RED_ONION"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 80,
+          "Dragon": 0,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "VINEGAR",
+          "OLIVE_OIL",
+          "SALT",
+          "TREASURE_SPICE_UMAMI"
+        ],
+        "Ingredients": [
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "WATERCRESS",
+          "BASIL",
+          "TOFU",
+          "SLICED_RED_ONION"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 190,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 180,
+          "Dragon": 0,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WASABI_SAUCE",
+          "SALT",
+          "NONE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "TOFU",
+          "TOFU",
+          "RICE",
+          "LETTUCE",
+          "AVOCADO",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 85,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 90,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 80,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WASABI_SAUCE",
+          "SALT",
+          "HORSE_RADISH",
+          "NONE"
+        ],
+        "Ingredients": [
+          "TOFU",
+          "TOFU",
+          "RICE",
+          "LETTUCE",
+          "AVOCADO",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 85,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 190,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 80,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WASABI_SAUCE",
+          "SALT",
+          "HORSE_RADISH",
+          "NONE"
+        ],
+        "Ingredients": [
+          "TOFU",
+          "TOFU",
+          "RICE",
+          "LETTUCE",
+          "AVOCADO",
+          "WATERCRESS"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 90,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 190,
+          "Kakutou": 185,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 80,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "WASABI_SAUCE",
+          "SALT",
+          "HORSE_RADISH",
+          "TREASURE_SPICE_SALTY"
+        ],
+        "Ingredients": [
+          "TOFU",
+          "TOFU",
+          "RICE",
+          "LETTUCE",
+          "AVOCADO",
+          "WATERCRESS"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 190,
+          "Kakutou": 180,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 185,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "SLICED_RED_PAPRIKA",
+          "FRIED_BACON",
+          "SLICED_YELLOW_PAPRIKA",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 80,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 90,
+          "Esper": 85,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "SLICED_RED_PAPRIKA",
+          "FRIED_BACON",
+          "SLICED_YELLOW_PAPRIKA",
+          "JALAPENO",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 90,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 80,
+          "Esper": 85,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "SLICED_RED_PAPRIKA",
+          "FRIED_BACON",
+          "SLICED_YELLOW_PAPRIKA",
+          "JALAPENO",
+          "SLICED_BOILED_EGG"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 185,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 80,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "TREASURE_SPICE_SWEET"
+        ],
+        "Ingredients": [
+          "NOODLE",
+          "SLICED_RED_PAPRIKA",
+          "FRIED_BACON",
+          "SLICED_YELLOW_PAPRIKA",
+          "JALAPENO",
+          "SLICED_BOILED_EGG"
+        ],
+        "FoodPower": {
+          "EGG": 85,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 190,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "NOODLE",
+          "POTATO_SALAD",
+          "RICE",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 80,
+          "Hagane": 90,
+          "Honoo": 85,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "NOODLE",
+          "POTATO_SALAD",
+          "RICE",
+          "CRAB_STICK",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 0,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 85,
+          "Hagane": 190,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 80,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "NONE"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "NOODLE",
+          "POTATO_SALAD",
+          "RICE",
+          "CRAB_STICK",
+          "TOFU"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 85,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 80,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 190,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 185,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "OLIVE_OIL",
+          "SALT",
+          "CURRY_POWEDER",
+          "TREASURE_SPICE_BITTER"
+        ],
+        "Ingredients": [
+          "HAMBURG",
+          "NOODLE",
+          "POTATO_SALAD",
+          "RICE",
+          "CRAB_STICK",
+          "TOFU"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 80,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 185,
+          "Kakutou": 180,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 190,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 0,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "WASABI_SAUCE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "RICE",
+          "SMOKING_FISH_FILLETS",
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "NONE",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 80,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 90,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "WASABI_SAUCE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "RICE",
+          "SMOKING_FISH_FILLETS",
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "WATERCRESS",
+          "NONE"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 80,
+          "EXP": 90,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 0,
+          "ENCOUNT": 85
+        },
+        "PokeTypePower": {
+          "Normal": 80,
+          "Kakutou": 85,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 0,
+          "Dragon": 0,
+          "Aku": 190,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "WASABI_SAUCE",
+          "NONE"
+        ],
+        "Ingredients": [
+          "RICE",
+          "SMOKING_FISH_FILLETS",
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "WATERCRESS",
+          "CRAB_STICK"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 85,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 0,
+          "RARE": 0,
+          "GIGANT": 80,
+          "MIINIMUM": 0,
+          "ENCOUNT": 90
+        },
+        "PokeTypePower": {
+          "Normal": 185,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 190,
+          "Dragon": 0,
+          "Aku": 80,
+          "Fairy": 0
+        }
+      }
+    },
+    {
+      "Param": {
+        "Seasonings": [
+          "SALT",
+          "VINEGAR",
+          "WASABI_SAUCE",
+          "TREASURE_SPICE_SOUR"
+        ],
+        "Ingredients": [
+          "RICE",
+          "SMOKING_FISH_FILLETS",
+          "SMOKING_FISH_FILLETS",
+          "CRAB_STICK",
+          "WATERCRESS",
+          "CRAB_STICK"
+        ],
+        "FoodPower": {
+          "EGG": 0,
+          "CAPTURE": 0,
+          "EXP": 0,
+          "LOST_PROPERTY": 0,
+          "RAID": 0,
+          "ANOTHER_NAME": 90,
+          "RARE": 0,
+          "GIGANT": 0,
+          "MIINIMUM": 85,
+          "ENCOUNT": 80
+        },
+        "PokeTypePower": {
+          "Normal": 180,
+          "Kakutou": 0,
+          "Hikou": 0,
+          "Doku": 0,
+          "Jimen": 0,
+          "Iwa": 0,
+          "Mushi": 0,
+          "Ghost": 0,
+          "Hagane": 0,
+          "Honoo": 0,
+          "Mizu": 0,
+          "Kusa": 0,
+          "Denki": 0,
+          "Esper": 0,
+          "Koori": 190,
+          "Dragon": 0,
+          "Aku": 185,
+          "Fairy": 0
+        }
+      }
+    }
+  ]
+}

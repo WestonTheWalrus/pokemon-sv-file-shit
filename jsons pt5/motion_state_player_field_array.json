@@ -1,0 +1,837 @@
+{
+  "values": [
+    {
+      "state": "Beckoning",
+      "parameter": {
+        "name": "emotion01",
+        "path": "emotion01/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "emote_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "emote_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Book",
+      "parameter": {
+        "name": "book01",
+        "path": "event_action/book01/",
+        "triggerType": "Trigger",
+        "trigger": "event_action_trigger",
+        "intValue": {
+          "name": "event_action_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "BookEnd",
+      "parameter": {
+        "name": "book01_end",
+        "path": "book01/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "event_action_type_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "event_action_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "BookWait",
+      "parameter": {
+        "name": "bookwait01_loop",
+        "path": "book01/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "event_action_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "event_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Byebye",
+      "parameter": {
+        "name": "byebye",
+        "path": "byebye/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Cheer",
+      "parameter": {
+        "name": "emotion04",
+        "path": "emotion04/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "emote_type_int",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "emote_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Clap",
+      "parameter": {
+        "name": "emotion02",
+        "path": "emotion02/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "emote_type_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "emote_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "GetPass",
+      "parameter": {
+        "name": "getpass",
+        "path": "once_action/",
+        "triggerType": "Trigger",
+        "trigger": "once_action_trigger",
+        "intValue": {
+          "name": "once_action_type_int",
+          "value": 5
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Glad",
+      "parameter": {
+        "name": "glad",
+        "path": "glad/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Grief",
+      "parameter": {
+        "name": "grief",
+        "path": "grief/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 9
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "HalfSit",
+      "parameter": {
+        "name": "halfsit",
+        "path": "halfsit/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "HighPlace",
+      "parameter": {
+        "name": "highplace01_loop",
+        "path": "highplace_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "highplace_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Idle1",
+      "parameter": {
+        "name": "defaultidle01",
+        "path": "move/",
+        "triggerType": "Trigger",
+        "trigger": "idle01_trigger",
+        "intValue": {
+          "name": "upperbody_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Idle2",
+      "parameter": {
+        "name": "defaultidle02",
+        "path": "move/",
+        "triggerType": "Trigger",
+        "trigger": "idle02_trigger",
+        "intValue": {
+          "name": "upperbody_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Laugh",
+      "parameter": {
+        "name": "laugh",
+        "path": "laugh/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 10
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "No",
+      "parameter": {
+        "name": "no",
+        "path": "once_action/",
+        "triggerType": "Trigger",
+        "trigger": "once_action_trigger",
+        "intValue": {
+          "name": "once_action_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "PickupHigh",
+      "parameter": {
+        "name": "pickup_high",
+        "path": "once_action/pickup/",
+        "triggerType": "Trigger",
+        "trigger": "once_action_trigger",
+        "intValue": {
+          "name": "once_action_type_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "PickupLow",
+      "parameter": {
+        "name": "pickup_low",
+        "path": "once_action/pickup/",
+        "triggerType": "Trigger",
+        "trigger": "once_action_trigger",
+        "intValue": {
+          "name": "once_action_type_int",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "PickupMid",
+      "parameter": {
+        "name": "pickup_mid",
+        "path": "once_action/pickup/",
+        "triggerType": "Trigger",
+        "trigger": "once_action_trigger",
+        "intValue": {
+          "name": "once_action_type_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Prepare",
+      "parameter": {
+        "name": "grooming01",
+        "path": "event_action/",
+        "triggerType": "Trigger",
+        "trigger": "event_action_trigger",
+        "intValue": {
+          "name": "event_action_type_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Search",
+      "parameter": {
+        "name": "search",
+        "path": "search/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 5
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Share01",
+      "parameter": {
+        "name": "share01_loop",
+        "path": "share01/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "share01_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Share01End",
+      "parameter": {
+        "name": "share01_end",
+        "path": "share01/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "share01_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Share01Ready",
+      "parameter": {
+        "name": "eatwait01_loop",
+        "path": "share01/",
+        "triggerType": "Set",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Share02",
+      "parameter": {
+        "name": "share02_loop",
+        "path": "share02/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "share02_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Share02End",
+      "parameter": {
+        "name": "share02_end",
+        "path": "share02/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "share02_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Sit1",
+      "parameter": {
+        "name": "sit01_loop",
+        "path": "sit_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Sit1End",
+      "parameter": {
+        "name": "sit01_end",
+        "path": "sit_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Sit2Direct",
+      "parameter": {
+        "name": "sit02_loop",
+        "path": "sit_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Sit2Left",
+      "parameter": {
+        "name": "sit02_loop",
+        "path": "sit_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Sit2LeftEnd",
+      "parameter": {
+        "name": "sit02_l_end",
+        "path": "sit_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Sit2Right",
+      "parameter": {
+        "name": "sit02_loop",
+        "path": "sit_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Sit2RightEnd",
+      "parameter": {
+        "name": "sit02_r_end",
+        "path": "sit_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "sit_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "sit_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Surprise",
+      "parameter": {
+        "name": "emotion05",
+        "path": "emotion05/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "emote_type_int",
+          "value": 5
+        },
+        "boolValue": {
+          "name": "emote_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Think",
+      "parameter": {
+        "name": "think",
+        "path": "think/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_event_type",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "loop_event_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Throw",
+      "parameter": {
+        "name": "throw01",
+        "path": "once_action/",
+        "triggerType": "Trigger",
+        "trigger": "once_action_trigger",
+        "intValue": {
+          "name": "once_action_type_int",
+          "value": 6
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "ThumbUp",
+      "parameter": {
+        "name": "emotion03",
+        "path": "emotion03/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "emote_type_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "emote_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Totter",
+      "parameter": {
+        "name": "totter",
+        "path": "",
+        "triggerType": "Trigger",
+        "trigger": "totter_trigger",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop00",
+      "parameter": {
+        "name": "byebye",
+        "path": "byebye/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop01",
+      "parameter": {
+        "name": "halfsit",
+        "path": "halfsit/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 1
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop02",
+      "parameter": {
+        "name": "spin_r",
+        "path": "spin_r/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 2
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop03",
+      "parameter": {
+        "name": "spin_l",
+        "path": "spin_l/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 3
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop04",
+      "parameter": {
+        "name": "wash01",
+        "path": "wash01/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 4
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop05",
+      "parameter": {
+        "name": "wash02",
+        "path": "wash02/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 5
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "UniqueLoop06",
+      "parameter": {
+        "name": "loopaction01",
+        "path": "loopaction01/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "loop_action_type_int",
+          "value": 6
+        },
+        "boolValue": {
+          "name": "loop_action_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "Wait",
+      "parameter": {
+        "name": "defaultwait01",
+        "path": "move/",
+        "triggerType": "Wait",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Withstand",
+      "parameter": {
+        "name": "withstand_loop",
+        "path": "withstand01_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "upperbody_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "withstand_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "WithstandEnd",
+      "parameter": {
+        "name": "withstand_end",
+        "path": "withstand01_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "withstand_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Yes",
+      "parameter": {
+        "name": "yes",
+        "path": "once_action/",
+        "triggerType": "Trigger",
+        "trigger": "once_action_trigger",
+        "intValue": {
+          "name": "once_action_type_int",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    }
+  ]
+}

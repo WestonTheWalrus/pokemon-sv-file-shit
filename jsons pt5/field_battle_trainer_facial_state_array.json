@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "State": "Win",
+      "FacialLabel": "Win",
+      "EnableLookAt": true,
+      "EnableEyeBlink": false,
+      "Seconds": 2.0,
+      "TriggerAnim": {
+        "trigger": "",
+        "intName": "",
+        "intValue": 0
+      }
+    }
+  ]
+}

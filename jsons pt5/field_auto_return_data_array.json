@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "auto_return_fall_time": 5.0,
+      "auto_return_slide_time": 5.0,
+      "auto_return_move_amount": 5.0,
+      "auto_return_tilt_angle": 30.0,
+      "cliff_return_heavy_landing_height": 10.0,
+      "cliff_return_invalid_distance": 15.0
+    }
+  ]
+}

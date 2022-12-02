@@ -1,0 +1,251 @@
+{
+  "values": [
+    {
+      "name": "FIRE_M_SOUND",
+      "eventName": "PLAY_ENV_POS_FIRE_S_LP",
+      "stopEventName": "STOP_ENV_POS_FIRE_S_LP",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 3.0,
+      "color": {
+        "R": 255,
+        "G": 0,
+        "B": 0
+      }
+    },
+    {
+      "name": "FIRE_S_SOUND",
+      "eventName": "PLAY_ENV_POS_FIRE_S_LP",
+      "stopEventName": "STOP_ENV_POS_FIRE_S_LP",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 1.5,
+      "color": {
+        "R": 255,
+        "G": 0,
+        "B": 0
+      }
+    },
+    {
+      "name": "GRASS_DEAD",
+      "eventName": "PLAY_ENV_POS_GRASS_DEAD_RND",
+      "stopEventName": "STOP_ENV_POS_GRASS_DEAD_RND",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 100,
+        "G": 200,
+        "B": 80
+      }
+    },
+    {
+      "name": "GRASS_LAWN",
+      "eventName": "PLAY_ENV_POS_LAWN_LIGHT_RND",
+      "stopEventName": "STOP_ENV_POS_LAWN_LIGHT_RND",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 30,
+        "G": 200,
+        "B": 120
+      }
+    },
+    {
+      "name": "GRASS_M",
+      "eventName": "PLAY_ENV_POS_GRASS_M_RND",
+      "stopEventName": "STOP_ENV_POS_GRASS_M_RND",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 50,
+        "G": 200,
+        "B": 80
+      }
+    },
+    {
+      "name": "GRASS_SOUND",
+      "eventName": "PLAY_ENV_POS_FLOWER",
+      "stopEventName": "STOP_ENV_POS_FLOWER",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 50,
+        "G": 200,
+        "B": 120
+      }
+    },
+    {
+      "name": "GRASS_WATER",
+      "eventName": "PLAY_ENV_POS_GRASS_WATER_RND",
+      "stopEventName": "STOP_ENV_POS_GRASS_WATER_RND",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 0,
+        "G": 200,
+        "B": 150
+      }
+    },
+    {
+      "name": "GRASS_WHEAT",
+      "eventName": "PLAY_ENV_POS_WHEAT_LIGHT_RND",
+      "stopEventName": "STOP_ENV_POS_WHEAT_LIGHT_RND",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 30,
+        "G": 200,
+        "B": 80
+      }
+    },
+    {
+      "name": "LAKE_SOUND",
+      "eventName": "PLAY_ENV_POS_POND_M_LP",
+      "stopEventName": "STOP_ENV_POS_POND_M_LP",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 0,
+        "G": 225,
+        "B": 225
+      }
+    },
+    {
+      "name": "RIVER_SOUND",
+      "eventName": "PLAY_ENV_POS_RIVER_EDGE_M_LP",
+      "stopEventName": "STOP_ENV_POS_RIVER_EDGE_M_LP",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 0,
+        "G": 160,
+        "B": 225
+      }
+    },
+    {
+      "name": "SEA_SOUND",
+      "eventName": "PLAY_ENV_POS_OCEAN_COAST_M_RND",
+      "stopEventName": "STOP_ENV_POS_OCEAN_COAST_M_RND",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 40,
+        "G": 0,
+        "B": 225
+      }
+    },
+    {
+      "name": "SNOW_SOUND",
+      "eventName": "PLAY_ENV_POS_SNOW_FALL_S_RND",
+      "stopEventName": "STOP_ENV_POS_SNOW_FALL_S_RND",
+      "range": 30.0,
+      "interval": 10,
+      "heightOffset": 0.0,
+      "color": {
+        "R": 169,
+        "G": 169,
+        "B": 169
+      }
+    },
+    {
+      "name": "TREE_BAMBOO_L_SOUND",
+      "eventName": "PLAY_ENV_POS_WOOD_BAMBOO_L_RND",
+      "stopEventName": "STOP_ENV_POS_WOOD_BAMBOO_L_RND",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 4.0,
+      "color": {
+        "R": 55,
+        "G": 107,
+        "B": 47
+      }
+    },
+    {
+      "name": "TREE_BAMBOO_M_SOUND",
+      "eventName": "PLAY_ENV_POS_WOOD_BAMBOO_M_RND",
+      "stopEventName": "STOP_ENV_POS_WOOD_BAMBOO_M_RND",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 4.0,
+      "color": {
+        "R": 55,
+        "G": 107,
+        "B": 47
+      }
+    },
+    {
+      "name": "TREE_BAMBOO_S_SOUND",
+      "eventName": "PLAY_ENV_POS_WOOD_BAMBOO_S_RND",
+      "stopEventName": "STOP_ENV_POS_WOOD_BAMBOO_S_RND",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 4.0,
+      "color": {
+        "R": 55,
+        "G": 107,
+        "B": 47
+      }
+    },
+    {
+      "name": "TREE_L_SOUND",
+      "eventName": "PLAY_ENV_POS_TREE_M_RND",
+      "stopEventName": "STOP_ENV_POS_TREE_M_RND",
+      "range": 30.0,
+      "interval": 6,
+      "heightOffset": 12.0,
+      "color": {
+        "R": 55,
+        "G": 107,
+        "B": 47
+      }
+    },
+    {
+      "name": "TREE_PALM_SOUND",
+      "eventName": "PLAY_ENV_POS_WOOD_PALM_RND",
+      "stopEventName": "STOP_ENV_POS_WOOD_PALM_RND",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 10.0,
+      "color": {
+        "R": 55,
+        "G": 107,
+        "B": 47
+      }
+    },
+    {
+      "name": "TREE_S_SOUND",
+      "eventName": "PLAY_ENV_POS_TREE_M_RND",
+      "stopEventName": "STOP_ENV_POS_TREE_M_RND",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 2.0,
+      "color": {
+        "R": 55,
+        "G": 107,
+        "B": 47
+      }
+    },
+    {
+      "name": "TREE_SOUND",
+      "eventName": "PLAY_ENV_POS_TREE_M_RND",
+      "stopEventName": "STOP_ENV_POS_TREE_M_RND",
+      "range": 30.0,
+      "interval": 5,
+      "heightOffset": 4.0,
+      "color": {
+        "R": 55,
+        "G": 107,
+        "B": 47
+      }
+    }
+  ]
+}

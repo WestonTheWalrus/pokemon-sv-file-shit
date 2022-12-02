@@ -1,0 +1,6 @@
+{
+  "point_fetch_range": 50.0,
+  "point_release_range": 60.0,
+  "point_fetch_range_gem": 150.0,
+  "point_release_range_gem": 160.0
+}

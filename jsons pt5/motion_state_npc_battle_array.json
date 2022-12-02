@@ -1,0 +1,72 @@
+{
+  "values": [
+    {
+      "state": "BallReturn",
+      "parameter": {
+        "name": "ballreturn01_loop",
+        "path": "ball_return_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "ball_return_bool",
+          "value": true
+        }
+      }
+    },
+    {
+      "state": "BallReturnEnd",
+      "parameter": {
+        "name": "ballreturn01_end",
+        "path": "ball_return_bool/",
+        "triggerType": "Bool",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "ball_return_bool",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "BallThrow",
+      "parameter": {
+        "name": "ballthrow",
+        "path": "",
+        "triggerType": "Trigger",
+        "trigger": "ballthrow01_trigger",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    },
+    {
+      "state": "Wait",
+      "parameter": {
+        "name": "battlewait_loop",
+        "path": "wait/",
+        "triggerType": "Wait",
+        "trigger": "",
+        "intValue": {
+          "name": "",
+          "value": 0
+        },
+        "boolValue": {
+          "name": "",
+          "value": false
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "name": "a_t01_i02",
+      "pos_x": 0.0,
+      "pos_y": 0.34,
+      "pos_z": -4.875
+    },
+    {
+      "name": "first_boot_pos",
+      "pos_x": 2310.345947,
+      "pos_y": 50.530998,
+      "pos_z": -744.182983
+    },
+    {
+      "name": "gym_koori",
+      "pos_x": 0.0,
+      "pos_y": 0.0,
+      "pos_z": 0.0
+    },
+    {
+      "name": "gym_kusa",
+      "pos_x": 3756.917969,
+      "pos_y": 153.024002,
+      "pos_z": -1723.391968
+    },
+    {
+      "name": "gym_mushi",
+      "pos_x": 0.0,
+      "pos_y": 0.0,
+      "pos_z": 0.0
+    },
+    {
+      "name": "my_home_bed",
+      "pos_x": 11.64,
+      "pos_y": 4.25,
+      "pos_z": -0.87
+    }
+  ]
+}

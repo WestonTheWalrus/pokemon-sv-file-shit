@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "itemID": "ITEMID_ORIIBUOIRU",
+      "itemNum": 30,
+      "clearTimeMinutes": 0,
+      "clearTimeSeconds": 0,
+      "clearTimeMillisecond": 0,
+      "itemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_01",
+      "isClear": true
+    },
+    {
+      "itemID": "ITEMID_WAGIRIRINGO",
+      "itemNum": 10,
+      "clearTimeMinutes": 10,
+      "clearTimeSeconds": 0,
+      "clearTimeMillisecond": 0,
+      "itemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_02",
+      "isClear": false
+    },
+    {
+      "itemID": "ITEMID_KATTOPAIN",
+      "itemNum": 10,
+      "clearTimeMinutes": 5,
+      "clearTimeSeconds": 0,
+      "clearTimeMillisecond": 0,
+      "itemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_03",
+      "isClear": false
+    },
+    {
+      "itemID": "ITEMID_TEEBURUKABAA9",
+      "itemNum": 1,
+      "clearTimeMinutes": 2,
+      "clearTimeSeconds": 30,
+      "clearTimeMillisecond": 0,
+      "itemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_04",
+      "isClear": false
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "values": [
+    {
+      "LayerName": "attr_dairiseki",
+      "AttrKey": "dairiseki"
+    },
+    {
+      "LayerName": "attr_danbooru",
+      "AttrKey": "danbooru"
+    },
+    {
+      "LayerName": "attr_doro",
+      "AttrKey": "doro"
+    },
+    {
+      "LayerName": "attr_dummy",
+      "AttrKey": "dummy"
+    },
+    {
+      "LayerName": "attr_enbi",
+      "AttrKey": "enbi"
+    },
+    {
+      "LayerName": "attr_furooringu",
+      "AttrKey": "furooringu"
+    },
+    {
+      "LayerName": "attr_garasu",
+      "AttrKey": "garasu"
+    },
+    {
+      "LayerName": "attr_hana",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "attr_ishidatami",
+      "AttrKey": "ishidatami"
+    },
+    {
+      "LayerName": "attr_iwa",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "attr_jari",
+      "AttrKey": "jari"
+    },
+    {
+      "LayerName": "attr_kawara",
+      "AttrKey": "kawara"
+    },
+    {
+      "LayerName": "attr_ki",
+      "AttrKey": "ki"
+    },
+    {
+      "LayerName": "attr_ki_karui",
+      "AttrKey": "ki_karui"
+    },
+    {
+      "LayerName": "attr_konkuriito",
+      "AttrKey": "konkuriito"
+    },
+    {
+      "LayerName": "attr_koori",
+      "AttrKey": "koori"
+    },
+    {
+      "LayerName": "attr_kusamura",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "attr_kusamura_kare",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "attr_kusamura_yuki",
+      "AttrKey": "kusamura_yuki"
+    },
+    {
+      "LayerName": "attr_mizu_ike",
+      "AttrKey": "mizu_ike"
+    },
+    {
+      "LayerName": "attr_mizu_kawa",
+      "AttrKey": "mizu_kawa"
+    },
+    {
+      "LayerName": "attr_mizu_mizutamari",
+      "AttrKey": "mizu_mizutamari"
+    },
+    {
+      "LayerName": "attr_mizu_umi",
+      "AttrKey": "mizu_umi"
+    },
+    {
+      "LayerName": "attr_purasutikku",
+      "AttrKey": "purasutikku"
+    },
+    {
+      "LayerName": "attr_ragu",
+      "AttrKey": "ragu"
+    },
+    {
+      "LayerName": "attr_shiba",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "attr_shiba_kare",
+      "AttrKey": "shiba_kare"
+    },
+    {
+      "LayerName": "attr_shiba_yuki",
+      "AttrKey": "shiba_yuki"
+    },
+    {
+      "LayerName": "attr_suna_sabaku",
+      "AttrKey": "suna_sabaku"
+    },
+    {
+      "LayerName": "attr_suna_sunahama",
+      "AttrKey": "suna_sunahama"
+    },
+    {
+      "LayerName": "attr_takara",
+      "AttrKey": "takara"
+    },
+    {
+      "LayerName": "attr_takenoha",
+      "AttrKey": "takenoha"
+    },
+    {
+      "LayerName": "attr_tetsu",
+      "AttrKey": "tetsu"
+    },
+    {
+      "LayerName": "attr_tetsu_karui",
+      "AttrKey": "tetsu_karui"
+    },
+    {
+      "LayerName": "attr_tsuchi",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "attr_tsuchi_fuyoudo",
+      "AttrKey": "tsuchi_fuyoudo"
+    },
+    {
+      "LayerName": "attr_tsuchi_sado",
+      "AttrKey": "tsuchi_sado"
+    },
+    {
+      "LayerName": "attr_yuki",
+      "AttrKey": "yuki"
+    },
+    {
+      "LayerName": "attr_yuki_katai",
+      "AttrKey": "yuki_katai"
+    },
+    {
+      "LayerName": "plants_me_amapola01_pink",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_amapola01_red",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_amapola01_white",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_amapola02_pink",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_amapola02_red",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_brittlebush01_purple",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_brittlebush01_white",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_brittlebush02_yellow",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos01_blue",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos01_pink",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos01_yellow",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos02_blue",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos02_pink",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos02_yellow",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_01_orange",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_01_pink",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_01_pinkmix",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_01_purple",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_01_yellow",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_01_yellowmix",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_02_orange",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_02_pink",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_02_pinkmix",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_02_purple",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_02_yellow",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_cosmos03_02_yellowmix",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_desertweed03_snow",
+      "AttrKey": "shiba_yuki"
+    },
+    {
+      "LayerName": "plants_me_desertweed04_snow",
+      "AttrKey": "shiba_yuki"
+    },
+    {
+      "LayerName": "plants_me_desertweed06_snow",
+      "AttrKey": "shiba_yuki"
+    },
+    {
+      "LayerName": "plants_me_desertweed07_snow",
+      "AttrKey": "shiba_yuki"
+    },
+    {
+      "LayerName": "plants_me_lavender01_violet",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_level_grass01",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_level_grass31",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_level_grass81",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "plants_me_main_grass01",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass02",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass11",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass12",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass21",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "plants_me_main_grass22",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "plants_me_main_grass31",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass32",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass41",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass42",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass51",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass52",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass61",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "plants_me_main_grass62",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "plants_me_main_grass71",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass72",
+      "AttrKey": "kusamura"
+    },
+    {
+      "LayerName": "plants_me_main_grass81",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "plants_me_main_grass82",
+      "AttrKey": "kusamura_kare"
+    },
+    {
+      "LayerName": "plants_me_nasturtium01",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_nasturtium02",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_odori_red01",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_odori_yellow01",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_rockpurslane01_purple",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_rockpurslane02_white",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "plants_me_rockpurslane02_yellow",
+      "AttrKey": "hana"
+    },
+    {
+      "LayerName": "splat000_ground_grass01",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat001_ground_grass02",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat002_ground_grass03",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat003_ground_grass_deep01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat004_ground_grass_deep02",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat005_ground_grass_deep03",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat006_ground_grass_yellow01",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat007_ground_grass_yellow02",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat008_ground_grass_yellow03",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat009_ground_grass_dry01",
+      "AttrKey": "shiba_kare"
+    },
+    {
+      "LayerName": "splat010_ground_grass_dry02",
+      "AttrKey": "shiba_kare"
+    },
+    {
+      "LayerName": "splat011_ground_grass_area06_01",
+      "AttrKey": "shiba_kare"
+    },
+    {
+      "LayerName": "splat012_ground_grass_area06_02",
+      "AttrKey": "shiba_kare"
+    },
+    {
+      "LayerName": "splat015_ground_grass_forest01",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat016_ground_grass_forest02",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat017_ground_grass_forest03",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat018_ground_turf01",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat019_ground_farm01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat020_ground_farm02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat021_ground_desert01",
+      "AttrKey": "suna_sabaku"
+    },
+    {
+      "LayerName": "splat022_ground_desert02",
+      "AttrKey": "suna_sabaku"
+    },
+    {
+      "LayerName": "splat023_ground_desert03",
+      "AttrKey": "suna_sabaku"
+    },
+    {
+      "LayerName": "splat024_ground_wilderness03_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat025_ground_wilderness03_02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat026_gravel_wilderness03_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat027_gravel_wilderness03_02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat028_ground_bamboo01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat029_ground_bamboo02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat030_ground_pine01",
+      "AttrKey": "shiba_kare"
+    },
+    {
+      "LayerName": "splat031_ground_pine02",
+      "AttrKey": "shiba_kare"
+    },
+    {
+      "LayerName": "splat032_ground_mud01",
+      "AttrKey": "doro"
+    },
+    {
+      "LayerName": "splat033_ground_mud02",
+      "AttrKey": "doro"
+    },
+    {
+      "LayerName": "splat034_ground_snow01",
+      "AttrKey": "yuki"
+    },
+    {
+      "LayerName": "splat035_ground_snow02",
+      "AttrKey": "yuki"
+    },
+    {
+      "LayerName": "splat041_ground_sandy_beach01",
+      "AttrKey": "suna_sunahama"
+    },
+    {
+      "LayerName": "splat042_ground_sandy_beach02",
+      "AttrKey": "suna_sunahama"
+    },
+    {
+      "LayerName": "splat044_lead_grass01",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat049_lead_grass_forest01",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat050_lead_grass_pine01",
+      "AttrKey": "shiba"
+    },
+    {
+      "LayerName": "splat053_cliff_a_01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat054_cliff_a_02",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat056_cliff_b_01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat058_cliff_c_01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat059_cliff_c_02",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat060_cliff_d_01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat061_cliff_d_02",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat062_cliff_e_01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat063_cliff_e_02",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat064_cliff_wilderness03_01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat065_cliff_wilderness03_02",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat071_cliff_i_01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat079_path_area06_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat080_path_area08_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat081_path01_03",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat082_path01_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat083_path01_02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat084_path02_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat085_path02_02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat086_path03_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat087_path03_02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat088_path04_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat089_path04_02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat091_path_wilderness03_02",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat092_path_bamboo01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat093_path_pine01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat094_path_snow01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat095_path05_01",
+      "AttrKey": "tsuchi"
+    },
+    {
+      "LayerName": "splat099_river_bottom01",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat100_river_bottom02",
+      "AttrKey": "iwa"
+    },
+    {
+      "LayerName": "splat102_sea_bottom01",
+      "AttrKey": "tsuchi"
+    }
+  ]
+}
