@@ -1,0 +1,141 @@
+{
+  "Movement": {
+    "Ground": "GROUND",
+    "Water": "FLOATING",
+    "Sky": "NONE"
+  },
+  "BasicAction": {
+    "MorningActionID": "POP_AMPHIBIAN_MAIN_LAND_ACTIVE",
+    "NoonActionID": "POP_AMPHIBIAN_MAIN_LAND_ACTIVE",
+    "EveningActionID": "POP_AMPHIBIAN_MAIN_LAND_ACTIVE",
+    "NightActionID": "POP_AMPHIBIAN_MAIN_LAND_INAVTIVE",
+    "MidNightActionID": "POP_AMPHIBIAN_MAIN_LAND_INAVTIVE"
+  },
+  "InstinctAction": {
+    "EatingAction": {
+      "AddSpeed": 0.0,
+      "SubSpeed": 0.0,
+      "ActionID": "NONE"
+    },
+    "RestingAction": {
+      "AddSpeed": 0.0,
+      "SubSpeed": 0.0,
+      "ActionID": "NONE"
+    },
+    "SleepingAction": {
+      "AddSpeed": 0.5,
+      "SubSpeed": 0.5,
+      "ActionID": "LAND_SLEEPING_TREE_SHADE"
+    }
+  },
+  "PopProbability": {
+    "MorningProbability": {
+      "EatingProbability": -1,
+      "RestingProbability": -1,
+      "SleepingProbability": -1
+    },
+    "NoonProbability": {
+      "EatingProbability": -1,
+      "RestingProbability": -1,
+      "SleepingProbability": -1
+    },
+    "EveningProbability": {
+      "EatingProbability": -1,
+      "RestingProbability": -1,
+      "SleepingProbability": -1
+    },
+    "NightProbability": {
+      "EatingProbability": -1,
+      "RestingProbability": -1,
+      "SleepingProbability": -1
+    },
+    "MidNightProbability": {
+      "EatingProbability": -1,
+      "RestingProbability": -1,
+      "SleepingProbability": -1
+    }
+  },
+  "WeatherReaction": {
+    "SunnyActionID": "NONE",
+    "CloudyActionID": "NONE",
+    "RainActionID": "NONE",
+    "StormActionID": "NONE",
+    "SnowActionID": "NONE",
+    "SnowStormActionID": "NONE",
+    "DiamondDustActionID": "NONE",
+    "SandStormActionID": "NONE",
+    "MistActionID": "NONE"
+  },
+  "ObjectRecognition": {
+    "Conscious": {
+      "ViewingDistance": 10.0,
+      "ViewingAngle": 90.0,
+      "HearingDistance": 10.0
+    },
+    "Congnitive": {
+      "ViewingDistance": 5.0,
+      "ViewingAngle": 90.0,
+      "HearingDistance": 5.0
+    },
+    "PlayerReaction": {
+      "ThreatLevel": "FRIENDLY",
+      "ConsciousActionID": "NONE",
+      "CongnitiveActionID": "LOOK_AT_THE_GLANCE"
+    },
+    "PokemonReaction_1": {
+      "DevNo": "DEV_NULL",
+      "FormNo": 0,
+      "Sex": "DEFAULT",
+      "ThreatLevel": "NONE",
+      "ConsciousActionID": "NONE",
+      "CongnitiveActionID": "NONE"
+    },
+    "PokemonReaction_2": {
+      "DevNo": "DEV_NULL",
+      "FormNo": 0,
+      "Sex": "DEFAULT",
+      "ThreatLevel": "NONE",
+      "ConsciousActionID": "NONE",
+      "CongnitiveActionID": "NONE"
+    },
+    "PokemonReaction_3": {
+      "DevNo": "DEV_NULL",
+      "FormNo": 0,
+      "Sex": "DEFAULT",
+      "ThreatLevel": "NONE",
+      "ConsciousActionID": "NONE",
+      "CongnitiveActionID": "NONE"
+    },
+    "PokemonReaction_4": {
+      "DevNo": "DEV_NULL",
+      "FormNo": 0,
+      "Sex": "DEFAULT",
+      "ThreatLevel": "NONE",
+      "ConsciousActionID": "NONE",
+      "CongnitiveActionID": "NONE"
+    }
+  },
+  "BattleReaction": {
+    "BattleReactionID": "EXCLUSION_AREA_ESCAPE_RUN_ESCAPE_RANGE",
+    "BattleHecklerReactionID": "NONE",
+    "SimpleBattleHecklerReactionID": "NONE",
+    "PreBattleActionID": "BEFORE_BATTLE_REACTION_EQUAL_ACTIONPOINT_TREE_ROOT"
+  },
+  "PlayerEscapedReactionID": "AFTER_BATTLE_REACTION",
+  "TreeShakingReactionID": "JUMP_DOWN_ACTION_POINT_OCCUPY_RELEASE_STAN",
+  "HomeRange": 20.0,
+  "AllowSuspend": false,
+  "IsRefereceSingleData": true,
+  "BattleReactionID": "EXCLUSION_AREA_ESCAPE_RUN_ESCAPE_RANGE",
+  "EvolutionActionID": "NONE",
+  "SoundRecognition": {
+    "WhistlingReaction": {
+      "HearingDistance": 0.0,
+      "ActionID": "NONE"
+    },
+    "RoarReaction": {
+      "HearingDistance": 0.0,
+      "ActionID": "NONE"
+    }
+  }
+}
